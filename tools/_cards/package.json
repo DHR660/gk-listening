@@ -1,1 +1,1 @@
-{"name":"cards","private":true,"dependencies":{"puppeteer-core":"^25.16.0"}}
+﻿{ "name": "cards", "private": true }
