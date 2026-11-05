@@ -1,4 +1,8 @@
 ﻿# 推送到 GitHub（本地仓库已经提交好，只差远程 + push）
+#
+# Windows 默认禁止运行脚本。如果直接运行报 "running scripts is disabled"，改用：
+#   powershell -NoProfile -ExecutionPolicy Bypass -File .\推送到GitHub.ps1 -RepoUrl https://github.com/你的用户名/gk-listening.git
+#
 # 用法：
 #   .\推送到GitHub.ps1 -RepoUrl https://github.com/<你的用户名>/gk-listening.git
 #   .\推送到GitHub.ps1 -RepoUrl git@github.com:<你的用户名>/gk-listening.git
