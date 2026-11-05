@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-03",
+  "title": "2026届高三英语听力仿真训练（03）｜健康运动",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届皖南八校高三第一次联考（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: I'd like to join the gym. How much is it for students?\nM: Thirty pounds a month, but students get twenty percent off.\nW: So that's twenty-four pounds?\nM: That's right. It also includes the pool. And the first week is free.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How much will the woman pay each month?",
+              "options": {
+                "A": "£20.",
+                "B": "£30.",
+                "C": "£24."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: I'm trying to cut down on soft drinks.\nW: Good for you. I stopped drinking them last year.\nM: Really? Was it hard?\nW: The first week was, but now I don't miss them at all. Water is enough for me.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How does the woman feel about giving up soft drinks?",
+              "options": {
+                "A": "She is glad she did it.",
+                "B": "She regrets it.",
+                "C": "She finds it impossible."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: You look exhausted. Did you sleep badly?\nM: I went to bed at half past twelve and got up at six.\nW: That's only five and a half hours. You should try to be in bed by eleven.\nM: I know, but I had a lot of homework.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How long did the man sleep?",
+              "options": {
+                "A": "Six hours.",
+                "B": "Five and a half hours.",
+                "C": "Six and a half hours."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Are you coming swimming with us on Saturday?\nW: I'd love to, but my shoulder still hurts from the tennis match.\nM: Then maybe just come and watch. The pool has a café.\nW: All right. I'll take some photos and cheer you on.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What will the woman do on Saturday?",
+              "options": {
+                "A": "Go swimming.",
+                "B": "Watch her friends.",
+                "C": "Play tennis."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Doctor, I've had a stomach ache since yesterday.\nM: What did you eat before it started?\nW: I had a cheese sandwich and two cups of coffee.\nM: Try plain food today and drink more water. Come back if it gets worse.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What does the doctor advise the woman to do?",
+              "options": {
+                "A": "Take two pills.",
+                "B": "Stay in bed.",
+                "C": "Change her diet."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hello, City Gym. How can I help?\nM: I'd like to book a place in the evening yoga class.\nW: The six o'clock class is full, but we have space at half past five.\nM: How long does that class last?\nW: It starts at half past five and ends at a quarter to seven. That's seventy-five minutes.\nM: Good. I'll take it. Is the teacher the same?\nW: Yes, Anna teaches both classes. We also have a Sunday class.\nM: I finish work at five, so the time works well.\nW: Please arrive ten minutes early. Do you have your own mat?\nM: No. Can I rent one?\nW: Yes, for one pound.\nM: Great. My name is David Clark.\nW: Thank you, David. See you tomorrow, David.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "When does the yoga class start?",
+              "options": {
+                "A": "At 5:30.",
+                "B": "At 6:00.",
+                "C": "At 6:45."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "How long is the class?",
+              "options": {
+                "A": "60 minutes.",
+                "B": "70 minutes.",
+                "C": "75 minutes."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: You've started cooking, haven't you? Your lunch looks different.\nM: Yes. I used to buy sandwiches every day, but I was always hungry by three.\nW: What do you make now?\nM: Rice, vegetables and some chicken. I cook enough on Sunday for three days.\nW: Doesn't it get boring?\nM: A little, so I change the sauce. It's cheaper too. I save about twenty pounds a week.\nW: Maybe I should try that. I spend too much on takeaway food.\nM: Start with one meal. You don't have to cook every day.\nW: Good idea. Could you send me the recipe you use?\nM: Sure. It's simple: rice, carrots, peas and chicken. I also take fruit to school for a snack.\nW: That sounds easy enough. I'll try it this weekend.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What did the man usually eat for lunch before?",
+              "options": {
+                "A": "Rice and vegetables.",
+                "B": "Sandwiches.",
+                "C": "Chicken."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "How does the man save money?",
+              "options": {
+                "A": "By cooking at home.",
+                "B": "By skipping lunch.",
+                "C": "By buying cheap sauces."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What does the man suggest the woman do first?",
+              "options": {
+                "A": "Cook every day.",
+                "B": "Buy a new pan.",
+                "C": "Start with one meal."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: I've been feeling tired all week. I fall asleep in class.\nW: Are you going to bed late?\nM: Around one. My roommate watches videos with the sound on.\nW: Have you asked him to use headphones?\nM: I did, but he forgets. I don't want to argue with him. I tried earplugs last night, but they fell out.\nW: You could talk to the dorm supervisor. Or ask to change rooms. A new room may really be the best answer.\nM: I'd rather solve it myself. Maybe I'll try earplugs again.\nW: That might help. But you also need a regular bedtime and less screen time.\nM: True. I'll set an alarm for eleven every night and put my phone away.\nW: Good. And no coffee after dinner, either.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "Why is the man so tired?",
+              "options": {
+                "A": "He has no roommate.",
+                "B": "He cannot sleep well.",
+                "C": "He misses breakfast."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "Why doesn't the man want to see the supervisor?",
+              "options": {
+                "A": "He prefers to solve it himself.",
+                "B": "He is afraid of his roommate.",
+                "C": "He thinks it costs money."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What does the woman advise the man to avoid?",
+              "options": {
+                "A": "Using headphones.",
+                "B": "Coffee after dinner.",
+                "C": "Arguing with others."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Coach, many people want to get fit but don't know where to start. What do you tell them?\nM: Start with walking. It's free, and almost everyone can do it. Walk for twenty minutes three times a week, then build up.\nW: Should people buy special shoes?\nM: Good shoes matter, but you don't need the most expensive pair. Comfort is the key.\nW: What mistake do beginners make?\nM: They do too much in the first week. Then they feel sore and stop. Rest is part of training.\nW: How do you stay motivated?\nM: I train with a friend. We talk while we run, so it feels like meeting someone rather than exercising.\nW: Any advice for someone who hates running?\nM: Try swimming or cycling. The best exercise is the one you will keep doing.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What does the coach suggest beginners do first?",
+              "options": {
+                "A": "Buy expensive shoes.",
+                "B": "Run every day.",
+                "C": "Start with walking."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "What does the coach say about running shoes?",
+              "options": {
+                "A": "Comfort is most important.",
+                "B": "They must be expensive.",
+                "C": "They are not necessary."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What mistake do beginners often make?",
+              "options": {
+                "A": "They rest too much.",
+                "B": "They exercise too much at first.",
+                "C": "They run alone."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "How does the coach stay motivated?",
+              "options": {
+                "A": "By keeping a diary.",
+                "B": "By watching races.",
+                "C": "By training with a friend."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Good afternoon, students. Next week is Health Week at our school. On Monday, a doctor will talk about sleep and why teenagers need eight to ten hours a night. The talk begins at four in the library. On Wednesday, the cooking club will show you how to make a healthy lunch in twenty minutes. You can taste the food, but you must sign up at the school office by Tuesday. On Friday, there will be a fun run around the sports field. It starts at three and lasts about forty minutes. You don't need to be fast; walking is fine too. Remember to bring a water bottle. Parents are welcome to watch. All events are free, and they will be fun. I hope you will join us and learn something useful.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What is the Monday talk about?",
+              "options": {
+                "A": "Sleep.",
+                "B": "Cooking.",
+                "C": "Running."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What must students do to join the cooking activity?",
+              "options": {
+                "A": "Bring lunch.",
+                "B": "Pay a fee.",
+                "C": "Sign up by Tuesday."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "How does the speaker sound when inviting students?",
+              "options": {
+                "A": "Proud.",
+                "B": "Encouraging.",
+                "C": "Strict."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

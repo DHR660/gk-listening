@@ -1,0 +1,299 @@
+{
+  "id": "gk2021-jia",
+  "title": "2021年普通高等学校招生全国统一考试 英语听力（全国甲卷）",
+  "exam": "全国甲卷",
+  "year": 2021,
+  "source": "https://www.tesoon.com/resource/detail?rid=107796",
+  "answerSource": "https://zy.21cnjy.com/12851845",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2021年全国甲卷与全国乙卷使用同一套听力录音与试题，为避免重复，题库中只保留这一套，甲/乙卷通用。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Excuse me, I got lost. I took a bus to the city hall, but I can't find the place.\nW: This is the concert hall, not the city hall. To go there, you should take the bus at Grand Hotel over there.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What is the man doing?",
+              "options": {
+                "A": "Asking the way.",
+                "B": "Giving directions.",
+                "C": "Correcting a mistake."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Can I help you?\nW: I'm looking for a size twelve dress.\nM: Oh, let me see. An eight, a ten. Ah, you're lucky. I have the prettiest dress here in a twelve. Why don't you try it on?",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What dress size does the woman want?",
+              "options": {
+                "A": "8.",
+                "B": "10.",
+                "C": "12."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Do you think you can take care of everything in the office today?\nM: No problem. Just go home and take a rest. If there is anything I feel I cannot handle, I'll call you.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What is the woman likely to do?",
+              "options": {
+                "A": "Make a phone call.",
+                "B": "Handle the problem.",
+                "C": "Have a rest."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: We have a half-day tour, a full-day tour and an evening tour. Which one would you like?\nM: What is the schedule of the half-day tour?\nW: It sets out at 8:30 a.m. and returns at 2:00 p.m.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "Which tour does the man seem to be interested in?",
+              "options": {
+                "A": "The evening tour.",
+                "B": "The half-day tour.",
+                "C": "The full-day tour."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Now, what seems to be the trouble, Mrs. Stevens?\nW: I've been very dizzy lately. And last night, I had some chest pain.\nM: Don't worry. Let me have a look.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Where are the speakers?",
+              "options": {
+                "A": "At a canteen.",
+                "B": "At a clinic.",
+                "C": "At a bank."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Wow. That was a great match. I really like watching tennis games.\nM: Me too. I think tennis is an exciting sport.\nW: I think so. Do you play tennis, John?\nM: Yes, but not very well. Do you play?\nW: A little. How about a game on Tuesday afternoon?\nM: Sure.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the woman think of the match?",
+              "options": {
+                "A": "Entertaining.",
+                "B": "Discouraging.",
+                "C": "Boring."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "What do the speakers plan to do on Tuesday afternoon?",
+              "options": {
+                "A": "Watch a game.",
+                "B": "Play tennis.",
+                "C": "Go to the cinema."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Mrs. White, I'm afraid we have to put you on a strict diet. From now on, you're going to have to stay away from salty food.\nW: Does that mean I can't have any more fast food?\nM: Right. You can't have any fried food or steaks.\nW: What about breakfast food like eggs and sausages?\nM: Those are all bad for you. But you can have porridge, bread and orange juice.\nW: Well, what about lunch and dinner?\nM: Have a salad for lunch. As for dinner, you can have all the vegetables you want. Fish and chicken are also okay.\nW: What about dessert? Can I still have ice cream?\nM: Yes, but not too much.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the man advise Mrs. White to do?",
+              "options": {
+                "A": "Go on a diet.",
+                "B": "Do more exercise.",
+                "C": "Get enough sleep."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "Which can be included in Mrs. White's breakfast?",
+              "options": {
+                "A": "Eggs.",
+                "B": "Sausages.",
+                "C": "Porridge."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What is the man?",
+              "options": {
+                "A": "A teacher.",
+                "B": "A physician.",
+                "C": "A chef."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Hi, Nancy! You look worried. What's wrong?\nW: Well, Daniel, have you ever felt nervous on stage?\nM: Sure. Do you remember that play I was in a few years ago? I knew my lines, but I was terrified to have to recite them in front of an audience. As soon as I saw the crowd of people down there, my heart beat so fast that I was unable to say a single word.\nW: That's how I feel just thinking about the spelling competition next week.\nM: I didn't know you made it to the finals.\nW: I'm worried I'll get nervous and freeze on stage. I might forget how to spell everything, even my own name. I don't know what to do.\nM: Nancy, I know that you're not going to forget how to spell your name. I'll help you get through this. I'll go to the school hall with you to practice. Then I'll teach you an exercise my baseball coach taught me. Believe me. It works.\nW: I feel much better now. Thanks, Daniel.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How does Nancy look to Daniel?",
+              "options": {
+                "A": "Confused.",
+                "B": "Excited.",
+                "C": "Anxious."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "Why does Daniel mention his performance in a play?",
+              "options": {
+                "A": "To comfort Nancy.",
+                "B": "To express his regret.",
+                "C": "To show his pride."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What is Nancy going to do next week?",
+              "options": {
+                "A": "Take a school test.",
+                "B": "Have a check-up.",
+                "C": "Go in for a competition."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 14,
+              "text": "What does Daniel offer to do for Nancy?",
+              "options": {
+                "A": "Rewrite her lines.",
+                "B": "Drive her to the theatre.",
+                "C": "Help her with the practice."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Hello, ladies and gentlemen! Today, we have invited Prof. Stone to talk about the role of elderly people in our society. Welcome to our show, Prof. Stone.\nM: To begin with, I'd like to tell a story from my own life. Several years ago, when my grandparents were well into their 80s, they were no longer able to care for themselves very well. My grandfather was afraid of leaving the only home they had known for the past 60 years. The idea of having to sell their home and move into a retirement home was an extremely painful experience for them. Indeed, old age for them, and many old Americans, can mean not only the possible failure of one's health, but the loss of identity and self-worth.\nW: Yes, it's true. What do you have to say about the problem of old age?\nM: Many experts have given talks here that have focused on the medical care, and the development of public services for senior citizens. Today, I'd like to focus my comments on the meaningful roles that the elderly can play and should play in our society.",
+          "questions": [
+            {
+              "no": 15,
+              "text": "What was Prof. Stone's grandfather afraid of?",
+              "options": {
+                "A": "Leaving his home.",
+                "B": "Parting from his son.",
+                "C": "Taking early retirement."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What does old age mean to many elderly Americans?",
+              "options": {
+                "A": "Lack of moral support.",
+                "B": "Loss of self-worth.",
+                "C": "Change of living habits."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What will Prof. Stone talk about next concerning elderly people?",
+              "options": {
+                "A": "Public services they ask for.",
+                "B": "Health care available to them.",
+                "C": "Contributions they can make."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Talking about personal relationships, well, I'd naturally think of my relationship with my mother. Whenever I need help, my mother is always there for me. She often tells me that I can be anyone I want, as long as I'm confident of myself. She sees my talent and pushes me to do the best I possibly can. As I was growing up, we were often on the move. I had to admit that moving so often made me feel lonely. But my mother did everything she could to help me feel happy. In fact, so much traveling was really a good thing because it made us close. I respect my mother so much as she never treats me as a child, but as an equal. She gives me the freedom to make mistakes and to learn from them all. Unlike friendships that can fade or break, I know I'll always be connected to my mother no matter what I face. She is not just a role model, but someone I love.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What does the speaker's mother want her to be?",
+              "options": {
+                "A": "A confident person.",
+                "B": "A warm-hearted person.",
+                "C": "A humorous person."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "Why did the speaker feel lonely in her childhood?",
+              "options": {
+                "A": "She often traveled by herself.",
+                "B": "Her family moved frequently.",
+                "C": "Her mother was busy working."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker mainly talk about?",
+              "options": {
+                "A": "Importance of home schooling.",
+                "B": "Mother-daughter relationship.",
+                "C": "A role model in her family."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-12",
+  "title": "2026届高三英语听力仿真训练（12）｜城市骑行",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Excuse me, do you know how to unlock one of these shared bikes?\nM: Sure. Scan the code on the lock, and the app asks you to confirm. It's one yuan for half an hour.\nW: That's cheap. Is there a place I have to leave it?\nM: Yes, only in the marked areas, or you may be fined.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What is the woman asking about?",
+              "options": {
+                "A": "Where to buy a bike.",
+                "B": "How to pay a fine.",
+                "C": "How to use a shared bike."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: You shouldn't ride without a light at night. It's dangerous.\nW: I know, but my light was broken.\nM: The bike shop near the corner repairs them for ten yuan. It takes five minutes.\nW: Then I'll go there tomorrow morning.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What will the woman do tomorrow morning?",
+              "options": {
+                "A": "Buy a new bike.",
+                "B": "Get her light repaired.",
+                "C": "Take a different route."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Since the bike lanes were added, I've ridden to work every day.\nM: Me too. The air feels cleaner, though that may just be my imagination.\nW: It isn't. The city says car use has dropped by a fifth this year.\nM: If that's true, it's good news.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What is the man unsure about?",
+              "options": {
+                "A": "Whether the air has really improved.",
+                "B": "Whether the lanes are wide enough.",
+                "C": "Whether he should ride to work."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: How long does it take you to cycle to school?\nM: About twenty minutes. Before, the bus took thirty-five minutes.\nW: So you save a quarter of an hour each way, then?\nM: Yes, and I get some exercise too.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "How much time does the man save on each trip?",
+              "options": {
+                "A": "10 minutes.",
+                "B": "15 minutes.",
+                "C": "20 minutes."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Someone has left a shared bike right in front of our shop again.\nW: You should report it in the app. They usually move it within an hour.\nM: I've reported it twice and nothing happened.\nW: Then try calling the company. Their number is on the bike.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the man complaining about?",
+              "options": {
+                "A": "A slow mobile app.",
+                "B": "A wrong charge.",
+                "C": "Bikes blocking his shop."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: I'm thinking of renting a bike for a month instead of buying one.\nM: Good idea. How much is it?\nW: Ninety yuan a month, and repairs are free.\nM: That's less than the bus. My monthly bus card costs a hundred and twenty.\nW: I'll start on Monday. What do I need to bring?\nM: Your ID card and a deposit of two hundred yuan. You get it back when you return the bike.\nW: Good. And how long can I keep the bike?\nM: At least one month. Many students keep theirs for a year.\nW: Does the bike come with anything else?\nM: A helmet and a strong lock.\nW: Fine. Where do I pick it up?\nM: At the bike station near the east gate. It opens at eight.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "How much does the woman pay for the bike each month?",
+              "options": {
+                "A": "120 yuan.",
+                "B": "90 yuan.",
+                "C": "200 yuan."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What does the man say about the deposit?",
+              "options": {
+                "A": "It is returned after the rental.",
+                "B": "It covers repair costs.",
+                "C": "It is paid every month."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: The new bike lane along River Road is finished. Have you tried it?\nW: Not yet. Is it faster?\nM: Much faster. The lane is four kilometres long, and I do it in twelve minutes. Before, I had to go around the park, which added two kilometres.\nW: But isn't River Road busy with cars?\nM: The lane is separated from the traffic by a low wall, so it feels safe.\nW: I might try it on Sunday, but my bike has been in the garage for months.\nM: Then take it to the shop on Bridge Street first. They check bikes for free this week.\nW: Really? For free?\nM: Yes, but they'll charge you if a part needs changing.\nW: Good. I'll go there on Saturday, then ride the lane on Sunday.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "How long is the new bike lane?",
+              "options": {
+                "A": "2 kilometres.",
+                "B": "4 kilometres.",
+                "C": "6 kilometres."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "Why does the man feel safe riding there?",
+              "options": {
+                "A": "There is little traffic.",
+                "B": "Cars are not allowed.",
+                "C": "The lane has a low wall."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What will the woman do first?",
+              "options": {
+                "A": "Have her bike checked.",
+                "B": "Buy a new bike.",
+                "C": "Ride around the park."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Did you read the report on shared bikes in our city?\nW: Only the headline. Something about the number of users doubling?\nM: Not quite. Last year there were sixty thousand users. This year there are ninety thousand.\nW: That's still a big jump. Why?\nM: Shorter trips, I think. Most rides are under twenty minutes, and they cost less than a bus ticket.\nW: What about the problems? I've seen bikes lying in the river.\nM: The report says one in ten bikes is parked illegally. The city plans to add five hundred parking areas by June.\nW: Five hundred? Who pays for them?\nM: The companies, not the government. Riders will also be asked to use the marked areas.\nW: I hope so. The river looks terrible with bikes in it.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How many more users are there this year than last year?",
+              "options": {
+                "A": "60,000.",
+                "B": "30,000.",
+                "C": "90,000."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "What problem does the report mention?",
+              "options": {
+                "A": "Most rides are too long.",
+                "B": "Bikes are often stolen.",
+                "C": "One in ten bikes is badly parked."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "Who will pay for the new parking areas?",
+              "options": {
+                "A": "The bike companies.",
+                "B": "The government.",
+                "C": "The riders."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Are you still coming on the cycling trip on Saturday?\nM: I'd like to, but I'm not sure I can keep up. I haven't ridden much.\nW: Don't worry. We're taking the flat route along the river, about thirty kilometres. Last time the fast group did fifty.\nM: Thirty is still a lot for me. How long will it take?\nW: About three hours, with two stops. We leave at seven and should be back by noon.\nM: Seven? That's early.\nW: The heat gets bad after ten, and the ferry across the river stops running at eleven.\nM: There's a ferry?\nW: Yes. It takes twelve bikes at a time and costs five yuan each.\nM: All right. But I'm walking up any hills.\nW: There are no hills here. Just bring water and a helmet.\nM: Do I need to book a place?\nW: No, I've booked for eight. You'll be the ninth, so text me tonight when you're sure.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What worries the man about the trip?",
+              "options": {
+                "A": "The distance.",
+                "B": "The cost.",
+                "C": "The weather."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "When will the group set off?",
+              "options": {
+                "A": "At 10 a.m.",
+                "B": "At noon.",
+                "C": "At 7 a.m."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "How much will the group pay for the ferry?",
+              "options": {
+                "A": "45 yuan.",
+                "B": "25 yuan.",
+                "C": "60 yuan."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "What does the woman ask the man to do?",
+              "options": {
+                "A": "Bring a helmet.",
+                "B": "Text her tonight.",
+                "C": "Book his own place."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good morning, listeners. This is Radio City with news for cyclists. Next week is our city's Green Ride Week. From Monday to Friday, anyone who starts a shared bike ride before nine in the morning will get the first thirty minutes free. On Saturday there will be a family ride, starting at the East Park gate at half past nine. The route is ten kilometres, and children under twelve must ride with an adult. Helmets are required for everyone, and you can borrow one at the park for free. Please do not leave bikes on the pavement in front of shops; use the marked areas. Finally, if you have an old bike you no longer use, bring it to the park on Sunday. Our volunteers will repair it and give it to a student in need.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "When is the free riding offer available?",
+              "options": {
+                "A": "Before 9 a.m., Monday to Friday.",
+                "B": "All day at weekends.",
+                "C": "After 5 p.m. every day."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What is required of children on the family ride?",
+              "options": {
+                "A": "They must be over twelve.",
+                "B": "They must ride with an adult.",
+                "C": "They must bring a helmet."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What will happen to the old bikes?",
+              "options": {
+                "A": "They will be sold in the park.",
+                "B": "They will be left at a shop.",
+                "C": "They will be given to students."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

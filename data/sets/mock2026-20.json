@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-20",
+  "title": "2026届高三英语听力仿真训练（20）｜职业体验",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: My cat has stopped eating and sleeps all day.\nM: Bring her in on Saturday morning. Dr. Wu is on duty then.\nW: How much is a check-up?\nM: Eighty yuan, and the medicine is extra.\nW: That's fine. I'll bring her at nine.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "When will the woman take her cat to the vet?",
+              "options": {
+                "A": "On Sunday morning.",
+                "B": "This afternoon.",
+                "C": "On Saturday morning."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: The school newspaper pays fifty yuan for each article.\nW: I've written four this term. So that's two hundred?\nM: Only three were printed. The fourth is still being checked.\nW: Still, that's more than my pocket money.\nM: You can collect the money on Friday.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How much will the woman get?",
+              "options": {
+                "A": "150 yuan.",
+                "B": "200 yuan.",
+                "C": "50 yuan."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: You want to be a journalist, don't you?\nM: I did. But after a week at the paper, I'm not sure. You write a story, and someone cuts it to three lines.\nW: That sounds frustrating.\nM: It is. But I still like asking questions. Maybe that part is worth it.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How does the man feel about working at the paper?",
+              "options": {
+                "A": "He is sure he wants to leave.",
+                "B": "He finds part of the work rewarding.",
+                "C": "He thinks the work is easy."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Are you coming to Career Day on Friday? An architect is speaking.\nM: Architecture? I thought I wanted to study medicine.\nW: You can still come. He's bringing models of the new library.\nM: All right. I'll sit at the back and listen.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What will the man do on Friday?",
+              "options": {
+                "A": "Give a talk about medicine.",
+                "B": "Visit a new library.",
+                "C": "Listen to an architect speak."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: My interview at the newspaper office is at half past two.\nW: The bus takes forty minutes, and you should be ten minutes early.\nM: So I'll leave at a quarter to two.\nW: Better make it half past one. The traffic is terrible after two.\nM: All right, half past one.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What time will the man leave?",
+              "options": {
+                "A": "At 1:30.",
+                "B": "At 1:45.",
+                "C": "At 2:20."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: I'd like to volunteer at the community library. What kind of work is there?\nM: We need people on Saturday afternoons to put books back on the shelves and help older readers with the computer.\nW: I'm not very good with computers.\nM: That's all right. We also need someone to read to children on Sunday mornings. Do you like children?\nW: Yes. I read to my little brother every night.\nM: How many hours each week?\nW: Two hours on Sunday would be fine.\nM: Good. The children are between four and seven, so keep the stories short.\nW: I have a book of short stories at home.\nM: We will show you the shelves first. Then come on Sunday at nine. The training takes half an hour, so bring your student card.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What will the woman do at the library?",
+              "options": {
+                "A": "Repair computers.",
+                "B": "Read to children.",
+                "C": "Teach older readers English."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "When should the woman arrive on Sunday?",
+              "options": {
+                "A": "At 9:00.",
+                "B": "At 9:30.",
+                "C": "At 10:00."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Excuse me, Ms. Qian. You design schools. How long does a school take to build?\nW: Two years on average. One year of drawing and talking, one year of building.\nM: What is the hardest part?\nW: Listening. Teachers want quiet rooms; children want space to run. I have to find a plan that gives both.\nM: Do you need to be good at maths?\nW: It helps, but drawing and talking to people matter more. Half my work is in meetings.\nM: Do you ever visit the building site?\nW: Every week. I wear a hard hat and check that the windows are where the drawings say.\nM: What should I study at university, then?\nW: Architecture, of course. But take a course in art too, and learn to explain your ideas simply.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "How long does a school take to build?",
+              "options": {
+                "A": "One year.",
+                "B": "Two years.",
+                "C": "Three years."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What does Ms. Qian say is the hardest part of her job?",
+              "options": {
+                "A": "Drawing the plans.",
+                "B": "Listening to different needs.",
+                "C": "Working with numbers."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does Ms. Qian advise the student to learn?",
+              "options": {
+                "A": "To explain ideas simply.",
+                "B": "To draw faster.",
+                "C": "To manage money."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: You are twenty-six and already run a small animal clinic. Did you always want to be a vet?\nM: No. I wanted to be a farmer. But we had a sick dog when I was twelve, and the vet explained everything to my parents, calmly, in simple words. I decided I wanted to be that person.\nW: What is the hardest part of the job?\nM: The owners. The animals cannot tell me what hurts. I have to read a cat's tail and a dog's ears, and then explain to people why the treatment costs so much.\nW: Do you ever have to say no?\nM: Sometimes. Last month a family wanted an operation that would not help their old dog. We talked for an hour, and they chose to keep him comfortable instead.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What made the man decide to become a vet?",
+              "options": {
+                "A": "A vet's kindness when he was a boy.",
+                "B": "His family's farm.",
+                "C": "A programme on television."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "What does the man find hardest about his work?",
+              "options": {
+                "A": "Working with animals.",
+                "B": "The low pay.",
+                "C": "Communicating with owners."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What did the family decide to do last month?",
+              "options": {
+                "A": "To pay for the operation.",
+                "B": "To keep the dog comfortable.",
+                "C": "To send the dog away."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Mr. Gu, I keep changing my mind. One week I want to study medicine, the next I want to teach history.\nM: Both are good choices. Which do you enjoy more: the subject, or the people?\nW: I love history. But I also like explaining it. Last term I helped my cousin with her exam, and I was happier than I am in most classes.\nM: Then teaching might suit you better. Doctors help people too, but most of their day is with patients, not with ideas.\nW: My parents worry about the pay.\nM: Teachers earn less at the start, but the work is steady. And you can still study history for four years before you decide.\nW: So which programme should I apply for?\nM: Apply to both kinds of programmes if the deadlines allow. Visit a school and a hospital during the holiday, and talk to three people in each. Then write down what you missed.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What does the woman keep changing?",
+              "options": {
+                "A": "Her study habits.",
+                "B": "Her history notes.",
+                "C": "Her mind about her future job."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "What made the woman happy last term?",
+              "options": {
+                "A": "Helping her cousin with an exam.",
+                "B": "Visiting a hospital.",
+                "C": "Writing a history essay."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What does Mr. Gu say about teachers' pay?",
+              "options": {
+                "A": "It is higher than doctors'.",
+                "B": "It is lower at the start.",
+                "C": "It is the same in every school."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What does Mr. Gu suggest the woman do?",
+              "options": {
+                "A": "Choose medicine at once.",
+                "B": "Apply to only one programme.",
+                "C": "Visit workplaces and talk to people."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Yesterday I spent a day at a vet clinic for our work experience programme. I arrived at eight, and the first job was not exciting: six cages and the floor. Then a woman came in with a rabbit that had stopped eating. The vet let me hold it while she listened to its heart. My hands were shaking, and I was afraid of hurting it. She told me to hold it like a baby, close to my body. In the afternoon I watched an operation on a small dog. I could not see much, but I remember the quiet. Nobody talked unless it was necessary. At six I went home, tired and hungry. I still want to be a vet, but now I know the job is not only cats and dogs. It is also floors and cages.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What was the speaker's first job of the day?",
+              "options": {
+                "A": "Cleaning cages and the floor.",
+                "B": "Holding a rabbit.",
+                "C": "Watching an operation."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What did the vet tell the speaker to do?",
+              "options": {
+                "A": "Speak quietly to the dog.",
+                "B": "Wash her hands again.",
+                "C": "Hold the rabbit close to her."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "How does the speaker feel about the job now?",
+              "options": {
+                "A": "She has given up her plan.",
+                "B": "She understands the job better.",
+                "C": "She found the day boring."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>九宫格卡片 · 特色版</title>
+<style>
+  :root { --blue:#4f8bff; --green:#37d67a; --ink:#eaf0ff; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #000; font-family: "Microsoft YaHei", "PingFang SC", "Segoe UI", sans-serif; }
+  .card {
+    position: relative; width: 1080px; height: 1080px; overflow: hidden;
+    background: radial-gradient(1200px 700px at 15% -10%, #24508f 0%, transparent 55%),
+                radial-gradient(900px 600px at 105% 110%, #123a66 0%, transparent 60%),
+                linear-gradient(150deg, #0a1526 0%, #101f36 55%, #16263f 100%);
+    color: var(--ink); padding: 74px 74px; display: flex; flex-direction: column;
+  }
+  .card::before {
+    content: ""; position: absolute; inset: 0;
+    background-image: linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+    background-size: 72px 72px; pointer-events: none;
+  }
+  .glow { position: absolute; width: 560px; height: 560px; border-radius: 50%; filter: blur(96px); opacity: .32; pointer-events: none; }
+  .glow.a { background: #2f6bff; top: -200px; right: -130px; }
+  .glow.b { background: #12a150; bottom: -240px; left: -150px; opacity: .2; }
+
+  .top { display: flex; align-items: center; gap: 16px; position: relative; z-index: 3; }
+  .logo { width: 56px; height: 56px; border-radius: 16px; background: linear-gradient(135deg, #4f8bff, #1e5eff);
+          display: grid; place-items: center; font-size: 26px; font-weight: 900; color: #fff;
+          box-shadow: 0 12px 30px -10px rgba(79,139,255,.8); }
+  .brandname { font-size: 25px; font-weight: 800; letter-spacing: 1px; }
+  .brandname small { display: block; font-size: 14px; font-weight: 500; color: #8fa8ce; letter-spacing: 2.4px; margin-top: 4px; }
+  .page { margin-left: auto; font-size: 16px; color: #7d93b8; letter-spacing: 1px; }
+
+  .kicker { margin-top: 62px; display: inline-flex; align-items: center; gap: 10px; align-self: flex-start;
+            padding: 10px 20px; border-radius: 999px; border: 1px solid rgba(79,139,255,.45);
+            background: rgba(79,139,255,.14); color: #cfe0ff; font-size: 21px; font-weight: 700; letter-spacing: 1px; }
+  h1 { position: relative; z-index: 3; font-size: 96px; line-height: 1.16; letter-spacing: 2px; font-weight: 900; margin-top: 30px; }
+  h1 em { font-style: normal; color: #7fb0ff; }
+  h2 { position: relative; z-index: 3; font-size: 64px; line-height: 1.26; font-weight: 900; letter-spacing: 1px; margin-top: 22px; }
+  h2 em { font-style: normal; color: #7fb0ff; }
+  .sub { position: relative; z-index: 3; font-size: 28px; line-height: 1.7; color: #b6c8e6; margin-top: 22px; letter-spacing: .4px; }
+  .sub b { color: #fff; }
+
+  .badges { display: flex; gap: 13px; flex-wrap: wrap; margin-top: 28px; position: relative; z-index: 3; }
+  .badge { padding: 12px 22px; border-radius: 14px; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12);
+           font-size: 23px; font-weight: 700; color: #dbe7fb; }
+  .badge i { font-style: normal; color: var(--green); }
+
+  .shot-wrap { position: relative; z-index: 3; margin-top: 26px; border-radius: 20px; overflow: hidden;
+               border: 1px solid rgba(255,255,255,.14); box-shadow: 0 40px 80px -40px rgba(0,0,0,.9); }
+  .shot-wrap img { display: block; width: 100%; }
+  .shot-band { height: 300px; }
+  .shot-band img { width: 100%; height: auto; display: block; }
+  .shot-cap { margin-top: 13px; font-size: 20px; color: #7f93b3; letter-spacing: .5px; position: relative; z-index: 3; }
+
+  .stats { display: flex; gap: 34px; margin-top: 30px; position: relative; z-index: 3; flex-wrap: wrap; }
+  .stat b { display: block; font-size: 74px; line-height: 1; font-weight: 900; color: #fff; letter-spacing: -2px; }
+  .stat b i { font-style: normal; font-size: 28px; color: #7fb0ff; margin-left: 6px; letter-spacing: 0; }
+  .stat span { display: block; font-size: 20px; color: #8fa8ce; margin-top: 10px; letter-spacing: .5px; }
+
+  .steps { position: relative; z-index: 3; margin-top: 28px; display: flex; flex-direction: column; gap: 16px; }
+  .step { display: flex; gap: 18px; align-items: flex-start; }
+  .num { flex: none; min-width: 52px; height: 52px; padding: 0 12px; border-radius: 15px; background: rgba(79,139,255,.18);
+         border: 1px solid rgba(79,139,255,.42); color: #9cc2ff; display: grid; place-items: center;
+         font-size: 21px; font-weight: 900; letter-spacing: .5px; }
+  .step .txt { font-size: 28px; line-height: 1.48; color: #e2ecfb; padding-top: 5px; }
+  .step .txt small { display: block; font-size: 21px; color: #8ea6c8; margin-top: 4px; }
+
+  .quote { position: relative; z-index: 3; margin-top: 26px; font-size: 52px; line-height: 1.46; font-weight: 900; letter-spacing: 1px; }
+  .quote em { font-style: normal; color: #7fb0ff; }
+
+  .spacer { flex: 1; }
+  .foot { position: relative; z-index: 3; display: flex; align-items: center; gap: 13px; font-size: 21px; color: #7d93b8; }
+  .foot .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 5px rgba(55,214,122,.16); }
+  .stamp { position: absolute; right: 60px; bottom: 56px; z-index: 3; font-size: 19px; color: rgba(255,255,255,.32); letter-spacing: 3px; }
+  .tree { position: relative; z-index: 3; margin-top: 26px; padding: 22px 26px; border-radius: 16px;
+          background: rgba(0,0,0,.34); border: 1px solid rgba(255,255,255,.1);
+          font-family: ui-monospace, Consolas, "Cascadia Mono", monospace; font-size: 23px; line-height: 1.9; color: #a9c1e6; }
+  .tree b { color: #e7f0ff; font-weight: 700; }
+</style>
+</head>
+<body>
+
+<!-- 1 封面 -->
+<div class="card" id="c1">
+  <div class="glow a"></div><div class="glow b"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>LISTENING EXAM SIMULATOR</small></div>
+    <div class="page">1 / 9</div>
+  </div>
+  <div class="kicker">安徽 2026 外语听力 · 上机考试</div>
+  <h1>把听力机考<br><em>整套搬回家</em></h1>
+  <div class="sub">不是"多听几套题"的播放器<br>是把<b>题库、录音、考场、复盘</b>装进一台电脑</div>
+  <div class="badges">
+    <div class="badge"><i>37</i> 套现成题库</div>
+    <div class="badge"><i>740</i> 段音频</div>
+    <div class="badge">纸质书可导入</div>
+    <div class="badge">全离线</div>
+  </div>
+  <div class="spacer"></div>
+  <div class="foot"><span class="dot"></span>本地软件 · 无广告 · 数据不出本机</div>
+</div>
+
+<!-- 2 题库 -->
+<div class="card" id="c2">
+  <div class="glow a"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>READY TO GO</small></div>
+    <div class="page">2 / 9</div>
+  </div>
+  <h2>打开就能考，<em>不用再找资源</em></h2>
+  <div class="stats">
+    <div class="stat"><b>17<i>套</i></b><span>高考真题 2018–2026</span></div>
+    <div class="stat"><b>20<i>套</i></b><span>按 2026 新题型编写</span></div>
+    <div class="stat"><b>740<i>段</i></b><span>材料音 + 中文指令音</span></div>
+  </div>
+  <div class="sub">网上的听力音频要么收费、要么失效；这里的每套都配齐了录音、答案和原文，<b>选中就能开考</b>。</div>
+  <div class="shot-wrap shot-band" style="margin-top:20px"><img src="../../docs/01-home.png" alt="题库" style="margin-top:-268px"></div>
+  <div class="foot" style="margin-top:12px"><span class="dot"></span>含 2026 浙江首考那套"新规"真题</div>
+</div>
+
+<!-- 3 导入 -->
+<div class="card" id="c3">
+  <div class="glow b"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>YOUR OWN MATERIAL</small></div>
+    <div class="page">3 / 9</div>
+  </div>
+  <h2>纸质听力书，<em>扔进去就变机考题</em></h2>
+  <div class="steps" style="margin-top:22px">
+    <div class="step"><div class="num">1</div><div class="txt">粘贴文字，或导入 .txt / .docx<small>扫描版 PDF 里的文字也能复制</small></div></div>
+    <div class="step"><div class="num">2</div><div class="txt">自动切出"节—材料—题目—选项—答案—原文"<small>讲义式、试卷式两种排版都认</small></div></div>
+    <div class="step"><div class="num">3</div><div class="txt">识别不准还能手动改，改完直接进题库<small>不会写代码也能用</small></div></div>
+  </div>
+  <div class="shot-wrap" style="margin-top:18px"><img src="../../docs/05-import.png" alt="导入"></div>
+  <div class="foot" style="margin-top:12px"><span class="dot"></span>这是它最不像"播放器"的地方</div>
+</div>
+
+<!-- 4 配音 -->
+<div class="card" id="c4">
+  <div class="glow a"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>AI VOICE</small></div>
+    <div class="page">4 / 9</div>
+  </div>
+  <h2>只有文字？<em>现场给你配音</em></h2>
+  <div class="sub">一段英文原文，自动拆成<b>男女声对话</b>，还会补上"听下面一段对话…"的中文指令音——就像真录音那样。</div>
+  <div class="steps" style="margin-top:20px">
+    <div class="step"><div class="num">M/W</div><div class="txt">按 M: / W: 自动分角色，语气不串台</div></div>
+    <div class="step"><div class="num">10s</div><div class="txt">每段十几秒生成完，200 段一键批量</div></div>
+    <div class="step"><div class="num">MP3</div><div class="txt">有真人录音？逐段上传替换即可</div></div>
+  </div>
+  <div class="shot-wrap shot-band" style="margin-top:16px"><img src="../../docs/04-audio.png" alt="音频工作台" style="margin-top:-152px"></div>
+  <div class="foot" style="margin-top:12px"><span class="dot"></span>没有配套音频的听力书，也能开口练</div>
+</div>
+
+<!-- 5 考场感 -->
+<div class="card" id="c5">
+  <div class="glow b"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>FEELS LIKE THE REAL THING</small></div>
+    <div class="page">5 / 9</div>
+  </div>
+  <h2>练的不是题，<em>是考场那种紧</em></h2>
+  <div class="quote">没有暂停键，<br>没有进度条，<br><em>也没人等你回过神。</em></div>
+  <div class="steps" style="margin-top:20px">
+    <div class="step"><div class="num">✕</div><div class="txt">不能暂停、不能回听、不能快进</div></div>
+    <div class="step"><div class="num">〜</div><div class="txt">进度条换成波浪，只告诉你"在播"，不告诉你在第几秒</div></div>
+    <div class="step"><div class="num">1</div><div class="txt">只显示当前这段的题，播完自动跳下一段</div></div>
+  </div>
+  <div class="shot-wrap shot-band" style="margin-top:16px"><img src="../../docs/09-cue.png" alt="听音" style="margin-top:-38px"></div>
+  <div class="foot" style="margin-top:12px"><span class="dot"></span>练的是抗干扰和取舍，不是"多听几遍"</div>
+</div>
+
+<!-- 6 复盘 -->
+<div class="card" id="c6">
+  <div class="glow a"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>AFTER THE EXAM</small></div>
+    <div class="page">6 / 9</div>
+  </div>
+  <h2>交卷那一刻，<em>才开始涨分</em></h2>
+  <div class="steps" style="margin-top:20px">
+    <div class="step"><div class="num">原文</div><div class="txt">每道题都能展开这段听力原文，看自己漏了哪句</div></div>
+    <div class="step"><div class="num">分节</div><div class="txt">第一节、第二节分别得分，短板一眼看出来</div></div>
+    <div class="step"><div class="num">错题</div><div class="txt">答错自动进错题本，累计错了几次都记着</div></div>
+    <div class="step"><div class="num">回炉</div><div class="txt">错题一键跳回那段录音，精听重来</div></div>
+  </div>
+  <div class="shot-wrap shot-band" style="margin-top:14px"><img src="../../docs/06-report.png" alt="成绩单" style="margin-top:-288px"></div>
+  <div class="foot" style="margin-top:12px"><span class="dot"></span>"错了哪题"和"为什么错"，一次说清</div>
+</div>
+
+<!-- 7 精听 -->
+<div class="card" id="c7">
+  <div class="glow b"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>DEEP LISTENING</small></div>
+    <div class="page">7 / 9</div>
+  </div>
+  <h2>一句没听清？<em>那就磨到听清</em></h2>
+  <div class="sub">按材料分段播放，<b>0.75–1.5 倍速</b>、单段循环、原文随时对照，适合把一段话听成"能跟读"的程度。</div>
+  <div class="shot-wrap" style="margin-top:20px"><img src="../../docs/03-practice.png" alt="精听"></div>
+  <div class="shot-cap">先盲听 → 再对原文 → 再跟读，一遍比一遍清楚</div>
+  <div class="spacer"></div>
+  <div class="foot"><span class="dot"></span>模考负责"考"，精听负责"补"</div>
+</div>
+
+<!-- 8 离线 -->
+<div class="card" id="c8">
+  <div class="glow a"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>OFFLINE &amp; PRIVATE</small></div>
+    <div class="page">8 / 9</div>
+  </div>
+  <h2>没有账号，<em>没有广告，没有联网</em></h2>
+  <div class="stats" style="margin-top:34px">
+    <div class="stat"><b>0<i>个</i></b><span>要注册的账号</span></div>
+    <div class="stat"><b>0<i>条</i></b><span>推送与广告</span></div>
+    <div class="stat"><b>0<i>次</i></b><span>成绩上传云端</span></div>
+  </div>
+  <div class="sub">题库、740 段音频、成绩记录全在本地文件夹里；换电脑把文件夹一拷就走，手机连同一个 WiFi 也能打开练。</div>
+  <div class="badges" style="margin-top:24px">
+    <div class="badge">Windows 双击即用</div>
+    <div class="badge">断网也能模考</div>
+    <div class="badge">数据只在你电脑里</div>
+  </div>
+  <div class="tree">
+gk-listening/<br>
+├─ data/sets/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>37 套题库</b>（JSON，可自己改）<br>
+├─ data/audio/ &nbsp;&nbsp;&nbsp;&nbsp;<b>740 段录音</b>（材料 + 指令音）<br>
+└─ data/records.json &nbsp;<b>你的成绩记录</b>
+  </div>
+  <div class="spacer"></div>
+  <div class="foot"><span class="dot"></span>自习课、家里、断网的车上，都能开一套</div>
+</div>
+
+<!-- 9 结尾 -->
+<div class="card" id="c9">
+  <div class="glow a"></div><div class="glow b"></div>
+  <div class="top">
+    <div class="logo">听</div>
+    <div class="brandname">听力机考练习<small>START NOW</small></div>
+    <div class="page">9 / 9</div>
+  </div>
+  <div class="kicker">37 套题库 · 已配好全部音频</div>
+  <h1>今天，<br><em>先考一套</em></h1>
+  <div class="sub">双击「启动系统.bat」，浏览器自动打开<br>不用登录、不用联网，第一次用 3 分钟上手</div>
+  <div class="badges" style="margin-top:32px">
+    <div class="badge">真题 + 模拟</div>
+    <div class="badge">纸质书可导入</div>
+    <div class="badge">AI 配音</div>
+  </div>
+  <div class="spacer"></div>
+  <div class="foot"><span class="dot"></span>练到最后，考场上那 20 分钟就只是一次普通播放</div>
+  <div class="stamp">2026 · 高考</div>
+</div>
+
+</body>
+</html>
+

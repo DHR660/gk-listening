@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-05",
+  "title": "2026届高三英语听力仿真训练（05）｜志愿社区",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届安徽省名校联盟高三第一次联考（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: What time should we get to the nursing home?\nM: The bus leaves at twenty to three and takes twenty-five minutes.\nW: So we'll arrive at five past three?\nM: Yes. We should be there ten minutes before the singing starts at half past three.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "When will the bus arrive at the nursing home?",
+              "options": {
+                "A": "At 3:05.",
+                "B": "At 2:40.",
+                "C": "At 3:30."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Are you still volunteering at the library on Saturdays?\nW: Not this month. They've changed my shift to Sunday afternoon.\nM: Do you mind?\nW: A little. I'll miss the reading club, but I can still help with the book sale.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What change has been made to the woman's volunteer work?",
+              "options": {
+                "A": "She has a new task.",
+                "B": "She works fewer hours.",
+                "C": "She works on Sunday."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: The park clean-up is on Saturday. What should I bring?\nM: Gloves and a large bag. The council will provide the tools.\nW: Do I need to wear boots?\nM: Yes, the grass may be wet. And bring a bottle of water.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What will the council provide?",
+              "options": {
+                "A": "Gloves.",
+                "B": "Tools.",
+                "C": "Boots."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: We collected three boxes of food for the food bank today.\nW: That's great. Did you sort the tins by date?\nM: Yes, but we need more rice and noodles. Most people gave biscuits.\nW: I'll ask my neighbours to donate some this week.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the food bank need most?",
+              "options": {
+                "A": "Biscuits.",
+                "B": "Boxes.",
+                "C": "Rice and noodles."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: I'm thinking of helping at the community garden this summer.\nM: Isn't it hard work in the heat?\nW: It is, but I like meeting people, and the vegetables go to families in need. I think it's worth it.\nM: That sounds good. Maybe I'll join you.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the woman's attitude toward the garden work?",
+              "options": {
+                "A": "She believes it is worthwhile.",
+                "B": "She finds it pointless.",
+                "C": "She thinks it is too easy."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hello, Riverside Community Centre. How can I help?\nM: I'd like to sign up for the weekend volunteer programme.\nW: Of course. We have three activities: gardening, kitchen help and reading to children.\nM: I'd prefer reading. I want to be a teacher.\nW: Good. The reading session is from ten to eleven thirty on Saturday mornings.\nM: How many weeks does it last?\nW: Six weeks, starting on 7 March. We ask volunteers to attend at least five.\nM: That's fine. Do I need any training?\nW: There's a short meeting on Thursday at four. It takes about an hour.\nM: I'll be there. My name is Tom Reed, and my number is 0774 621 355.\nW: Thank you, Tom. Please arrive five minutes early. See you on Thursday.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Which activity does the man choose?",
+              "options": {
+                "A": "Gardening.",
+                "B": "Reading to children.",
+                "C": "Kitchen help."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "How long does each reading session last?",
+              "options": {
+                "A": "One and a half hours.",
+                "B": "One hour.",
+                "C": "Two hours."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: The nursing home visit is next Friday. Have we decided what to do?\nM: I thought we could sing some old songs. The residents enjoyed that last time.\nW: Good, but we only have forty minutes. We should also leave time to talk.\nM: You're right. How about twenty minutes of songs and twenty minutes of conversation?\nW: That works. I'll print the song sheets. Should we bring anything for the residents?\nM: Some of them like flowers. We could buy a small plant.\nW: Good idea. I'll ask the class to bring one.\nM: And I'll bring my guitar. Do we need to arrange transport?\nW: The school bus can take us. We just need to be at the gate by two.\nM: I'll tell everyone to arrive at a quarter to two.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why did the man suggest singing old songs?",
+              "options": {
+                "A": "They are easy to learn.",
+                "B": "The teacher asked for them.",
+                "C": "The residents enjoyed them before."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "How will the students get to the nursing home?",
+              "options": {
+                "A": "By bike.",
+                "B": "By school bus.",
+                "C": "On foot."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What time should the students arrive at the gate?",
+              "options": {
+                "A": "At 1:45.",
+                "B": "At 2:00.",
+                "C": "At 1:30."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Hi, Mrs. Lee. I'm here to help with the book sale.\nW: Good timing. We open at ten, and we still need to put these boxes on the tables.\nM: Are all the books fiction?\nW: No. The ones with red stickers are for children. Put them near the door.\nM: Should I price them?\nW: Everything is one pound today, except the dictionaries. They're three.\nM: What about the money?\nW: Keep it in the blue box. At the end, we'll count it for the library fund.\nM: Got it. Do we have change?\nW: Yes, in the drawer. And please don't sell the signed copy on the top shelf.\nM: What should I do with it?\nW: Please put it behind the desk. It's for the library display.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What are the red stickers for?",
+              "options": {
+                "A": "Books for adults.",
+                "B": "Books on sale.",
+                "C": "Children's books."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "How much is a dictionary?",
+              "options": {
+                "A": "One pound.",
+                "B": "Three pounds.",
+                "C": "Two pounds."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "Where should the money be kept?",
+              "options": {
+                "A": "In a drawer.",
+                "B": "With Mrs. Lee.",
+                "C": "In a blue box."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: You started the Green Streets project. What does it do?\nM: We organise groups to pick up rubbish in the neighbourhood every Sunday morning. We also plant trees in spring.\nW: How many volunteers do you have?\nM: About forty, but only twenty come regularly. We need more young people.\nW: What do you do with the rubbish?\nM: We separate glass, paper and plastic. The city collects it on Monday.\nW: Has the project made a difference?\nM: Yes. The park is much cleaner, and some shops now use paper bags.\nW: What is the biggest problem?\nM: Some people say the work is the government's job. But everyone can help.\nW: How can someone join?\nM: Come to the community centre at nine on Sunday. Wear old clothes.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How often does the group pick up rubbish?",
+              "options": {
+                "A": "Every Sunday.",
+                "B": "Once a month.",
+                "C": "Every day."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "How many volunteers come regularly?",
+              "options": {
+                "A": "About forty.",
+                "B": "About twenty.",
+                "C": "About sixty."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What does the group do with the rubbish?",
+              "options": {
+                "A": "Bury it.",
+                "B": "Burn it.",
+                "C": "Separate it."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "How can someone join the project?",
+              "options": {
+                "A": "Go to the community centre.",
+                "B": "Send an email.",
+                "C": "Pay a fee."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Good morning. I'm here to tell you about our community garden. It began three years ago on an empty piece of land behind the library. Today, more than fifty families grow vegetables there. We need volunteers for two jobs. First, we need people to help on Saturday mornings, from eight to eleven. You don't need experience; we will show you what to do. Second, we need drivers to take extra vegetables to the food bank on Sunday afternoons. If you can help, please visit our website or call the library. The garden is also a lovely place to meet neighbours. Last year, we held a garden dinner, and over a hundred people came. I hope to see you in the garden soon. Everyone is welcome, and we will provide tools.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Where is the community garden?",
+              "options": {
+                "A": "Next to a school.",
+                "B": "Behind the library.",
+                "C": "In a park."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "What does the speaker need drivers to do?",
+              "options": {
+                "A": "Water the plants.",
+                "B": "Sell food on Sundays.",
+                "C": "Take vegetables to the food bank."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What is the speaker's attitude toward the project?",
+              "options": {
+                "A": "Worried.",
+                "B": "Hopeful.",
+                "C": "Doubtful."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

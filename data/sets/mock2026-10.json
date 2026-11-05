@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-10",
+  "title": "2026届高三英语听力仿真训练（10）｜文化艺术",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届江浙名校联考高三英语 听力（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: The museum closes at five, so we have two hours. Shall we start with the paintings or the pottery?\nM: Pottery first. The painting rooms are always full at this hour.\nW: Good. We can go up when the crowd moves to the cafe.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will the speakers do first?",
+              "options": {
+                "A": "Visit the paintings.",
+                "B": "Drink coffee.",
+                "C": "See the pottery."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Two tickets for Saturday's concert, please.\nW: The eight o'clock concert is sold out, but there are seats for the six o'clock one at forty yuan each.\nM: Then we will take two for six. Are they near the front?\nW: Row five. Very good seats.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How much will the man pay?",
+              "options": {
+                "A": "80 yuan.",
+                "B": "40 yuan.",
+                "C": "120 yuan."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: I have signed up for the pottery class on Wednesday evenings.\nM: Is that not the same time as your piano lesson?\nW: It is. I will move the piano lesson to Sunday morning. Music can wait a day; the clay cannot.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What will the woman do about her piano lesson?",
+              "options": {
+                "A": "Give it up.",
+                "B": "Move it to Sunday.",
+                "C": "Take it online."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: What did you think of the play last night?\nW: The acting was excellent, but the story moved too slowly for me.\nM: I liked the slow parts. They gave me time to think.\nW: You always choose plays that make the audience work.\nM: I suppose I do.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What did the woman dislike about the play?",
+              "options": {
+                "A": "The acting.",
+                "B": "The music.",
+                "C": "The slow story."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: My grandmother wants me to learn paper cutting. She says it is a family skill.\nM: And you?\nW: I used to think it was old-fashioned, but her hands move so fast that I want to try.\nM: Then try. Old skills often surprise the young.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the woman's attitude towards paper cutting now?",
+              "options": {
+                "A": "She is curious to try it.",
+                "B": "She finds it useless.",
+                "C": "She thinks it too easy."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Did you enjoy the exhibition, Anna?\nW: Mostly. The photographs of the old city were wonderful. But the room was so dark that I could hardly read the labels.\nM: And what about the guide?\nW: She knew everything, but she spoke for ninety minutes without stopping once, and my feet hurt.\nM: Ninety minutes? That is longer than the exhibition itself.\nW: True. But she was kind, and she found a chair for an old lady. Shall we come again on a Sunday, when there are fewer school groups?\nM: Even better, come in the last hour. The museum is almost empty then, and the shop sells the guide book at half price.\nW: Then we can afford two guide books, and at last I can read the labels.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What did the woman dislike about the exhibition?",
+              "options": {
+                "A": "The photographs.",
+                "B": "The dark room.",
+                "C": "The ticket price."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What does the man suggest about a future visit?",
+              "options": {
+                "A": "Coming with a group.",
+                "B": "Hiring another guide.",
+                "C": "Coming in the last hour."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: You play the violin, do you not, Sam? Our school band needs one more player.\nM: I stopped two years ago. I am not sure I still remember how to hold it.\nW: Nobody forgets that. We meet on Tuesdays after class, and the concert is in the town hall on the twenty-eighth of June.\nM: That is only six weeks away. Is that enough time?\nW: We already know the pieces. We played two of them last year. All we need is a violin for the slow song.\nM: Then I will come on Tuesday and listen. If I am no good, you can tell me honestly.\nW: I will. And bring your own sheet music, because the school copy is covered in pencil marks.\nM: I still have mine in a box somewhere.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Where will the concert be held?",
+              "options": {
+                "A": "In the town hall.",
+                "B": "In the school hall.",
+                "C": "In the park."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "How does the man feel about playing again?",
+              "options": {
+                "A": "He is sure of himself.",
+                "B": "He is unsure of his ability.",
+                "C": "He is angry with the band."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does the woman ask the man to bring?",
+              "options": {
+                "A": "A school violin.",
+                "B": "Two songs.",
+                "C": "His own sheet music."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Excuse me, is this the office for museum volunteers?\nW: Yes. We need people on Saturday afternoons to help visitors find their way.\nM: What exactly would I do?\nW: Stand near the entrance, answer questions, and give short talks about one object. You choose that object from a list of ten.\nM: How long is the training?\nW: Four hours, on a Thursday evening. After that you work one afternoon a month.\nM: That sounds manageable. Is there anything I should read first?\nW: The notes on the ten objects. They are already online, and they take an hour or so.\nM: And do volunteers get in free?\nW: To the museum, yes. Not to the special concerts, I am afraid. Those are sold out months early.\nM: Good. I will start reading the notes tonight.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What will the volunteers do on Saturday afternoons?",
+              "options": {
+                "A": "Guide and inform visitors.",
+                "B": "Sell tickets.",
+                "C": "Clean the rooms."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How often must a volunteer work?",
+              "options": {
+                "A": "Once a week.",
+                "B": "Once a month.",
+                "C": "Twice a month."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What can volunteers get for free?",
+              "options": {
+                "A": "Concert tickets.",
+                "B": "The guide book.",
+                "C": "Museum entry."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: I would like to join the pottery course. Is there still room?\nM: The Monday group is full, but the Thursday evening group has three places left.\nW: Thursday is difficult. I finish work at six, and the class starts at half past six in the old school.\nM: The bus takes twenty minutes from the station, so you would arrive just in time.\nW: Could I miss the first class? I am away that week.\nM: The teacher gives the same first lesson twice, on the fourteenth and the twenty-first, so you could take the second one.\nW: And what do I have to pay for the clay?\nM: The course fee is six hundred, and the clay is included. You only buy your own tools, about fifty yuan.\nW: Then I will sign up today, before the places go.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How many places are left in the Thursday group?",
+              "options": {
+                "A": "Three.",
+                "B": "One.",
+                "C": "Six."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "How long does the bus take from the station?",
+              "options": {
+                "A": "Ten minutes.",
+                "B": "Twenty minutes.",
+                "C": "Thirty minutes."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What must the woman buy herself?",
+              "options": {
+                "A": "The clay.",
+                "B": "A course book.",
+                "C": "Her own tools."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "How can the woman make up for the first lesson?",
+              "options": {
+                "A": "By taking it on the twenty-first.",
+                "B": "By asking for the notes.",
+                "C": "By starting a week later."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Welcome to the City Museum. I am here to introduce today's exhibition, Hands of the River, which runs until the end of August. It shows the work of twelve craftsmen who live along the river. All of them are under thirty-five, and none of them learned a skill at school. They learned from parents and neighbours, in kitchens and back yards. In the first room you will see paper cutting; in the second, cloth dyeing with plants from the river bank; in the third, a wooden boat that took the craftsman Chen Wei ten months to build. He used only hand tools, just as his grandfather did. Sadly, five of the twelve say that they have no one to teach next. So this exhibition has a second purpose: to find young people who would like to learn. A free lesson is offered every Saturday at two, and you can put your name down at the desk. No experience is needed, only patience. Thank you.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "How many craftsmen are in the exhibition?",
+              "options": {
+                "A": "Five.",
+                "B": "Twelve.",
+                "C": "Ten."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "How did the craftsmen learn their skills?",
+              "options": {
+                "A": "At school.",
+                "B": "From books.",
+                "C": "From family and neighbours."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What is offered free every Saturday at two?",
+              "options": {
+                "A": "A lesson.",
+                "B": "A boat trip.",
+                "C": "A guide book."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

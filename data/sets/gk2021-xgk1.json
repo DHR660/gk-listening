@@ -1,0 +1,299 @@
+{
+  "id": "gk2021-xgk1",
+  "title": "2021年普通高等学校招生全国统一考试 英语听力（新高考Ⅰ卷）",
+  "exam": "新高考Ⅰ卷",
+  "year": 2021,
+  "source": "https://www.tesoon.com/resource/detail?rid=107793",
+  "answerSource": "https://www.tesoon.com/resource/detail?biid=87919&rid=34030",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2021年新高考Ⅰ卷与浙江卷使用同一套听力录音与试题（来源页面标题即为“新高考卷I、浙江卷”）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: I was in Mallorca last week.\nM: Oh. What were you doing there?\nW: My best friend works there. And I went to visit her. It was a good chance to practice my Spanish.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Why did the woman go to Mallorca?",
+              "options": {
+                "A": "To teach Spanish.",
+                "B": "To look for a job.",
+                "C": "To see a friend."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Ruth, I've got this terrible cold and I have to see a doctor. I'm afraid I can't go to the class. Could you help me hand in my lab report to Dr. Davidson?\nW: Sure, no problem. Just take care of yourself. And don't worry about the class.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What does the man ask the woman to do?",
+              "options": {
+                "A": "Take him to hospital.",
+                "B": "Go to a class with him.",
+                "C": "Submit a report for him."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Marie, if no one takes care of your children when you're away, Jennifer and I would be glad to have them stay with us.\nW: That's very kind of you. But they've already left for their grandma's. You know, Suzy lives close by.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "Who will look after the children?",
+              "options": {
+                "A": "Jennifer.",
+                "B": "Suzy.",
+                "C": "Marie."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Hurry up with your food, Sally. They say there's a big storm coming. We'd better get home before that.\nW: OK. I'm done. Let's get back to the car. Could you carry these shopping bags?\nM: Oh, sure.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What are the speakers going to do?",
+              "options": {
+                "A": "Drive home.",
+                "B": "Go shopping.",
+                "C": "Eat out."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: We deep-fried fish three days ago in the kitchen. But the unpleasant smell stays.\nW: There's a method you can try. Every time you make coffee, dry the leftover coffee grounds. And keep them in small bowls. Then place the bowls in the kitchen.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "How to fry fish.",
+                "B": "How to make coffee.",
+                "C": "How to remove a bad smell."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Are you a football fan, Gomez?\nM: Yes. I go to the stadium whenever there's a good game. And if I can't get a ticket, I watch the game on TV. That way they're less exciting, though.\nW: Is the ticket expensive?\nM: It depends. It usually costs about 20-50 dollars. Last time I paid 25.\nW: That's not very expensive. Maybe we can go together sometime.\nM: Great! It'll be more fun to watch the game with a friend.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "When does Gomez watch a football game on TV?",
+              "options": {
+                "A": "When he fails to get a ticket.",
+                "B": "When the stadium is crowded.",
+                "C": "When his friends are too busy."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "How much did Gomez pay for the football game last time?",
+              "options": {
+                "A": "$20.",
+                "B": "$25.",
+                "C": "$50."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: You were out the whole afternoon, Alex. What did you do?\nM: I took a walk by myself.\nW: You just kept walking and walking for 4 hours?\nM: Actually, it's not so boring. Walking in the woods is a grand adventure. Your feet can take you to the most amazing places.\nW: What did you do in the woods?\nM: I smelt the flowers, looked at the birds, and yeah, I picked many tree leaves. I will make bookmarks with them. Look!\nW: Aren't they beautiful!\nM: Then I met Bob at the lake. He was fishing while his kids were having a swim.\nW: Did you talk to him?\nM: No. I walked on and took a lot of pictures. There's just so much out there to see.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What did Alex do in the afternoon?",
+              "options": {
+                "A": "He had a walk.",
+                "B": "He went hunting.",
+                "C": "He planted trees."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What did Alex bring back?",
+              "options": {
+                "A": "Flowers.",
+                "B": "Leaves.",
+                "C": "Books."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What was Bob doing when Alex saw him?",
+              "options": {
+                "A": "Fishing.",
+                "B": "Taking pictures.",
+                "C": "Swimming."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: David, how was your holiday?\nM: Great! I climbed Mount Fuji. It was really beautiful. Now I can check one more thing off my list.\nW: Your list?\nM: Yes. When I was 12, I made a list of things I wanted to do someday.\nW: That's interesting! How many of the things on your list have you done so far?\nM: Almost half. I have pictures. Would you like to see them?\nW: Yes, sure.\nM: Here I am on top of Mount Fuji. And here I am in a hot-air balloon.\nW: When did you do that? I've always wanted to go up in a hot-air balloon.\nM: It was two years ago, in August, in California.\nW: What are your plans for the next holiday?\nM: I'm thinking of deep-sea diving in Australia. Do you have any other suggestions?\nW: You really ought to take a boat down the Amazon. You'll see a lot of interesting animals and beautiful trees. It's one of the best places I've been to.\nM: Okay, I'll put it on my list.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What did David do on his most recent holiday?",
+              "options": {
+                "A": "He had a boat trip.",
+                "B": "He took a balloon flight.",
+                "C": "He climbed a mountain."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "What is on David's list?",
+              "options": {
+                "A": "Gifts he needed to buy.",
+                "B": "Things he wished to do.",
+                "C": "Dates he had to remember."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "Where does the woman suggest David go for his next holiday?",
+              "options": {
+                "A": "Australia.",
+                "B": "California.",
+                "C": "The Amazon."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Hello, Michael.\nM: Hi, Sarah.\nW: Are you attending the conference tomorrow morning at the Shelton Hotel?\nM: Yes, are you?\nW: Yeah, but when I arrived home 5 minutes ago, I found that my car wouldn't start. And John is in Brighton on business.\nM: Do you know what's wrong with the car?\nW: I'm not exactly sure. I think there's a problem with the engine. Er, I wonder if you could give me a ride to the hotel tomorrow morning.\nM: Sure, when shall I be at your place?\nW: Well, what about 8 o'clock? From my place to Shelton we have to drive through the quarters, so we'd better leave early to avoid the traffic.\nM: OK, no problem. It takes 20 minutes to reach your place, so I'll set off at 7:40. By the way, do you also need me to drive you home tomorrow afternoon?\nW: No. John would be back then and he'll get me home. Thank you, Michael.\nM: That's OK. See you tomorrow.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Why did Sarah make the phone call?",
+              "options": {
+                "A": "To ask a favor.",
+                "B": "To pass on a message.",
+                "C": "To make an appointment."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "Where is Sarah now?",
+              "options": {
+                "A": "In Brighton.",
+                "B": "At her home.",
+                "C": "At the Shelton Hotel."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What time is Michael leaving his place tomorrow morning?",
+              "options": {
+                "A": "At 7:40.",
+                "B": "At 8:00.",
+                "C": "At 8:20."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "What is the probable relationship between John and Sarah?",
+              "options": {
+                "A": "Neighbors.",
+                "B": "Fellow workers.",
+                "C": "Husband and wife."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Hello, everyone. Today I'll talk about how to improve your pronunciation. Language researchers say pronunciation and fluency are the biggest barriers followed by grammar in effective spoken English. However, most people don't regard pronunciation as a very important part of communication skills. They are more focused on vocabulary. One reason is that most people are not even aware of their mispronunciations. So it's important to first find out the words you mispronounce. You should listen to experts. By experts, I mean those who are less likely to make pronunciation mistakes. When listening to them, pay attention to words that sound strange — strange because you pronounce the same words differently. When you come across such words, check a dictionary to confirm their exact pronunciations. You can also search for difficult-to-pronounce words and names and make a list of them. The last suggestion is to read aloud. Now you've got the correct pronunciations of the words, it's time to practice reading them every day.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What do most people think is very important in spoken communication?",
+              "options": {
+                "A": "Pronunciation.",
+                "B": "Vocabulary.",
+                "C": "Grammar."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "Why should you listen to experts according to the speaker?",
+              "options": {
+                "A": "To develop your reading fluency.",
+                "B": "To improve your note-taking skills.",
+                "C": "To find out your mispronunciations."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What is the speaker's last suggestion?",
+              "options": {
+                "A": "Spell out the difficult words.",
+                "B": "Check the words in a dictionary.",
+                "C": "Practice reading the words aloud."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

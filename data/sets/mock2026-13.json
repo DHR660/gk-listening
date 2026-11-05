@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-13",
+  "title": "2026届高三英语听力仿真训练（13）｜社区志愿",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Are you here to sign up for the library helpers?\nM: Yes. I can come on Saturday mornings.\nW: Good. We need someone to put books back on the shelves. Can you start this week?\nM: Sure. Should I bring anything?",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will the man do at the library?",
+              "options": {
+                "A": "Put books on shelves.",
+                "B": "Read to children.",
+                "C": "Repair old books."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: How was your visit to the nursing home?\nW: Better than I expected. We sang old songs, and Mrs. Wu taught us a dance.\nM: I thought you'd be nervous.\nW: I was, until an old man told me a joke.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How did the woman feel at first?",
+              "options": {
+                "A": "Excited.",
+                "B": "Bored.",
+                "C": "Nervous."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: The charity sale raised eight hundred yuan. We expected six hundred.\nM: That's great news. How will the money be used?\nW: Half for the children's hospital, half for the animal shelter.\nM: So the shelter gets four hundred.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How much will the animal shelter receive?",
+              "options": {
+                "A": "300 yuan.",
+                "B": "400 yuan.",
+                "C": "600 yuan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: The volunteer meeting is at three, isn't it?\nW: It has been moved to half past four, because the hall is busy all afternoon.\nM: Then I have time to finish my homework first. I'll come at twenty past four.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When will the meeting begin?",
+              "options": {
+                "A": "At 3:00.",
+                "B": "At 3:30.",
+                "C": "At 4:30."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: I'm not sure I want to help at the charity sale. It takes a whole day.\nM: I felt the same last year. But it was fun, and you meet people from other classes.\nW: Maybe you're right. I'll give it a try.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What will the woman do?",
+              "options": {
+                "A": "Help at the charity sale.",
+                "B": "Stay at home that day.",
+                "C": "Join another group."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Hello, Mrs. Chen. I'm calling about the library volunteer work.\nW: Oh yes, thanks for calling. We've had to change the plan a little.\nM: That's fine. What's new?\nW: The reading club for children now meets on Thursday afternoon, not Friday. We need two helpers then.\nM: I'm afraid I can't manage Thursday. I have music lessons.\nW: What about sorting donated books? That's on Saturday, from two to five.\nM: Saturday works for me. Is it hard work?\nW: Not really. You check each book and write the title in a notebook. Many are in poor condition.\nM: Fine. I'll be there this Saturday. Shall I come at two?\nW: Yes. Bring a box too, because we sort the books by subject. And wear old clothes, since some of them are very dusty.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What change does the woman mention?",
+              "options": {
+                "A": "The library opens an hour earlier.",
+                "B": "The reading club has a new meeting day.",
+                "C": "The book sorting moves to Sunday."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What will the man do on Saturday?",
+              "options": {
+                "A": "Sort donated books.",
+                "B": "Teach music.",
+                "C": "Clean the library."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Mr. Brown, our class would like to visit the nursing home next month.\nM: That's kind of you. How many students?\nW: About twelve. We can come on a weekday afternoon.\nM: Weekday afternoons are quiet. Many residents sleep after lunch, so please come after three.\nW: We could come at half past three and stay for an hour and a half.\nM: Good. Last time a group brought cakes, and the kitchen said there was too much sugar.\nW: We'll bring fruit instead. And we thought of helping them write letters.\nM: That would be lovely. Some of them have families far away, and they rarely get letters.\nW: We could sing for them too.\nM: They would love that. There's an old piano in the hall.\nW: Should we bring paper and pens?\nM: We have plenty. Just bring your patience and a smile.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "When does the man suggest the students arrive?",
+              "options": {
+                "A": "Before lunch.",
+                "B": "After three in the afternoon.",
+                "C": "In the morning."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What will the students bring?",
+              "options": {
+                "A": "Cakes.",
+                "B": "Paper and pens.",
+                "C": "Fruit."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "Why does the man like the letter idea?",
+              "options": {
+                "A": "It helps residents contact family.",
+                "B": "It is easy to organize.",
+                "C": "It saves the staff time."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: How many things have we collected for the sale?\nW: Two hundred books, sixty toys and forty small things like cups and bags.\nM: That's a lot. Where should we hold it?\nW: The playground, if the weather is fine. Otherwise the hall.\nM: Let's decide on Saturday morning. And how will we price things?\nW: Books two yuan each, toys five yuan. Everything else, one yuan.\nM: Some toys are almost new. Shouldn't they be more expensive?\nW: People come to help, not to bargain. Low prices mean more things are sold.\nM: True. We should also say where the money goes.\nW: I've made a poster. It says the money will buy winter coats for children in mountain villages.\nM: Good. Can I help put it up?\nW: Yes, please. But not in the classroom building, because the walls there are new.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How many toys have they collected?",
+              "options": {
+                "A": "40.",
+                "B": "60.",
+                "C": "200."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "How much is a book at the sale?",
+              "options": {
+                "A": "One yuan.",
+                "B": "Five yuan.",
+                "C": "Two yuan."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "Why does the woman want low prices?",
+              "options": {
+                "A": "To sell more things.",
+                "B": "To finish earlier.",
+                "C": "To attract rich buyers."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Our volunteer group has to choose a project for December. What do you think?\nM: Last year we cleaned the river bank. It was hard, but people noticed us.\nW: It was. But I'd like something where we talk to people. Many old people here live alone.\nM: That's true. Kevin's grandmother lives alone, and she says the best part of her week is the students who visit.\nW: So a visiting project? We could go in pairs every Sunday afternoon.\nM: How many people would we need?\nW: If each pair visits one home, ten volunteers can cover five homes.\nM: I'm worried we might say the wrong thing. Should we ask the community officer to train us?\nW: Good idea. She's worked here for fifteen years. Let's invite her to our first meeting.\nM: And we need permission from the families too.\nW: Of course. I'll write a short letter for them to sign.\nM: Then it's decided. I'll print twenty copies, just in case.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What did the group do last year?",
+              "options": {
+                "A": "Visited old people.",
+                "B": "Planted trees.",
+                "C": "Cleaned the river bank."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "How many homes can ten volunteers cover?",
+              "options": {
+                "A": "Four.",
+                "B": "Five.",
+                "C": "Ten."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "Why does the woman want to invite the community officer?",
+              "options": {
+                "A": "To train the volunteers.",
+                "B": "To get permission.",
+                "C": "To borrow equipment."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "What will the woman write?",
+              "options": {
+                "A": "A report.",
+                "B": "A poster.",
+                "C": "A letter for families to sign."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Hello, everyone. I'd like to tell you about our letter-writing project, which we started in September. Our group visits the Sunshine Nursing Home every Sunday. At first we played games, but the residents seemed happier when we simply sat and listened. That was when we thought of letters. Many of them have children working in other cities who rarely write. So we help them write a letter once a month, and we read the replies to them. In three months, twenty-six letters have gone out, and nineteen answers have come back. One grandmother told me she keeps every one under her pillow. We are now looking for six more volunteers, mostly for Sunday afternoons. No special skills are needed, only patience. If you are interested, come to Room 302 this Friday at five.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What does the group do every Sunday?",
+              "options": {
+                "A": "Write letters for students.",
+                "B": "Visit a nursing home.",
+                "C": "Clean the community center."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "How many letters have been answered?",
+              "options": {
+                "A": "Nineteen.",
+                "B": "Twenty-six.",
+                "C": "Six."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker say new volunteers need?",
+              "options": {
+                "A": "Writing skills.",
+                "B": "Driving ability.",
+                "C": "Patience."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

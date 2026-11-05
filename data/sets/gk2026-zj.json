@@ -1,0 +1,299 @@
+{
+  "id": "gk2026-zj",
+  "title": "2026年1月浙江省普通高校招生英语首考 听力",
+  "exam": "浙江首考（全国卷）",
+  "year": 2026,
+  "source": "https://mp.weixin.qq.com/s?__biz=MzUxNTQyNTc5MQ==&mid=2247496788&idx=1&sn=4556c8ed8e88fcbfcd2c70924173b0f0",
+  "answerSource": "https://mp.weixin.qq.com/s?__biz=MzUxNTQyNTc5MQ==&mid=2247496788&idx=1&sn=4556c8ed8e88fcbfcd2c70924173b0f0",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2026年1月8日考试，听力由教育部教育考试院统一命题，浙江与贵州等首考省份使用同一套听力（21cnjy资源24927461内文件名为“2026年1月浙江&贵州高考听力解解析.pptx”，可证同一套题）。第一节播放两遍已查证属实：浙江省教育考试院通知，自2026年1月8日考试起，由教育部教育考试院命题的高考外语科目（英/日/俄/德/法/西）将听力第一节5道试题的录音由播放一遍调整为播放两遍，同时优化听力内容，总时长保持约20分钟不变（来源：https://www.sohu.com/a/953988374_121019331 ，九派新闻2025-11-13报道，浙江省教育考试院回应“确有此事”）。本套试卷原文亦写明“每段录音播放两遍”，故sec1的plays填2。另：多年沿用的“试音材料”（9镑15便士衬衫）已取消，考试直接进入正题；第一节指令由“每段对话仅读一遍”改为“每段录音播放两遍”。答案经两个独立来源交叉核对：本页“参考答案 听力：1-5 CBCBA 6-10 ACACA 11-15 ABABC 15-20 BABCB”（原文误写15-20，应为16-20）与“2026年1月浙江/贵州卷-听力解析”一文所载“1—5 CBCBA 6—10 ACACA 11—15 ABABC 16—20 BABCB”完全一致，且与听力原文逐题可推。原文另经天星教育 tesoon.com（https://www.tesoon.com/resource/detail?rid=298946 ）与金锄头文库（https://www.jinchutou.com/shtml/937891d526e8441ae564c62f7e55d01c.html ，仅题目）比对一致。Text 2“getting married on June”与Text 8“Let me ask you first.”两处均按原始文本保留。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Excuse me. Is there a flower shop nearby?\nW: Yes, do you see the bakery over there? Next to it, you'll see a red umbrella. That's where the flower shop is.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What does the man probably want to buy?",
+              "options": {
+                "A": "A cake.",
+                "B": "An umbrella.",
+                "C": "Some flowers."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Are Tom and Anne getting married on June?\nM: No. They have rescheduled their wedding for late July. After the wedding, they'll go on their honeymoon.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When will Tom and Anne get married?",
+              "options": {
+                "A": "In June.",
+                "B": "In July.",
+                "C": "In August."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Which supermarket do you usually go to?\nM: I always shop at Brown's.\nW: A new supermarket has opened in this area. It's much bigger.\nM: I know. But it's always packed with people.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "Why does the man prefer shopping at Brown's?",
+              "options": {
+                "A": "It's much bigger.",
+                "B": "It's newly opened.",
+                "C": "It's less crowded."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Jack, Mrs. Palmer wants us in her office.\nM: Right now? For what?\nW: She wants us to meet the new sales manager.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Classmates.",
+                "B": "Fellow workers.",
+                "C": "Salesman and customer."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: I'd like to summarize what it is we're looking for.\nW: Good.\nM: Basically, we want the printing cost to come down by 15%.\nW: Well, it's really hard for us to offer such a price cut.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What are the speakers doing?",
+              "options": {
+                "A": "Negotiating a deal.",
+                "B": "Discussing a report.",
+                "C": "Planning a campaign."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Happy New Year, Mike!\nM: Happy New Year!\nW: Have you made any resolutions?\nM: I'd like to eat less and exercise more this year. Three hamburgers a day is probably not a good idea.\nW: Yeah, many people hope to be healthier in the new year. You always see a lot of people start joining gyms. I heard some kind of statistic that gyms are always 50% more crowded in the month of January. And then usually by February, it's back to normal.\nM: It's so true. It's always difficult to keep up the workout routine.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does Mike decide to do in the new year?",
+              "options": {
+                "A": "Adopt a healthy lifestyle.",
+                "B": "Open another fitness club.",
+                "C": "Help the woman work out."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "What does the statistic show?",
+              "options": {
+                "A": "Competition among gyms is heating up.",
+                "B": "Membership fees for gyms have increased.",
+                "C": "Some gym-goers' enthusiasm is short-lived."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Fenny, if you're up in London tomorrow, I've got two tickets for the American Ballet Theatre! Would you like to come?\nW: Thanks, but I'll be busy tomorrow.\nM: No problem. Maybe another time. Do you have plans?\nW: Yes, I'll meet Katie at the Olympia Exhibition Centre. Remember her? We went to the same art school. Some of her designs are going to be exhibited there. She is hoping one of the big clothes companies might buy them.\nM: Setting her sights high, isn't she?\nW: Yeah, she is aiming high. But she has what it takes to get there.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the man invite Fenny to do in London?",
+              "options": {
+                "A": "Watch a show.",
+                "B": "Go sightseeing.",
+                "C": "Visit a school."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "Where will Fenny meet Katie?",
+              "options": {
+                "A": "At an art museum.",
+                "B": "At a clothes company.",
+                "C": "At an exhibition centre."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What does the man think of Katie?",
+              "options": {
+                "A": "She's ambitious.",
+                "B": "She's open-minded.",
+                "C": "She's energetic."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: People are increasingly concerned about online security. And many experts are now offering advice on how to use smartphones safely.\nM: What advice?\nW: Let me ask you first. How long have you kept your phone on so far?\nM: For over a year now. It's not that I'm addicted to it, or have important calls, but I need the alarm to wake me up every morning.\nW: Yeah, but that's where the risk is. According to experts, we should switch our phones off and on once a day as a security measure. It helps close the applications running in the background and stop data collection processes we're not aware of.\nM: Sounds reasonable. Do we switch the phone off and switch it back on immediately?\nW: Well, better wait for a few minutes.\nM: When do you usually do that?\nW: I do it every night before going to bed.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What are the speakers talking about regarding smartphone use?",
+              "options": {
+                "A": "Data security.",
+                "B": "Phone addiction.",
+                "C": "Environmental risks."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "Why does the man always keep his phone on?",
+              "options": {
+                "A": "He hates missing calls.",
+                "B": "He relies on the alarm.",
+                "C": "He needs the latest news."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What does the woman do to her phone every night?",
+              "options": {
+                "A": "Turn it off for a while.",
+                "B": "Update the applications.",
+                "C": "Delete unnecessary files."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Welcome to History of the English Language. Since the class is quite small, I plan to run this course as a discussion. I hope everyone will be fully engaged and volunteer to share your knowledge and opinions. I won't take attendance, but since part of your grade depends on participation, I encourage you to come to class.\nM: Professor Moore?\nW: Yes?\nM: Could you tell us more about the assessment of the course?\nW: Certainly. In addition to your participation in class, which accounts for 10%, there will be a midterm test, 20%; a final exam, 30%; and a research paper, 40%. Any questions?\nM: Do we have any reading assignments?\nW: Yes, I believe you've all got your textbook. You have to finish reading assigned chapters before each class. Apart from that, there's a list of books you're required to read. Now let's have a close look at it.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What does Professor Moore expect the students to do in class?",
+              "options": {
+                "A": "Keep silent and listen carefully.",
+                "B": "Take an active part in discussions.",
+                "C": "Make as many notes as possible."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "Which carries the most weight in the final grade?",
+              "options": {
+                "A": "The midterm test.",
+                "B": "The final exam.",
+                "C": "The research paper."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What will Professor Moore do next?",
+              "options": {
+                "A": "Talk about the textbook.",
+                "B": "Go through a reading list.",
+                "C": "Assign some homework."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Hello, everybody. Thanks for your consistent support for our weekly meeting, New Books Sharing. Today, we've invited Dr. Caspar Melville, a lecturer from the University of London. Dr. Melville started out as a music journalist for a black music magazine called Blues and Soul. In 1992, he moved to San Francisco and founded a jazz magazine named On the One with some friends. They did a really good job, though there was not a lot of money in it. In 1997, he moved back to London and started teaching, and made the decision to find another way to write about music. He grew up in London. He feels that the music in London clubs has formed him, but unfortunately, it has been seriously undervalued by the academic world. In black music studies, jazz has received great attention, but dance music has been largely ignored. His book, It's a London Thing, is meant to change that situation. So let's welcome Dr. Melville to share with us his ideas in the book.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Why does the speaker give the talk?",
+              "options": {
+                "A": "To present a guest.",
+                "B": "To sell a book.",
+                "C": "To share a story."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 18,
+              "text": "What did Melville do in San Francisco?",
+              "options": {
+                "A": "He joined a jazz band.",
+                "B": "He started a magazine.",
+                "C": "He taught at a college."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "When did Melville return to London?",
+              "options": {
+                "A": "In 1987.",
+                "B": "In 1992.",
+                "C": "In 1997."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What is Melville's book aimed at?",
+              "options": {
+                "A": "Recommending a contemporary musician.",
+                "B": "Promoting the study of black dance music.",
+                "C": "Drawing public attention to music education."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

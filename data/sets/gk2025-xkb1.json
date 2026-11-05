@@ -1,0 +1,299 @@
+{
+  "id": "gk2025-xkb1",
+  "title": "2025年普通高等学校招生全国统一考试 英语听力（新课标Ⅰ卷）",
+  "exam": "新课标Ⅰ卷",
+  "year": 2025,
+  "source": "https://zy.21cnjy.com/23868730",
+  "answerSource": "https://zy.21cnjy.com/23868730",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2025年起全国统一命题试卷只保留“全国一卷（新课标Ⅰ卷）”和“全国二卷（新课标Ⅱ卷）”，原全国甲卷、全国乙卷已取消，因此2025年高考英语听力只有两套。本卷为全国一卷（新课标Ⅰ卷）。新课标Ⅱ卷听力材料与本卷不同（2025年两卷不共用听力材料）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Excuse me, I just arrived on the flight from Melbourne, and my suitcase is missing.\nW: We're very sorry, sir. Could you put down your information in this form? We'll do everything we can to find your suitcase.\nM: Okay.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will the man do next?",
+              "options": {
+                "A": "Unpack his suitcase.",
+                "B": "Board a flight.",
+                "C": "Fill out a form."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Have you talked over your future plan with your parents, Sarah?\nW: Well, my parents would like me to do my master's after graduation. But I'm thinking of volunteering as a social worker for a year.\nM: Good for you.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What does Sarah plan to do after graduation?",
+              "options": {
+                "A": "Do volunteer work.",
+                "B": "Pursue a higher degree.",
+                "C": "Run the family business."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: We really need to move, Steve. So many cars go by every day and no sun comes through the windows.\nM: Yeah, this house is kind of old. What do you have in mind?\nW: Maybe we should have a look in the suburbs.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "Buying a car.",
+                "B": "Moving house.",
+                "C": "Fixing the window."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Do you often ski here?\nW: No, this is my first time.\nM: So how do you like it so far?\nW: The snow is brilliant. It would be better if there were fewer people.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the woman think of the ski area?",
+              "options": {
+                "A": "It's a bit crowded.",
+                "B": "It has poor snow.",
+                "C": "It's too far away."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Now we've crossed the Stone Bridge. Turn right again. Look! Here's the Art Center. The Grand Theatre is two blocks away.\nM: Nearly there. We won't be late then.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Where are the speakers heading?",
+              "options": {
+                "A": "The Art Centre.",
+                "B": "The Grand Theatre.",
+                "C": "The Stone Bridge."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Miss, I'll need to see your driver's license.\nW: Was I doing something wrong?\nM: You're driving in a school zone around the time school lets out. The speed limit is 15 miles an hour, and you were going 35.\nW: But it's only 2:10 pm. The students aren't dismissed until 3:30.\nM: Today is Wednesday. Students are dismissed an hour and a half earlier on Wednesdays.\nW: Oh, no, you're right. I just forgot that.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What did the woman do?",
+              "options": {
+                "A": "She went over the speed limit.",
+                "B": "She parked in a school zone.",
+                "C": "She drove through a red light."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "What time does school finish on Wednesdays?",
+              "options": {
+                "A": "At 2:00 pm.",
+                "B": "At 2:30 pm.",
+                "C": "At 3:30 pm."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Hi, Grace. Haven't seen you for some time!\nW: Oh, Kevin. Nice to see you. Are you also here for dinner?\nM: Yes. My cousin Fiona is in town, and this is her favorite steakhouse. You met her last year, right?\nW: Yes, at Jennifer's wedding.\nM: Right. Look, are you here alone? Would you like to join us?\nW: That's very nice of you, but I'm meeting David and some other friends for dinner. You remember David from Class Two?\nM: Of course. He was the captain of our school's basketball team. I haven't seen him since graduation.\nW: He worked abroad for 3 years and has just come back.\nM: Well, I'll go and say a quick hello. We definitely should get together sometime and have a drink.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What is the relationship between the speakers?",
+              "options": {
+                "A": "Fellow workers.",
+                "B": "Former schoolmates.",
+                "C": "Family relatives."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "Who will Grace have dinner with?",
+              "options": {
+                "A": "Fiona.",
+                "B": "Jennifer.",
+                "C": "David."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What is Kevin going to do next?",
+              "options": {
+                "A": "Buy a drink.",
+                "B": "Play basketball.",
+                "C": "Greet a friend."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: There's nothing decent to watch these days on TV.\nM: Nothing decent? There's tons of stuff.\nW: They've cut down on the number of news programs, and the number of documentaries. All have been replaced by these stupid reality shows and game shows, you know.\nM: Well, they often make me laugh. People want to watch that kind of thing. It's good, you know. As long as there's a balance, there's a bit of this, a bit of that.\nW: Should we be giving people what they want to watch? Or should we be, you know, trying to educate them?\nM: Well, TV is there for entertainment. If you want an education, you go to university or college or something, don't you?\nW: No. I really don't think so.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What does the woman say about news programs?",
+              "options": {
+                "A": "They are replaced by documentaries.",
+                "B": "They have been reduced in number.",
+                "C": "They focus on the life of celebrities."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "What is the man's attitude toward reality shows?",
+              "options": {
+                "A": "Favorable.",
+                "B": "Critical.",
+                "C": "Uncertain."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What does the woman expect TV programs to be?",
+              "options": {
+                "A": "Educational.",
+                "B": "Diverse.",
+                "C": "Entertaining."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Welcome to Education Update. This is Cathy. We have Robert Hall from Mountainside High School with us today. Hello, Mr. Hall. Could you tell us about the service program in your school?\nM: Okay. It goes like this. On certain days each month, adults from the neighborhood sit in class with the students and see what's going on in the school.\nW: That's interesting. What else can they do?\nM: They can also take adult courses in the evenings for both fun and serious learning.\nW: What about the students? What can they do in the program?\nM: Well, they can change places with adults and go working on a farm or in a factory or taking care of the housework.\nW: Good. This helps them better understand the lives of their parents and know more about their neighborhood.\nM: Yes. Students have a chance to work in hospitals, nursing homes, libraries, and even in government offices.\nW: So the school is not only part of the student's lives, but also part of the neighborhood.\nM: That's exactly what our service program is for.\nW: Great. Thank you, Mr. Hall.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Who is Cathy?",
+              "options": {
+                "A": "A school teacher.",
+                "B": "A radio host.",
+                "C": "A government official."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What can the visiting adults do in the school?",
+              "options": {
+                "A": "Give speeches.",
+                "B": "Observe classes.",
+                "C": "Organize activities."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "How can the students benefit from the school program?",
+              "options": {
+                "A": "Earn extra credits.",
+                "B": "Find job opportunities.",
+                "C": "Learn about adult's life."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "What is the goal of the school program?",
+              "options": {
+                "A": "To improve student-teacher relationship.",
+                "B": "To promote the idea of work-life balance.",
+                "C": "To enhance school-community interaction."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Good evening. Tonight, I'll continue to share how we can use art to spread the word about the changing climate. In our day-to-day lives, climate change can be hard to see, but some places will feel the changes sooner than others. The city I live in is very flat and close to the waterline. And rising sea levels are already creating floods. So I decided to do something to make it impossible to ignore. I started an art project called Underwater Homeowners Association and painted numbers onto thousands of large signs. Each number showed how high someone's house was above sea level. A one would mean that if the sea level rose one foot, the building would flood. I gave the signs to homeowners who put them in their yards. Kids painted more signs and put them near their schools and along busy roads. The project has already had a real-world effect. The people who put the signs in their yards created a real homeowners association to address climate change in their communities.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Where is the speaker's city located?",
+              "options": {
+                "A": "By the lake.",
+                "B": "On the coast.",
+                "C": "In the Valley."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "What do the numbers on the signs stand for?",
+              "options": {
+                "A": "The duration of flooding.",
+                "B": "The rise in air temperature.",
+                "C": "The height above sea level."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What does the success of the project indicate?",
+              "options": {
+                "A": "Art can make a difference.",
+                "B": "The homeowners are creative.",
+                "C": "Climate change is controllable."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

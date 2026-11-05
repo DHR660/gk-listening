@@ -1,0 +1,299 @@
+{
+  "id": "gk2024-jia",
+  "title": "2024年普通高等学校招生全国统一考试 英语听力（全国甲卷）",
+  "exam": "全国甲卷",
+  "year": 2024,
+  "source": "https://www.tesoon.com/resource/detail?rid=163460",
+  "answerSource": "https://www.gk100.com/read_19029028.htm",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "听力原文（Text 1至Text 10）取自天星教育tesoon资源详情页的“听力参考材料-全国甲卷”，已去掉原文中的答案提示圈码并规范为英文半角标点；20个小题的题干与A/B/C选项取自四川省情网转载的试卷文字版 https://scsqw.cn/scyx/scgkt/2000nyh/yy/content_155173 ；答案速查（1-5 ACBCA，6-10 BBCAB，11-15 ABABC，16-20 ACBCA）取自高考100网2024年全国甲卷英语答案页文字版图片。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Look, we have time for a hamburger from a fast-food restaurant.\nW: Forget that. I know a new restaurant on Maple Street, not far from our company. Is that okay with you?\nM: Perfect.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where are the speakers going?",
+              "options": {
+                "A": "A new restaurant.",
+                "B": "A convenience store.",
+                "C": "Their office."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Hi, Vicky. I remember our class presentation is on Wednesday, but you said it's on Thursday. Are you sure?\nW: Oh, sorry. It was a slip of the tongue. I meant Tuesday for sure.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When is the class presentation according to Vicky?",
+              "options": {
+                "A": "On Thursday.",
+                "B": "On Wednesday.",
+                "C": "On Tuesday."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Allan's Furniture. Can I help you?\nW: Hi! I'm the one who asked about the price of a glass tea table top just now. I'm sorry I made a mistake. The size should be 75 centimeters by 50 centimeters.\nM: Oh! That will make a difference in the price. Hold on and let me find out.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "Why does the woman make the call?",
+              "options": {
+                "A": "To check the price.",
+                "B": "To make an apology.",
+                "C": "To cancel her order."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: These are our new arrivals. Every man should own at least one woolen sweater, don't you think?\nM: I agree. Any suggestions?\nW: The one with two pockets sells best this year, lightweight and stylish. Would you like to try it on?",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Husband and wife.",
+                "B": "Boss and employee.",
+                "C": "Salesperson and customer."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: How do you like your school, Tom?\nM: Oh! I like it a lot. And I also like the area. The nearby recreation center is cool. Thank you, Mom.\nW: What a relief that you're happy with your new home.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What are the speakers mainly talking about?",
+              "options": {
+                "A": "Their move to a new place.",
+                "B": "Tom's friends at school.",
+                "C": "A sports center."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: I don't know if I want to go to college. I don't think I'll do very well there.\nM: Why not?\nW: Because I'm not smart.\nM: Yeah. It can be scary.\nW: Did you ever come close to dropping out, Dad?\nM: No. But I worried a lot before I went, because I thought college would be full of brains. Once I got there, I found out that most of the kids were just like me.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the girl tell her dad?",
+              "options": {
+                "A": "She decides to quit college.",
+                "B": "She worries about her academic ability.",
+                "C": "She is unpopular with her classmates."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "How does the father help his daughter?",
+              "options": {
+                "A": "By telling a funny joke.",
+                "B": "By sharing his own story.",
+                "C": "By planning a school tour."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Hello, listeners. People around the world are reporting that birds are much louder these days. Now I've connected Dr. Zollinger and let's hear what she will say.\nW: Well, we feel that they're singing louder because they sing in typically noisy places. But when the noise is gone, they sing quieter than they normally do.\nM: So, in other words, birds are like us. In a noisy bar, for example, people will raise their voices.\nW: Exactly. We know that birds sing quieter on the weekend mornings. This is because the noise levels are lower than the weekday rush. And that's probably what's happening now. Here I've recorded a call of the songbird. Listen to see if you can hear the difference.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Who is the man?",
+              "options": {
+                "A": "A researcher.",
+                "B": "A bird watcher.",
+                "C": "A radio host."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "When do birds sing quieter?",
+              "options": {
+                "A": "On weekend mornings.",
+                "B": "During rush hours.",
+                "C": "In early evenings."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What is Dr. Zollinger going to do next?",
+              "options": {
+                "A": "Summarize her studies.",
+                "B": "Play some recordings.",
+                "C": "Answer more questions."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Hi. I don't think we've met before. I'm Mike.\nW: Hi, Mike. My name is Jena. Nice to meet you.\nM: Nice to meet you, Jena. Where do you come from?\nW: Well, originally, I'm from Canada, but we moved to Australia when I was about 5 years old. Now my parents live in Tokyo. How about you, Mike?\nM: I was born in Glasgow and we lived there until I was 6. Then, since my father worked for an international trade company, we moved all over the place.\nW: Oh, yeah. Where are some of the places you've lived?\nM: Most of the time, we lived abroad. We spent a total of 10 years in Japan, Germany and Korea. We came back to the UK only 2 years ago, but I think my parents would prefer to stay overseas for another 20 years.\nW: Wow, it sounds like you've had an interesting life.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "Where was Jena born?",
+              "options": {
+                "A": "In Canada.",
+                "B": "In Japan.",
+                "C": "In Australia."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How old was Mike when he left Glasgow?",
+              "options": {
+                "A": "Five.",
+                "B": "Six.",
+                "C": "Ten."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What do we know about Mike's parents?",
+              "options": {
+                "A": "They enjoy living abroad.",
+                "B": "They first met at the age of 20.",
+                "C": "They will start their own company."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Good morning. Welcome the space hero, Mr. Green, to my studio.\nM: Hello, Maria. Hello, my dear friends.\nW: Well, let's start from the first question I collected from the audience. Did you have any moments of dizziness since you landed back on the earth?\nM: The first three days back were pretty tough. Your body system is all messed up, so you feel dizzy. It's quite normal, though.\nW: Thanks. Another question. Would you go for the first manned Mars travel if you have the chance?\nM: Absolutely! A trip to Mars is hugely exciting. I'm always ready for it.\nW: I know you can watch movies on the space station. What's your favorite space movie? Some people asked.\nM: Apollo 13 is probably my top one. And my sons love Blue Earth. It was brilliant watching the new movie on board the space station.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What is the first question to Mr. Green about?",
+              "options": {
+                "A": "His adventure in space.",
+                "B": "His physical condition.",
+                "C": "His doctor's advice."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "How does Mr. Green feel about traveling to Mars?",
+              "options": {
+                "A": "It's unlikely to happen.",
+                "B": "It's physically demanding.",
+                "C": "It's a chance not to be missed."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "Which is Mr. Green's favorite movie?",
+              "options": {
+                "A": "Apollo 13.",
+                "B": "Blue Earth.",
+                "C": "Space Station."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Our next dress-up day will be on Friday, October 28th, and it is our annual dress-up day. On this day, students may dress up in fun clothes and there will be a march around the school. Students are reminded not to carry sharp things such as knives and swords. And please make sure that you can see and breathe easily if you wear masks. Parents are invited to watch the event but are asked to stand either in front of the office near the flagpole or in the grassy courtyard. The students will be marching around on the sidewalks, so we do need to keep all sidewalks clear. Parents and friends may also join in the march if they are dressed in appropriate clothes. But if you're just watching, we'd like to ask you to stay in one spot to reduce traffic jams. Students who do not wish to take part in the event for religious or other reasons should inform their teacher and they will be allowed to stay in the office until after the event.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "What is the speaker doing?",
+              "options": {
+                "A": "Giving a report.",
+                "B": "Introducing a musical play.",
+                "C": "Making an announcement."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 18,
+              "text": "What are the students expected to do?",
+              "options": {
+                "A": "Carry school flags.",
+                "B": "Wear fun clothes.",
+                "C": "Design fancy masks."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "Where can the parents stand and watch?",
+              "options": {
+                "A": "On the sidewalk.",
+                "B": "On the playground.",
+                "C": "In front of the office."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What should the students do if they don't take part?",
+              "options": {
+                "A": "Let their teacher know.",
+                "B": "Stay in the lecture hall.",
+                "C": "Do some reading."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

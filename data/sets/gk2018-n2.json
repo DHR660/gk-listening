@@ -1,0 +1,299 @@
+{
+  "id": "gk2018-n2",
+  "title": "2018年普通高等学校招生全国统一考试 英语听力（全国Ⅱ卷）",
+  "exam": "全国Ⅱ卷",
+  "year": 2018,
+  "source": "https://www.tesoon.com/resource/detail?rid=69253",
+  "answerSource": "https://www.tesoon.com/resource/detail?rid=12255&biid=12255",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2018年全国Ⅱ卷与全国Ⅲ卷使用同一套听力录音与试题（来源页面标题即为“全国卷II、III”），本文件同时可作为Ⅲ卷使用，为避免重复，题库中只保留这一套，Ⅱ/Ⅲ 卷通用。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: So, how is your German class going, John?\nM: Well, not bad. The pronunciation is fine with me. And its vocabulary is similar to English, but I'm finding the grammar awful.\nW: Well, it takes a while to get it right.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What does John find difficult in learning German?",
+              "options": {
+                "A": "Pronunciation.",
+                "B": "Vocabulary.",
+                "C": "Grammar."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: I hope you can come to the party on Saturday.\nM: I didn't know I was invited.\nW: Sure you are. Everyone in our office is invited.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Colleagues.",
+                "B": "Brother and sister.",
+                "C": "Teacher and student."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: May I help you?\nM: Yes. When is the next train to London?\nW: Oh, let me check. It leaves in twenty minutes.\nM: One ticket, please.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In a bank.",
+                "B": "At a ticket office.",
+                "C": "On a train."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Charlie, do you know a restaurant called Bravo?\nM: Bravo... I know the name, but I'm not sure where it is.\nW: It's on George Street. The food there is excellent.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "A restaurant.",
+                "B": "A street.",
+                "C": "A dish."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Brian, I just had an interview. They said they would make a decision soon.\nM: What are your chances of getting the job?\nW: Quite good. I think the interview went very well.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What does the woman think of her interview?",
+              "options": {
+                "A": "It was tough.",
+                "B": "It was interesting.",
+                "C": "It was successful."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Let's go kite flying, Judy. It's such a lovely day.\nW: Okay, but let me finish my chemistry homework first. Would you mind waiting for half an hour, Max? There are a few sports magazines on the table.\nM: Isn't the chemistry homework due next Wednesday?\nW: Yeah, but I have a full day of classes on Monday and a birthday party to attend on Tuesday.\nM: All right, then. You go ahead, and I'll catch up on some sports news while waiting.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "When will Judy go to a party?",
+              "options": {
+                "A": "On Monday.",
+                "B": "On Tuesday.",
+                "C": "On Wednesday."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What will Max do next?",
+              "options": {
+                "A": "Fly a kite.",
+                "B": "Read a magazine.",
+                "C": "Do his homework."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: We've been on the computer all the time lately. Why don't we do something different Sunday afternoon?\nM: Well, we could go to a concert.\nW: But I don't think we can get the tickets this late.\nM: Then what about playing a computer game? There's a really cool new one we could download.\nW: Hmm. I don't know. I feel like I need to do some exercise. We could probably just walk by the lake. And I'll ask Mike to join us.\nM: That sounds like fun. Let's do it!",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the man suggest doing at first?",
+              "options": {
+                "A": "Going to a concert.",
+                "B": "Watching a movie.",
+                "C": "Playing a computer game."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What do the speakers decide to do?",
+              "options": {
+                "A": "Visit Mike.",
+                "B": "Go boating.",
+                "C": "Take a walk."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Welcome to our program, Doctor Peterson. Let's see what questions we've got for you today. Here is one: Can cats see color?\nM: Sort of. In the wild, many cats hunt at night because their eyes are designed for low light. Your cat can't see bright colors such as red and green, but it picks up more shades of blue, yellow, and gray than humans do.\nW: And why do cats give dead birds to their owners?\nM: When your cat drops a dead bird at your feet, she isn't bringing you a present. Most cats just drag food home because it's a safe place to eat. A cat's mom also brings home things to her children to help them practice hunting. So a female cat without children may bring these \"treats\" to her owner instead. You may not like them, but at least you don't have to write her a thank-you note.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "Which color do cats see better than humans?",
+              "options": {
+                "A": "Red.",
+                "B": "Green.",
+                "C": "Blue."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 11,
+              "text": "Why do cats bring dead birds home?",
+              "options": {
+                "A": "To eat them in a safe place.",
+                "B": "To show off their hunting skills.",
+                "C": "To make their owners happy."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How does the man sound at the end of the conversation?",
+              "options": {
+                "A": "Grateful.",
+                "B": "Humorous.",
+                "C": "Curious."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: How is little Ed doing at the kindergarten, Jack?\nM: Oh, he's doing fairly well. It's been three weeks since he first started going. So Macy and I are pretty used to it now. You should have seen Macy cry when Ed was about to set off on the first day, though.\nW: I think that's a normal reaction for mothers. You live quite close to the kindergarten, don't you? How does he get there?\nM: Macy walks there with him every morning unless the weather is bad. When it rains, they'll drive.\nW: And is Ed enjoying kindergarten?\nM: Yeah, he loves to have other kids to play with. He keeps telling us things they do together.\nW: What do the teachers at the kindergarten say about him?\nM: They said he is bright and that he's starting to learn how to tell time.\nW: Isn't that fantastic?\nM: That is fantastic. It sounds like everything goes well.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "Who is Macy?",
+              "options": {
+                "A": "Ed's mother.",
+                "B": "Ed's teacher.",
+                "C": "Ed's friend."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 14,
+              "text": "How does Ed usually go to kindergarten?",
+              "options": {
+                "A": "By car.",
+                "B": "On foot.",
+                "C": "By bus."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What does Ed enjoy doing at the kindergarten?",
+              "options": {
+                "A": "Telling stories.",
+                "B": "Singing songs.",
+                "C": "Playing with others."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What do the teachers say about Ed?",
+              "options": {
+                "A": "He's clever.",
+                "B": "He's quiet.",
+                "C": "He's brave."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: My name is Emily. I had been a dancer for quite a long time. I started studying ballet when I was six years old. By the time I was nine, I was dancing five days a week. When I was eighteen, I decided that I really preferred contemporary dance and that I wanted to do it professionally. So I applied successfully for the training program at the school of Toronto Dance Theatre, and moved to Toronto to attend the program. That was the period of time I enjoyed most in Toronto. I graduated on scholarship and danced professionally for ten years. But after all those years, I found that dance was gradually becoming something that felt like more of a burden than a joy. I found myself increasingly unwilling to drag myself to dance performances, so I quit. I do miss dance often, but it makes me happy to think that I'll never have to go to another training session again.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "At what age did Emily start learning ballet?",
+              "options": {
+                "A": "Five.",
+                "B": "Six.",
+                "C": "Nine."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 18,
+              "text": "Why did Emily move to Toronto?",
+              "options": {
+                "A": "To work for a dance school.",
+                "B": "To perform at a dance theater.",
+                "C": "To learn contemporary dance."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "Why did Emily quit dancing?",
+              "options": {
+                "A": "She was too old to dance.",
+                "B": "She failed to get a scholarship.",
+                "C": "She lost interest in it."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "How does Emily feel about stopping training?",
+              "options": {
+                "A": "She's pleased.",
+                "B": "She's regretful.",
+                "C": "She's upset."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

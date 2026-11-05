@@ -1,0 +1,299 @@
+{
+  "id": "gk2025-xkb2",
+  "title": "2025年普通高等学校招生全国统一考试 英语听力（新课标Ⅱ卷）",
+  "exam": "新课标Ⅱ卷",
+  "year": 2025,
+  "source": "https://zy.21cnjy.com/23868728",
+  "answerSource": "https://zy.21cnjy.com/23868728",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2025年起全国统一命题试卷只保留“全国一卷（新课标Ⅰ卷）”和“全国二卷（新课标Ⅱ卷）”，原全国甲卷、全国乙卷已取消，因此2025年高考英语听力只有两套。本卷为全国二卷（新课标Ⅱ卷）。2025年新课标Ⅱ卷听力材料与新课标Ⅰ卷完全不同（两卷不共用听力材料）。另可参考整卷页 https://zy.21cnjy.com/23173608 。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Is this bus going to Baxley, Sir?\nM: No, I'm afraid not. See the yellow taxi on the corner? Turn left there to Maida Street and take bus No. 4.\nW: All right. Thank you.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How will the woman probably get to Baxley?",
+              "options": {
+                "A": "On foot.",
+                "B": "By taxi.",
+                "C": "By bus."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: So, would you folks like some dessert?\nM: Just bring us the bill, please. We need to get back on the road and continue our journey.\nW: No problem.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What is the man going to do?",
+              "options": {
+                "A": "Have some dessert.",
+                "B": "Pay the bill.",
+                "C": "Cancel the trip."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Dad, I can't afford that computer, but I think I really need it for my research.\nM: Don't worry, Alice. Just pay as much as you can, and I'll make up the rest.\nW: Thank you. Then I can place the order.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "Buying a computer.",
+                "B": "Doing research.",
+                "C": "Saving money."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Hi, I'm Julie. I'm from the Department of Psychology. What about you?\nM: I study biology. I hope you can understand my English. I'm still learning.\nW: Well, you speak very clearly.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What is the man's major?",
+              "options": {
+                "A": "Psychology.",
+                "B": "Biology.",
+                "C": "English."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Linda, I need you to help me with my problem.\nW: What did you do? Gee, you broke Mary's sports watch?\nM: Ah! I wish I didn't touch it.\nW: Well, don't worry. We'll have it fixed.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What does Linda suggest?",
+              "options": {
+                "A": "Buying a sports watch.",
+                "B": "Borrowing Mary's watch.",
+                "C": "Getting the watch repaired."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hello?\nM: Hi Delia, this is Peter. Are you doing anything Tuesday evening?\nW: Not really.\nM: I've got two tickets for the National Theatre. Would you like to come?\nW: Thanks, I'd love to. What's on?\nM: Stoppard's latest play.\nW: Oh, Sonny told me it was very good.\nM: Yes, everyone says so. Shall I meet you at your office at six o'clock? Then we can go and have a quick snack. The play starts at seven o'clock.\nW: Sounds great. See you Tuesday then.\nM: Good. Bye.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why does Peter make the call?",
+              "options": {
+                "A": "To arrange a visit.",
+                "B": "To extend an invitation.",
+                "C": "To confirm an appointment."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "Where will the speakers meet on Tuesday evening?",
+              "options": {
+                "A": "At the theatre.",
+                "B": "At a snack bar.",
+                "C": "At Delia's office."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hi, Sam, how is your daughter doing at school?\nM: Well, since I bought a smartphone for Jillian last summer, it seems the phone has become an extension of her arm, and it has made it impossible for her to concentrate. That really upsets me.\nW: You are not alone in that. It is said that 95% of teenagers either own or have access to a smartphone. Some schools have put in place policies banning or controlling phone use during school hours.\nM: I'm all in favor of these policies.\nW: Yeah, more and more schools have begun doing this. A friend of mine works at a school, and he told me that these policies had brought about positive changes.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does Sam say about his daughter?",
+              "options": {
+                "A": "She dislikes doing homework.",
+                "B": "She overuses her smartphone.",
+                "C": "She feels lonely at school."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What is Sam's attitude towards the school policies?",
+              "options": {
+                "A": "Supportive.",
+                "B": "Uncertain.",
+                "C": "Disapproving."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Max, are you ready to go?\nM: Sure, honey. Why are you dressed like that? I thought we were going to play table tennis with Billy and Karen.\nW: Oh, change of plan. Billy suggested we go rock climbing instead.\nM: But I was really looking forward to playing table tennis.\nW: You play table tennis all the time. We'd like to go do some outdoor activities for a change, like rock climbing and horseback riding.\nM: Oh, Jessie, I thought the point of this vacation was to relax.\nW: Well, we can do something less demanding tomorrow. How about boating on the lake? What do you think?\nM: That'll be great. I like the idea of spending some time on the water. I'm sure Billy and Karen will like it too.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Tourist and guide.",
+                "B": "Husband and wife.",
+                "C": "Trainer and trainee."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 11,
+              "text": "Who came up with the idea of going rock climbing?",
+              "options": {
+                "A": "Billy.",
+                "B": "Karen.",
+                "C": "Max."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "What is Jessie's plan for tomorrow?",
+              "options": {
+                "A": "Going horseback riding.",
+                "B": "Playing table tennis.",
+                "C": "Rowing on the lake."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Hi, Susanna. I had an interview with Anderson High Tech and they offered me the position of sales manager. I want to let you know before I make my decision.\nW: I'm sorry to hear that, Frank, but I appreciate you telling me before you accept the offer.\nM: I really enjoy my work here. I put in effort for five years to gain more experience, but there seems no hope of being promoted.\nW: What would help you decide to stay?\nM: I would consider staying if I could change my position. I would love working in this same department, but I would like to be doing something different. And they offer me 6% more than my present salary.\nW: When do you have to tell them your decision?\nM: They want me to respond by Friday.\nW: Let me see. I'll talk to the human resources director and let you know the result on Thursday. Can you wait until then?\nM: That would be too late. Wednesday will be better.\nW: Okay, no problem. I'm going to do everything I can to keep you on board.\nM: I appreciate what you are doing for me.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "What did Frank do before coming to Susanna?",
+              "options": {
+                "A": "He went to a tech fair.",
+                "B": "He signed a contract.",
+                "C": "He had a job interview."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 14,
+              "text": "What does Frank hope to get?",
+              "options": {
+                "A": "A promotion.",
+                "B": "A vacation.",
+                "C": "A bonus."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "When will Frank know the result from his company?",
+              "options": {
+                "A": "Wednesday.",
+                "B": "Thursday.",
+                "C": "Friday."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "Who is Susanna?",
+              "options": {
+                "A": "Frank's client.",
+                "B": "Frank's lawyer.",
+                "C": "Frank's boss."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Hello, everyone. Welcome to Creative Day School. This summer, we provide two full-time summer camp programs. Both will last the entire time the children are out of school. Our first summer camp is for our four-year-olds, called Mini Camp. This Mini Camp will still have their normal everyday schedule with a lot of fun activities. At least once a week, our Mini Campers will go on a field trip. These field trips could consist of a day at the beach or exploring the Natural Museum. Our Older Summer Camp is provided for ages 5 through 12. There are scheduled summer fun activities and games. The children will participate in art, outdoor play, games, and much more. Swimming at a nearby pool is often a weekly field trip for ages 6 and up. Other field trips could include bowling, a day at the movies, or a picnic in the park. Permission of parents and activity fees are required to participate in all field trips. Now, let's watch a five-minute film about last year's programs.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Who is the Mini Camp intended for?",
+              "options": {
+                "A": "Four-year-olds.",
+                "B": "Five-year-olds.",
+                "C": "Six-year-olds."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 18,
+              "text": "Which activity does the Older Summer Camp organize?",
+              "options": {
+                "A": "Museum visits.",
+                "B": "Bowling games.",
+                "C": "Family gatherings."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "What is a requirement for joining the field trips?",
+              "options": {
+                "A": "Camping experience.",
+                "B": "Parental permission.",
+                "C": "Swimming skills."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What will the speaker do next?",
+              "options": {
+                "A": "Collect fees.",
+                "B": "Answer questions.",
+                "C": "Show a short video."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

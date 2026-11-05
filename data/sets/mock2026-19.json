@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-19",
+  "title": "2026届高三英语听力仿真训练（19）｜健康心理",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: I've been going to bed at one in the morning and still feel tired.\nM: Do you use your phone in bed?\nW: Only for a while. Why?\nM: The light keeps your brain awake. Put the phone outside the bedroom for a week.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What does the man tell the woman to do?",
+              "options": {
+                "A": "Go to bed much later.",
+                "B": "Take a short sleep in the day.",
+                "C": "Keep her phone out of the bedroom."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: You look tired. What time did you go to bed?\nW: Half past twelve. My alarm went off at half past six.\nM: That's only six hours. You need eight.\nW: I know. I'll try to be in bed by ten thirty tonight.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How long did the woman sleep?",
+              "options": {
+                "A": "Six hours.",
+                "B": "Seven hours.",
+                "C": "Eight hours."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: I've started drinking energy drinks before morning classes.\nM: How many a day?\nW: Two or three. They help me stay awake.\nM: They do, for an hour. Then you crash and you can't sleep at night. I'd cut them out.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man think of energy drinks?",
+              "options": {
+                "A": "They are a good choice for students.",
+                "B": "They cause more problems than they solve.",
+                "C": "They should be sold at school."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: I can't sleep before the maths test. My hands shake when I open the paper.\nM: Have you talked to Ms. Yang? She is the school counselor.\nW: I thought only failing students went to her.\nM: Not at all. Half my class has seen her this term.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the man advise the woman to do?",
+              "options": {
+                "A": "See the school counselor.",
+                "B": "Take the test again.",
+                "C": "Study with her classmates."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: The pool opens at two and closes at seven. The student session is the last two hours.\nW: So it starts at five? I finish class at half past four.\nM: Right. And the bus takes twenty minutes, so you'd be there by ten to five.\nW: Good. I'll bring my card.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "When does the student session start?",
+              "options": {
+                "A": "At 4:30.",
+                "B": "At 7:00.",
+                "C": "At 5:00."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Good morning, this is the school health centre.\nM: Hello. I've had a headache for three days, and I can't sleep.\nW: Any other symptoms? A cough, or a sore throat?\nM: No cough. But I feel dizzy when I stand up quickly.\nW: Are you free at four this afternoon? Dr. Lin has a free slot then.\nM: I have a physics class until four thirty.\nW: Then come at nine tomorrow morning. Please don't eat breakfast before the blood test.\nM: All right. Should I bring anything?\nW: Your student card and this form. Drink some water before you come.\nM: Will the doctor ask about my screen time?\nW: Probably. Bring a note of the hours you sleep, and try to keep the same bedtime this week.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "When will the man see the doctor?",
+              "options": {
+                "A": "At 4:00 this afternoon.",
+                "B": "At 9:00 tomorrow morning.",
+                "C": "At 4:30 this afternoon."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What should the man do before the test?",
+              "options": {
+                "A": "Not eat breakfast.",
+                "B": "Drink no water at all.",
+                "C": "Take some medicine."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: You look pale. Are you all right?\nW: I've been studying until one every night. The exams start on Monday.\nM: That won't help. Your brain needs sleep to remember things.\nW: I know, but there is too much to review. And my phone keeps me awake. I answer messages at midnight.\nM: Leave it in the kitchen after ten. You will not miss anything important.\nW: Maybe. What else?\nM: Try studying in the morning instead. I get up at six and work for two hours before school. Then I stop at ten at night.\nW: Doesn't that feel strange at first?\nM: For a week. Then your body gets used to it. I also walk for twenty minutes after dinner, which clears my head.\nW: I might try the morning plan. But six o'clock is very early.\nM: Start with twenty minutes at seven, then build up.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the man think of the woman's study plan?",
+              "options": {
+                "A": "It will help her remember more.",
+                "B": "It will do her more harm than good.",
+                "C": "It is the only way to pass the exam."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What does the man suggest the woman do?",
+              "options": {
+                "A": "Study with friends.",
+                "B": "Take some medicine.",
+                "C": "Study in the morning."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What does the man do after dinner?",
+              "options": {
+                "A": "He reviews his notes.",
+                "B": "He walks for twenty minutes.",
+                "C": "He goes straight to bed."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: You've had nothing but noodles and cola for two days.\nM: I was busy. And I'm not hungry in the morning. I drink cola when I study.\nW: That's sugar and caffeine. Replace one bottle a day with water.\nM: All right. But I'm still not hungry at seven in the morning.\nW: That's the problem. Skipping breakfast makes you eat more at night.\nM: What should I have, then?\nW: An egg, some milk and a fruit. It takes five minutes. And take the stairs instead of the lift.\nM: The stairs? We live on the eighth floor.\nW: Then get off the lift two floors early. Start small, and add more each week.\nM: Two floors still feels like a lot.\nW: Do you eat vegetables at school?\nM: Only when my friends do.\nW: Then take the small dish. In a month you won't notice the stairs at all.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What has the man been eating?",
+              "options": {
+                "A": "Noodles and cola.",
+                "B": "Eggs and fruit.",
+                "C": "Milk and bread."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "What does the woman say about skipping breakfast?",
+              "options": {
+                "A": "It helps you lose weight.",
+                "B": "It saves a lot of time.",
+                "C": "It makes you eat more later."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What does the woman suggest about exercise?",
+              "options": {
+                "A": "Using the stairs a little every day.",
+                "B": "Joining a gym near the school.",
+                "C": "Running in the morning."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Ms. Yang, more students come to you before exams than at any other time. Why?\nW: They think they are the only ones who feel nervous. When they talk, they find out everyone does.\nM: What do you tell them first?\nW: To sleep. A tired brain makes small problems look huge. Eight hours is part of the work, not a luxury.\nM: What about the students who study all night?\nW: They often do worse. They can repeat facts but cannot use them. Exams ask you to think.\nM: Any practical advice?\nW: Study in blocks of forty minutes, then stand up and move for five. And write down tomorrow's three main tasks before you sleep.\nM: Anything parents should stop doing?\nW: Comparing their child with a cousin or a neighbour. That kind of talk stays for years.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Why do students feel nervous before exams?",
+              "options": {
+                "A": "They have too much homework.",
+                "B": "They think others are not nervous.",
+                "C": "Their parents are too strict."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What does Ms. Yang say about students who study all night?",
+              "options": {
+                "A": "They remember more facts.",
+                "B": "They need coffee to stay awake.",
+                "C": "They often do worse."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What does Ms. Yang suggest doing after forty minutes of study?",
+              "options": {
+                "A": "Moving about for five minutes.",
+                "B": "Writing down three tasks.",
+                "C": "Drinking a glass of water."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "What does Ms. Yang say parents should avoid?",
+              "options": {
+                "A": "Cooking too much food.",
+                "B": "Comparing their child with others.",
+                "C": "Talking to the teachers."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Three weeks ago I decided to change three things for a month: sleep, food and movement. I set my alarm for ten in the evening, not to wake up, but to remind me to put my phone down. On the fourth night I fell asleep before eleven. For food, I added a fruit to breakfast and stopped buying sweet drinks. That was harder than I expected, because my friends buy them every day. For movement, I walked to school twice a week instead of taking the bus. The walk takes twenty-five minutes; the bus takes fifteen. So I lost ten minutes each time and gained a clear head. My marks did not jump, but I stopped falling asleep in the third class. In a month, three small changes were enough. That, for me, is a real win.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What was the ten o'clock alarm for?",
+              "options": {
+                "A": "To wake the speaker up.",
+                "B": "To make the speaker put down his phone.",
+                "C": "To remind the speaker to do homework."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "Which change was the hardest for the speaker?",
+              "options": {
+                "A": "Sleeping earlier.",
+                "B": "Walking to school.",
+                "C": "Giving up sweet drinks."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "How much longer does the walk take than the bus?",
+              "options": {
+                "A": "Ten minutes.",
+                "B": "Fifteen minutes.",
+                "C": "Twenty-five minutes."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

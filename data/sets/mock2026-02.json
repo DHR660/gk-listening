@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-02",
+  "title": "2026届高三英语听力仿真训练（02）｜消费服务",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届江淮十校高三第一次联考（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: I like this blue jacket, but eighty pounds is too much.\nM: It's twenty percent off this week, so it's sixty-four.\nW: That's better. Do you have it in a medium?\nM: Let me check. Yes, here you are.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How much does the jacket cost this week?",
+              "options": {
+                "A": "£60.",
+                "B": "£64.",
+                "C": "£80."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: I'd like to return these headphones. The left side stopped working after two days.\nW: Do you have the receipt?\nM: Yes, here. I bought them on Saturday.\nW: Thanks. Would you like a refund or a new pair?\nM: A new pair, please. They're good when they work.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What does the man want?",
+              "options": {
+                "A": "A replacement.",
+                "B": "A refund.",
+                "C": "A repair."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: The parcel I ordered last week still hasn't arrived.\nM: Let me check. It says it was delivered on Monday to number 14.\nW: But I live at number 40. The driver must have gone to the wrong house.\nM: I'm sorry. We'll contact the driver and call you back today.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What happened to the woman's parcel?",
+              "options": {
+                "A": "It was sent back.",
+                "B": "It arrived late.",
+                "C": "It went to the wrong address."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: My laptop won't start. Can you look at it today?\nW: We're quite busy. If you leave it now, we can check it tomorrow morning.\nM: How long will the repair take?\nW: If it's just the battery, two days. You can collect it on Thursday.\nM: All right. Please call me before you order any parts.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When can the man collect his laptop?",
+              "options": {
+                "A": "On Tuesday.",
+                "B": "On Thursday.",
+                "C": "On Friday."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: I prefer buying clothes in shops. You can try them on.\nM: True, but online shops are often cheaper and I don't have to queue.\nW: I still find it annoying when the size is wrong and I have to send things back.\nM: I guess we both have our reasons.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the woman's attitude toward online clothes shopping?",
+              "options": {
+                "A": "She finds it convenient.",
+                "B": "She thinks it is too expensive.",
+                "C": "She dislikes returning items."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hello, Sunbury Sports. How can I help?\nM: I ordered a bike from you last Friday, but the front light is missing.\nW: I'm sorry about that. We can send you a new light today.\nM: Actually, I'd rather return the whole bike. There's also a scratch on the frame. I was really disappointed.\nW: I understand. Since it arrived damaged, we'll collect it for free and give you a full refund.\nM: How long will the refund take? I paid by card.\nW: Usually three working days after we receive the bike. The money will go back to your card.\nM: All right. Please arrange the collection for Wednesday.\nW: Certainly. I'll make a note of that. May I have your order number?\nM: It's 4821. Thanks for your help.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why does the man want to return the bike?",
+              "options": {
+                "A": "It is the wrong size.",
+                "B": "It arrived late.",
+                "C": "It is damaged."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "When will the bike be collected?",
+              "options": {
+                "A": "On Monday.",
+                "B": "On Wednesday.",
+                "C": "On Friday."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Hello, Mrs. Green? This is Fast Delivery. We have a package for you, but nobody answered the door.\nW: I'm at work. I thought you would come after six.\nM: The note says before five. I can try again tomorrow between two and four.\nW: I'll be at a meeting then. Could you leave it with my neighbour at number 8?\nM: We need your permission in writing. You can send a message to this number.\nW: Fine. I'll do it now. Will you wait?\nM: I can wait ten minutes. After that, I'll have to take it back to the office.\nW: I'm sending the message. Please give it to Mr. Lee at number 8.\nM: Got it. I'll leave it with him and put a note through your door.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "When did the delivery note say the package would arrive?",
+              "options": {
+                "A": "Before noon.",
+                "B": "After six.",
+                "C": "Before five."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "Where will the driver leave the package?",
+              "options": {
+                "A": "With a neighbour.",
+                "B": "At the office.",
+                "C": "At the woman's door."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What does the driver ask the woman to do?",
+              "options": {
+                "A": "Pay an extra fee.",
+                "B": "Send written permission.",
+                "C": "Change the delivery date."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Good morning. My washing machine stopped working on Saturday. Is it still under guarantee?\nW: Let me see the receipt. You bought it fourteen months ago, so the free repair period has ended.\nM: How much will it cost to look at it?\nW: The check is thirty pounds. If the motor is broken, a new one is about ninety.\nM: That's nearly half the price of a new machine. Maybe I should just buy another.\nW: I wouldn't decide yet. Let us check it first. Sometimes it's only a small problem.\nM: All right. When can you come?\nW: We can send someone on Tuesday afternoon. Is that convenient?\nM: I work until four, so any time after that.\nW: We'll come at half past four on Tuesday, then.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How long has the man had the washing machine?",
+              "options": {
+                "A": "Fourteen months.",
+                "B": "Twelve months.",
+                "C": "Two years."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "What does the woman advise the man to do?",
+              "options": {
+                "A": "Buy a new machine.",
+                "B": "Repair it himself.",
+                "C": "Have it checked first."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "When will the repair person arrive?",
+              "options": {
+                "A": "On Tuesday morning.",
+                "B": "On Tuesday afternoon.",
+                "C": "On Wednesday afternoon."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Welcome to Money Talk. You run a second-hand clothing shop. Why did you start it?\nM: I wanted to make good clothes affordable for students. Many people buy things, wear them once and throw them away. That seemed wasteful.\nW: Do people worry about quality?\nM: Some do. We check every item before we sell it. Anything with a hole or a broken zip goes to a recycling company.\nW: What sells best?\nM: Winter coats and sports shoes. Students also like old jeans because they last a long time.\nW: Has the business grown?\nM: Yes. We opened two years ago with one room. Now we have three rooms and four part-time helpers.\nW: What advice do you give first-time buyers?\nM: Try things on, and don't buy something just because it is cheap. A low price is only good if you will really wear it.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Why did the man start the shop?",
+              "options": {
+                "A": "To offer affordable clothes.",
+                "B": "To earn money from old clothes.",
+                "C": "To help recycling companies."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "What happens to clothes with holes or broken zips?",
+              "options": {
+                "A": "They are repaired.",
+                "B": "They are sold cheaply.",
+                "C": "They are sent for recycling."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "Which items sell best?",
+              "options": {
+                "A": "Old jeans and shirts.",
+                "B": "Winter coats and sports shoes.",
+                "C": "Summer dresses and hats."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What does the man advise first-time buyers to do?",
+              "options": {
+                "A": "Make sure they will wear it.",
+                "B": "Choose the lowest price.",
+                "C": "Buy only winter clothes."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Hello, shoppers. This is Radio 7's weekly money minute. Before you buy a new phone or kettle, ask yourself one question: can it be repaired? Last year, our city threw away thousands of small electrical items, and many of them still worked. This Saturday, the community centre is holding a free repair café from ten to three. Volunteers will try to fix lamps, radios and small kitchen machines. You only pay for any parts you need. Bring one item per person, and please stay while it is being checked. If you are not sure how to use something, the volunteers will also show you. And if you are shopping for a gift, why not buy a book from the local shop instead of another plastic toy? Small choices make a difference.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What is the speaker mainly talking about?",
+              "options": {
+                "A": "A free repair event.",
+                "B": "A new phone shop.",
+                "C": "A recycling factory."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What do visitors pay for?",
+              "options": {
+                "A": "The volunteers' time.",
+                "B": "Any parts they need.",
+                "C": "Entry to the centre."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "How does the speaker sound in the talk?",
+              "options": {
+                "A": "Worried.",
+                "B": "Doubtful.",
+                "C": "Encouraging."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

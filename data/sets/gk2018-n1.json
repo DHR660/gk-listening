@@ -1,0 +1,299 @@
+{
+  "id": "gk2018-n1",
+  "title": "2018年普通高等学校招生全国统一考试 英语听力（全国Ⅰ卷）",
+  "exam": "全国Ⅰ卷",
+  "year": 2018,
+  "source": "https://www.tesoon.com/resource/detail?rid=69252",
+  "answerSource": "https://www.tesoon.com/resource/detail?biid=51733&rid=31970",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "听力原文与答案分别为两个公开网页，题干选项取自“五年高考真题分类训练·2018年全国卷I/江苏/浙江”。个别明显转录错字（如“trying all those hours”应为“driving all those hours”）已按上下文订正。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: James, you've been watching TV for the whole evening. What's on?\nM: It's a science program on the origin of the universe. I'll give a presentation on it in my class tomorrow.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will James do tomorrow?",
+              "options": {
+                "A": "Watch a TV program.",
+                "B": "Give a talk.",
+                "C": "Write a report."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Hello! Do you have the best of Mozart?\nW: Er... sorry. We've just sold out. But we can order one for you. If you give us your number, we'll call you when the CD arrives.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What can we say about the woman?",
+              "options": {
+                "A": "She's generous.",
+                "B": "She's curious.",
+                "C": "She's helpful."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: We'd better be going now. Or we'll be late for the train.\nM: No rush. It's 8:30 now. We still have two hours.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "When does the train leave?",
+              "options": {
+                "A": "At 6:30.",
+                "B": "At 8:30.",
+                "C": "At 10:30."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: I'm so tired of driving all those hours to work.\nW: Yeah, I know what you mean. I used to drive two hours to work each way. But now I live within walking distance of my office. I don't even need a bike.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "How does the woman go to work?",
+              "options": {
+                "A": "By car.",
+                "B": "On foot.",
+                "C": "By bike."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Hi, Andy. I didn't see you in Professor Smith's class yesterday. What happened?\nM: Well, I had a headache, so I called him and asked for sick leave.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Classmates.",
+                "B": "Teacher and student.",
+                "C": "Doctor and patient."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: The biggest mistake I made... eh... was leaving college in my last year and not completing my education. So I'm thinking of going back to school.\nM: School? To study what?\nW: Ecology. I'm interested in the relationship between humans and nature.\nM: Cool! Is it what you studied years ago?\nW: No, I majored in chemistry then.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the woman regret?",
+              "options": {
+                "A": "Giving up her research.",
+                "B": "Dropping out of college.",
+                "C": "Changing her major."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What is the woman interested in studying now?",
+              "options": {
+                "A": "Ecology.",
+                "B": "Education.",
+                "C": "Chemistry."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Good morning, madam. I'm your guide for this trip.\nW: How lovely! Could you tell me about the hotel I'm going to stay at?\nM: Yes, of course! The Grand Hotel opened in 1990, and it sits on the sea side along the South Coast Highway. It's the most beautiful hotel here.\nW: That sounds great!\nM: And there are some restaurants outside. So at dinner time, you'd have a lot of choices.\nW: That's really nice. I like to have some local foods while traveling. What about the scenery around it?\nM: The hotel has the best views of the Pacific Ocean.\nW: Oh, I think I will love this hotel.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What is the man?",
+              "options": {
+                "A": "A hotel manager.",
+                "B": "A tour guide.",
+                "C": "A taxi driver."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What is the man doing for the woman?",
+              "options": {
+                "A": "Looking for some local foods.",
+                "B": "Showing her around the seaside.",
+                "C": "Offering information about a hotel."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Hi, Mike.\nM: Hi, Alice. Nice to see you. You don't often come here.\nW: I usually have fast food delivered to my office. I just come here for a change today.\nM: The environment here is good, clean and relatively quiet.\nW: Yeah. And I heard the food is tasty. By the way, are you going to the concert tomorrow evening?\nM: Yes, are you?\nW: Yeah! Catherine was supposed to go with me, but she may have to work extra hours tomorrow. Do you know anyone who might like to go?\nM: No, but if you like, I can ask around. Eh, Joan might want to go.\nW: Oh, yes. She is a great fan of classical music. I'll give her a ring after lunch.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In an office.",
+                "B": "At home.",
+                "C": "At a restaurant."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 11,
+              "text": "What will the speakers do tomorrow evening?",
+              "options": {
+                "A": "Go to a concert.",
+                "B": "Visit a friend.",
+                "C": "Work extra hours."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "Who is Alice going to call?",
+              "options": {
+                "A": "Mike.",
+                "B": "Joan.",
+                "C": "Catherine."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Hi. I've only just arrived.\nM: Oh, good. Now, here are the keys. Let's go in. There are two apartments. The one for rent is on the right. Do come in.\nW: Thank you. I like the carpet. The color is nice, isn't it?\nM: Yes, and this apartment is in good condition. Here is your lounge.\nW: Where would we eat?\nM: There is this corner here, or you can use your kitchen. Come and see.\nW: The kitchen is quite small.\nM: Yeah, but it has everything: cooker, fridge, even a dish-washer.\nW: And there are lots of cupboards.\nM: Let me show you the bedrooms. This is the smaller one.\nW: It's a good size, though.\nM: Now come into the other bedroom. You can see the bathroom, too.\nW: Yes, it is very nice. But I'll have to ask my friend first and we will come together. I understand it's $800 a month.\nM: Yes, but a few blocks downtown would be much more expensive.\nW: Well, thank you. I will be in touch.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "Why does the woman meet the man?",
+              "options": {
+                "A": "To look at an apartment.",
+                "B": "To deliver some furniture.",
+                "C": "To have a meal together."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 14,
+              "text": "What does the woman like about the carpet?",
+              "options": {
+                "A": "Its color.",
+                "B": "Its design.",
+                "C": "Its quality."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "What does the man say about the kitchen?",
+              "options": {
+                "A": "It's a good size.",
+                "B": "It's newly painted.",
+                "C": "It's adequately equipped."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What will the woman probably do next?",
+              "options": {
+                "A": "Go downtown.",
+                "B": "Talk with her friend.",
+                "C": "Make payment."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Thank you very much. Thank you, Doctor Johnson. Well, it is really great to be back at university again. The thing that I wanted to tell you today is this: Education is important. When I came to the US, I was only thinking about being a carpenter, but I could not read the newspaper. And I could not understand the news on television or movies or anything like this. So I entered the city college to take English classes for foreign students. I was very proud that I was going to a college because no one in my family ever went to any college or to any university. You know, when you're fifteen years old in my country, you finish school and then you learn a trade. And that's exactly what I did. When I was fifteen years old, I learned how to be a carpenter. A year later, I came to America. Luckily, I met a very good teacher who encouraged me to take some math classes, business classes and history classes. And I became a full-time college student. And today when I look back, I'm so happy because you never know where life will take you. All of a sudden, I started making money because I was really good at math. You know, how to work out everything with math is so important. This is something that I learned when I started my own business, which is doing really well.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Who is the speaker probably talking to?",
+              "options": {
+                "A": "Movie fans.",
+                "B": "News reporters.",
+                "C": "College students."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 18,
+              "text": "When did the speaker take English classes?",
+              "options": {
+                "A": "Before he left his hometown.",
+                "B": "After he came to America.",
+                "C": "When he was 15 years old."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "How does the speaker feel about his teacher?",
+              "options": {
+                "A": "He's proud.",
+                "B": "He's sympathetic.",
+                "C": "He's grateful."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker mainly talk about?",
+              "options": {
+                "A": "How education shaped his life.",
+                "B": "How his language skills improved.",
+                "C": "How he managed his business well."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

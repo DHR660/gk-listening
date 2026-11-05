@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-17",
+  "title": "2026届高三英语听力仿真训练（17）｜环境保护",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Excuse me, where should I put these old batteries? The sign on the bin only mentions paper and glass.\nM: Batteries don't go in the ordinary bins. Take them to the small red box at the community office.\nW: The one beside the notice board?\nM: That's right. It's emptied every Friday.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where should the woman take the batteries?",
+              "options": {
+                "A": "To the paper bin.",
+                "B": "To a recycling shop.",
+                "C": "To the community office."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Are you driving to the meeting in the city centre?\nW: No, I'll take the train. Driving takes an hour, but the train is only thirty-five minutes.\nM: And cheaper, too. Parking alone costs twenty yuan an hour.\nW: That settles it, then.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How much time will the woman save by taking the train?",
+              "options": {
+                "A": "25 minutes.",
+                "B": "35 minutes.",
+                "C": "60 minutes."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Our building has four bins now, and the sorting rules fill two pages.\nM: Two pages? I'd need a chart on the wall.\nW: It's not that hard once you know them.\nM: Maybe for you. For my grandparents it's confusing. The rules should be simpler, not longer.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man think of the sorting rules?",
+              "options": {
+                "A": "They are quite clear.",
+                "B": "They are too complex.",
+                "C": "They suit his grandparents."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: The wetland park trip is on Saturday. The notice says to bring a hat and drinking water.\nM: Should I bring my camera? The birds are far away.\nW: A pair of binoculars would be better. The park lends them for free, but only twenty pairs.\nM: Then I'll get there early.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What will the man probably do?",
+              "options": {
+                "A": "Arrive early at the park.",
+                "B": "Buy a new camera.",
+                "C": "Bring his own binoculars."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: The beach clean-up starts at half past eight, doesn't it?\nM: It was moved. We now meet at the east gate at eight, and the bus leaves at a quarter past eight.\nW: Then I'd better leave home by seven forty.\nM: Good idea. The traffic is slow on Saturday mornings.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "When will the bus leave?",
+              "options": {
+                "A": "At 8:00.",
+                "B": "At 8:30.",
+                "C": "At 8:15."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Tom, is this bag rubbish or recycling?\nM: Rubbish. The pizza box has oil on it, so it can't be recycled.\nW: I thought all paper could go in the blue bin.\nM: Not if it's dirty. Food on paper spoils the whole load. And the plastic bottles need their caps off.\nW: All right. Where do the glass jars go?\nM: The green bin downstairs, and please rinse them first.\nW: What about this milk carton?\nM: Wash it, press it flat, and it goes with the paper.\nW: And my old phone charger?\nM: The shop takes those back, not the bin.\nW: This is more work than I expected.\nM: Once a week it's fine. The city deals with four hundred tonnes a day, and half of it can be reused.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why can't the pizza box be recycled?",
+              "options": {
+                "A": "It is too large.",
+                "B": "It has oil on it.",
+                "C": "It is made of plastic."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What should be done with the glass jars?",
+              "options": {
+                "A": "Rinse them and put them in the green bin.",
+                "B": "Take off their caps first.",
+                "C": "Keep them for a week."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Welcome to the wetland park. Before we start, a few rules. Please stay on the wooden paths, because the grass hides nests.\nM: Can we feed the ducks?\nW: No. Bread makes them ill. If you want to watch birds, keep quiet and stand still; they notice movement more than sound.\nM: Is there a map of the park?\nW: Yes, one for each of you, in the basket by the door.\nM: How long is the walk?\nW: About two hours, and there is a rest stop halfway with drinking water. This park was a fish farm twenty years ago. Local farmers helped us plant reeds, and now over a hundred kinds of birds stop here in winter.\nM: Are there volunteers here?\nW: Yes, at weekends. Students from your school come to count birds and clean the paths.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why must visitors stay on the wooden paths?",
+              "options": {
+                "A": "The grass is always wet.",
+                "B": "Farmers are working nearby.",
+                "C": "Birds' nests are hidden in the grass."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "What should visitors do to watch the birds?",
+              "options": {
+                "A": "Keep quiet and stand still.",
+                "B": "Feed them some bread.",
+                "C": "Move closer very slowly."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What do the student volunteers do at the park?",
+              "options": {
+                "A": "Plant reeds in winter.",
+                "B": "Count birds and clean the paths.",
+                "C": "Sell tickets at the gate."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: How are we getting to Hangzhou for the long weekend?\nM: Flying is fastest, but the airport is an hour and a half from the city, and the ticket is 900 yuan.\nW: The high-speed train takes five hours and costs 320 yuan. And we arrive in the centre.\nM: True. But five hours each way is a lot.\nW: On the train we can read, and there is a socket at every seat.\nM: Fine. Let's take the train. Should we book now? Friday tickets sell out quickly.\nW: I'll book tonight. The station is a ten-minute walk from my flat, so no taxi.\nM: That saves us another fifty yuan, and the walk is good for us.\nW: Oh, and bring your own cup. They have stopped selling bottled water on the train.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "Why does the woman prefer to take the train?",
+              "options": {
+                "A": "It is cheaper and goes to the city centre.",
+                "B": "It is faster than flying.",
+                "C": "It has a restaurant car."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How long does the train journey take?",
+              "options": {
+                "A": "Three hours.",
+                "B": "Five hours.",
+                "C": "Six hours."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What will the woman do tonight?",
+              "options": {
+                "A": "Pack her bags.",
+                "B": "Call the airline.",
+                "C": "Book the train tickets."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Mr. Zhou, you have looked after this wetland for eleven years. What has changed?\nM: When I started, we saw about forty kinds of birds here. Last winter we counted ninety-six.\nW: What made the difference?\nM: We stopped the fish farms and let the reeds grow. We also built small islands where birds can rest away from dogs and boats.\nW: Is tourism a problem?\nM: Not if it is managed. We close two areas in spring, when birds are nesting, and limit visitors to six hundred a day.\nW: What do local people gain?\nM: Some work as guides; others sell vegetables and tea at the gate. Last year tourism brought the village two million yuan.\nW: And what do you need most now?\nM: Young people. My team is eight, and the youngest is fifty-two.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How many kinds of birds were counted last winter?",
+              "options": {
+                "A": "96.",
+                "B": "40.",
+                "C": "600."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "What did the team do to help the birds?",
+              "options": {
+                "A": "They closed all the walking paths.",
+                "B": "They built small islands for them.",
+                "C": "They brought in more fish."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "How does Mr. Zhou feel about tourism?",
+              "options": {
+                "A": "It should be stopped completely.",
+                "B": "It is acceptable if it is controlled.",
+                "C": "It has ruined the wetland."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What does Mr. Zhou need most?",
+              "options": {
+                "A": "More land for the park.",
+                "B": "More visitors in winter.",
+                "C": "Younger workers on his team."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Hello, everyone. I'm Chen Jia from Class 3, and I want to tell you about our No Plastic Week, which starts on Monday. Last term, our class collected every plastic bottle we used for one week. There were 214 bottles, and they filled three large bags. This time we want the whole school to join. Bring a bottle from home and fill it at the water machines on each floor. The shop beside the gate will sell hot drinks in paper cups, and if you bring your own cup, you get one yuan off. On Friday afternoon we will count how much waste we have saved and put the numbers on the board by the library. The class that uses the least plastic will win a trip to the wetland park. It is a small step, but 214 bottles taught us that small steps add up.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What did the class do last term?",
+              "options": {
+                "A": "They sold paper cups at the gate.",
+                "B": "They kept their plastic bottles for a week.",
+                "C": "They visited a water factory."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "How can students get one yuan off a hot drink?",
+              "options": {
+                "A": "By bringing their own cup.",
+                "B": "By buying two drinks together.",
+                "C": "By joining the class trip."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 20,
+              "text": "What will the winning class receive?",
+              "options": {
+                "A": "A new water machine.",
+                "B": "Money for the school shop.",
+                "C": "A trip to the wetland park."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

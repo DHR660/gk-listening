@@ -1,0 +1,299 @@
+{
+  "id": "gk2024-xkb1",
+  "title": "2024年普通高等学校招生全国统一考试 英语听力（新课标Ⅰ卷）",
+  "exam": "新课标Ⅰ卷",
+  "year": 2024,
+  "source": "https://zy.21cnjy.com/23868724",
+  "answerSource": "https://zy.21cnjy.com/23868724",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "注意：2024年新课标Ⅱ卷听力与本卷【不相同】，Ⅱ卷为另一套材料（已另存 gk2024-xkb2.json）。原卷第一节（第1—5题）每段对话仅读一遍，第二节（第6—20题）每段对话或独白读两遍。题干、选项、答案取自21世纪教育网该资源页“文档简介”全文并与教习网2024年新高考Ⅰ卷真题（答案版含听力）逐条核对一致；听力原文据天星教育官方音频页 tesoon.com/resource/detail?rid=163457 的逐句文本校订标点与大小写。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Thanks for the wonderful weekend, Kate.\nW: That's okay. Bob and I are glad you came to see us.\nM: Oh, I have to go in. My flight will take off soon. Do contact me when you're in Sydney.\nW: Sure, we will.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What is Kate doing?",
+              "options": {
+                "A": "Boarding a flight.",
+                "B": "Arranging a trip.",
+                "C": "Seeing a friend off."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Paul, listen to the radio. It's You've Stolen My Heart, one of the songs played at our wedding.\nM: Yeah, how beautiful! It's been popular for almost two decades.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "A pop star.",
+                "B": "An old song.",
+                "C": "A radio program."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: David, forget about Mark. His aunt is in town, so he can't go with us today.\nM: Oh, what a pity! It's the last day of the art show.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What will the speakers do today?",
+              "options": {
+                "A": "Go to an art show.",
+                "B": "Meet the man's aunt.",
+                "C": "Eat out with Mark."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: How may I help you?\nM: I bought a desk and asked for it to be delivered to my house this Friday.\nW: Yes, what's the problem?\nM: I need to have it delivered this Saturday.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the man want to do?",
+              "options": {
+                "A": "Cancel an order.",
+                "B": "Ask for a receipt.",
+                "C": "Reschedule a delivery."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Next, please.\nM: Oh, hi, I missed my 9 o'clock train to Bedford. Do I have to buy another ticket?\nW: No. The next train leaves at a quarter to ten at Platform 11.\nM: Thank you.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "When will the next train to Bedford leave?",
+              "options": {
+                "A": "At 9:45.",
+                "B": "At 10:15.",
+                "C": "At 11:00."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Honey, have you checked today's weather forecast?\nM: Yes, it's cold and wet. There is a warning for strong winds up to 100 kilometers per hour.\nW: What are we going to do then?\nM: Nothing much. Just stay indoors. There is a risk of falling trees and power lines.\nW: Right.\nM: And the low temperatures could bring snow to the forest area.\nW: I hope it's over quickly.\nM: Well, it won't get better until late Wednesday. Anyway, I have to move the car away from the trees.\nW: Yeah, you cannot be too careful.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What will the weather be like today?",
+              "options": {
+                "A": "Stormy.",
+                "B": "Sunny.",
+                "C": "Foggy."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "What is the man going to do?",
+              "options": {
+                "A": "Plant a tree.",
+                "B": "Move his car.",
+                "C": "Check the map."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hello, Dave. This is Kathy from sunny California.\nM: Hi, Kathy. You finally called. How was the move? All settled in?\nW: Sorry, I hadn't called sooner, but it's been a busy month. We're slowly getting things set up in our new home.\nM: Yeah, I understand. How are Jeff and the children?\nW: Jeff is doing well with his new job. Tom has made many new friends here and has a lot to do. Fiona is fine, though she misses her grandma. By the way, thank you for looking in on my mother from time to time. I call her every week, but it isn't the same as seeing her.\nM: No problem. Betty and I are friends now. How is the weather there?\nW: It's nice and warm, and we are able to spend some time every week on the beach with the children.\nM: That's great.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why is Kathy in California now?",
+              "options": {
+                "A": "She is on vacation there.",
+                "B": "She has just moved there.",
+                "C": "She is doing business there."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What is the relationship between Tom and Fiona?",
+              "options": {
+                "A": "Husband and wife.",
+                "B": "Brother and sister.",
+                "C": "Father and daughter."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does Kathy thank Dave for?",
+              "options": {
+                "A": "Finding her a new job.",
+                "B": "Sending her a present.",
+                "C": "Calling on her mother."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Jack, how did you get to school when you were in primary school?\nM: I lived close to my school, so I walked every day. Why?\nW: Well, I remember that when we were kids, we often walked, rode a bike, or caught the bus to school. Few of us were dropped off at the school gate by our parents.\nM: I see what you mean. These days you can see traffic jams around schools at drop-off and pick-up times. But it's hard to blame the parents. They have good reasons for driving their kids to school, mostly to do with safety and convenience.\nW: You have a point there, but it could also mean children are missing out on much needed exercise and other life skills. Some parents are just being overprotective, with their children learning nothing, but living in fear of everything. Studies have found that children who spend more time outside tend to be healthier, better adjusted, and better at dealing with stress.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How did Jack go to school when he was a child?",
+              "options": {
+                "A": "By bike.",
+                "B": "On foot.",
+                "C": "By bus."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "What is Jack's attitude toward parents driving their kids to school?",
+              "options": {
+                "A": "Disapproving.",
+                "B": "Encouraging.",
+                "C": "Understanding."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What is the problem with some parents according to the woman?",
+              "options": {
+                "A": "Overprotecting their children.",
+                "B": "Pushing their children too hard.",
+                "C": "Having no time for their children."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: So, Marie, your kitchen garden looks excellent. What made you turn to social media to record your vegetable growing?\nW: Initially, I used the online platform as a diary, something to look back on, giving me a sense of achievement and keeping me motivated and moving forward. As time went by, other gardeners and like-minded people began to follow my progress, too.\nM: I know you grow lots of fruit on your land. Which would you recommend to beginners as the best to grow?\nW: Strawberries would be a good choice. They produce a lot of fruit in their first season.\nM: That's cool. Well, do you have plans to try new or any particular crops next year?\nW: Next season, I will be adding some pear trees to the fruit area. I will be adding more herbs, which I can use in the kitchen. And, after a couple of years of failure, I will try growing carrots again.\nM: What advice would you offer someone thinking of doing kitchen gardening?\nW: Have a plan of what you want your kitchen garden to look like. Don't be too discouraged if things don't go according to plan. Learn from your mistakes and move on. There's always next season.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Why did Marie post her kitchen gardening online at first?",
+              "options": {
+                "A": "To keep records of her progress.",
+                "B": "To sell home-grown vegetables.",
+                "C": "To motivate her fellow gardeners."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "Why does Marie recommend beginners to grow strawberries?",
+              "options": {
+                "A": "They need no special care.",
+                "B": "They can be used in cooking.",
+                "C": "They bear a lot of fruit soon."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What is difficult for Marie to grow?",
+              "options": {
+                "A": "Herbs.",
+                "B": "Carrots.",
+                "C": "Pears."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What is Marie's advice to those interested in kitchen gardening?",
+              "options": {
+                "A": "Aim high.",
+                "B": "Keep focused.",
+                "C": "Stay optimistic."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Welcome to Meet the Author. Well, many readers of Sports Times turn to the last page of their magazine first in order to read Jacob Johnson's weekly article under the title \"Life of Johnson\". The articles, along with his novels and essay collections, have earned Johnson the reputation as one of the funniest humans on the planet. Johnson began writing about sports as a second-year student at the University of Colorado, covering high school volleyball games for his hometown newspaper. After graduating in 1981, he moved on to work at The Denver Weekly for two years and the Los Angeles Post for two more years before landing at Sports Times. He has been voted National Sports Writer of the Year 11 times. So now, let's welcome the funny man with serious tone, Jacob Johnson.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What is \"Life of Johnson\"?",
+              "options": {
+                "A": "A magazine column.",
+                "B": "A TV series.",
+                "C": "A historical novel."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What is Johnson famous for?",
+              "options": {
+                "A": "His acting talent.",
+                "B": "His humorous writing.",
+                "C": "His long sports career."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "When did Johnson join Sports Times?",
+              "options": {
+                "A": "In 1981.",
+                "B": "In 1983.",
+                "C": "In 1985."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-06",
+  "title": "2026届高三英语听力仿真训练（06）｜学习考试",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届全国百校联考高三英语 听力（金太阳）（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Have you finished the reading for tomorrow's history class?\nW: Not yet. I went to the library after lunch, but the book was already out.\nM: You can use my copy. I bought one last week.\nW: That would save me. Thanks a lot.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will the man probably do?",
+              "options": {
+                "A": "Lend the woman a book.",
+                "B": "Buy a book for the woman.",
+                "C": "Go to the library with her."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Mr. Lin, may I hand in my essay on Friday? I have two exams this week.\nM: The deadline is Thursday noon, I'm afraid. But I can wait until Friday morning if you really need it.\nW: Friday morning then. Thank you.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When will the woman hand in her essay?",
+              "options": {
+                "A": "At noon on Thursday.",
+                "B": "On Thursday evening.",
+                "C": "On Friday morning."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Are you taking the physics lecture this term? It's at nine on Tuesday.\nW: It clashes with my chemistry lab, so I'll watch the recording online.\nM: Then you won't be in the lecture hall at all?\nW: Only for the review session on Thursday afternoon.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What will the woman do about the physics lecture?",
+              "options": {
+                "A": "Attend it in person.",
+                "B": "Watch it online.",
+                "C": "Give it up."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Excuse me, where is the reserve desk? The notice says these books can only be read here.\nM: Second floor, next to the copy machines. You will need your student card to get in.\nW: Thanks. And are the computers there free to use?\nM: Yes, but you must book one at the desk.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "Where does the conversation most probably take place?",
+              "options": {
+                "A": "In a bookshop.",
+                "B": "In a library.",
+                "C": "In an office."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: I have read the course description three times and still cannot decide between the two.\nW: The one on modern poetry is said to be inspiring, though the reading load is heavy.\nM: Heavy is fine. I would rather work hard for something worth reading.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the man's attitude towards a heavy reading load?",
+              "options": {
+                "A": "He accepts it.",
+                "B": "He worries about it.",
+                "C": "He thinks it unfair."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: You look tired, Daniel. Did you stay up late again?\nM: Until two. The maths test is next Monday and I still cannot do the last two questions.\nW: Then why not join our study group? We meet in the reading room on Wednesday evenings, from seven to nine.\nM: I thought groups were just people chatting.\nW: Not ours. We choose a topic before each meeting, and everyone explains one question to the others.\nM: But I would have to speak in front of everyone.\nW: For two minutes, and nobody laughs. Last month our average score went up by eight points.\nM: Eight points? All right, I will come this Wednesday. What should I bring?\nW: Your notebook and one question you cannot solve. And come five minutes early, because we always start on time.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the man need help with?",
+              "options": {
+                "A": "He failed his maths test.",
+                "B": "He has trouble with maths questions.",
+                "C": "He cannot find the reading room."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "How does the woman persuade the man to join?",
+              "options": {
+                "A": "By mentioning the group's results.",
+                "B": "By offering free materials.",
+                "C": "By teaching him herself."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Professor Wang, is it true that the university will open a new elective this term?\nW: Yes, a course on Chinese tea culture. It starts on March 5th and runs for eight weeks.\nM: Eight weeks only? That is short.\nW: It meets once a week, on Thursday afternoons, but each session lasts three hours because we do tastings and hands-on practice.\nM: Do we have to write a paper?\nW: No paper. You keep a journal of what you taste, and at the end you design a small tea gathering for your classmates. That work counts for sixty percent of the grade.\nM: That sounds more interesting than a paper.\nW: Remember, only thirty students can join. Registration opens tomorrow at nine, and last term a similar course was full within two hours.\nM: Then I will set my alarm tonight.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "How long will the new course last?",
+              "options": {
+                "A": "Five weeks.",
+                "B": "Eight weeks.",
+                "C": "Ten weeks."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "How will the students be graded?",
+              "options": {
+                "A": "By writing a term paper.",
+                "B": "By taking a written test.",
+                "C": "By designing a tea gathering."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What does the man think of the course?",
+              "options": {
+                "A": "It is worth taking.",
+                "B": "It is badly organized.",
+                "C": "It is too expensive."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: How are your subject choices going, Kevin?\nM: Slowly. My parents want me to take two sciences, but I would rather take geography.\nW: Why geography?\nM: Because it explains the real world. Last week we worked out why the river near my home floods every spring. I found that exciting.\nW: But your parents may think geography is less useful for university.\nM: That is their worry. My teacher says many top universities accept geography for science degrees too.\nW: Have you shown your parents the requirements?\nM: Not yet. I will print the pages and go through them together at dinner.\nW: Good. Numbers speak louder than feelings.\nM: And I have promised to keep one science subject, so it is a fair deal.\nW: Then I hope they listen.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What problem does the man have with his subject choices?",
+              "options": {
+                "A": "He has failed two science tests.",
+                "B": "His parents doubt his choice.",
+                "C": "His teacher dislikes geography."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "Why does the man like geography?",
+              "options": {
+                "A": "It explains real-life events.",
+                "B": "It is easy to get high marks.",
+                "C": "It needs little homework."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What should the man do about his parents' worry?",
+              "options": {
+                "A": "Follow his parents' advice.",
+                "B": "Talk to his teacher again.",
+                "C": "Show his parents the facts."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Excuse me, Ms. Chen. Could I ask about the library workshop on Friday?\nW: Of course. It is called Finding Sources, and it is aimed at students writing their first research paper.\nM: Is it useful for someone who has never used the online databases?\nW: That is exactly who it is for. We start with choosing keywords, then judging whether an article is reliable, and finally saving your references.\nM: How long does it last?\nW: Two hours, from three to five. Bring your laptop, because the second half is practice.\nM: Do I need to book a place?\nW: Yes. The room holds twenty-five people and twenty are already taken, so email me before Thursday.\nM: Actually, my problem is not finding sources. It is using them without copying.\nW: Then come to next week's session instead. It deals with paraphrasing and citation.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Who is the workshop mainly for?",
+              "options": {
+                "A": "Teachers learning new software.",
+                "B": "Students new to research writing.",
+                "C": "Library staff on duty."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "How many places are still available?",
+              "options": {
+                "A": "Fifteen.",
+                "B": "Twenty.",
+                "C": "Five."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What is the man's real difficulty?",
+              "options": {
+                "A": "Finding enough sources.",
+                "B": "Booking a place in time.",
+                "C": "Using sources without copying."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "How should the man book a place?",
+              "options": {
+                "A": "By email.",
+                "B": "By phone.",
+                "C": "In person."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good morning, everyone. This is the school radio, and I am Lucy from Class Three. Before you go to the library at lunchtime, here is something you should know. From next Monday, the reading room on the second floor will open at seven in the morning instead of eight. The change is only a trial and will last for one month. If enough students use the room early, the school will keep the new hours. Also, the old magazines near the window will be replaced by sixty new titles, including science and travel. And here is a small challenge for this term. Anyone who reads five books can write a short review. The ten best reviews will appear on the library wall, and each of those ten students will receive a book token. So, see you in the reading room, and please keep your voice down. Seven o'clock is early for everyone.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What time will the reading room open from next Monday?",
+              "options": {
+                "A": "At six.",
+                "B": "At half past six.",
+                "C": "At seven."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "How long will the new opening hours be tested?",
+              "options": {
+                "A": "One month.",
+                "B": "One term.",
+                "C": "One year."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 20,
+              "text": "What will each of the ten best reviewers receive?",
+              "options": {
+                "A": "A free magazine.",
+                "B": "A book token.",
+                "C": "A library card."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

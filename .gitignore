@@ -1,0 +1,25 @@
+# 依赖与构建产物
+node_modules/
+tools/_cards/node_modules/
+package-lock.json
+tools/_cards/package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 个人数据（含姓名等，不要提交）
+data/records.json
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+~$*

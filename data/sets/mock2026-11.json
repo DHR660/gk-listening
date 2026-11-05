@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-11",
+  "title": "2026届高三英语听力仿真训练（11）｜校园开放日",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Welcome to the science club! Are you interested in joining?\nM: I am, but I'm already in two clubs. Will the meetings take much time?\nW: Just one afternoon a week. We mostly build small robots.\nM: That sounds fun. Where do I sign up?",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will the man probably do?",
+              "options": {
+                "A": "Visit a robot factory.",
+                "B": "Join the science club.",
+                "C": "Leave the club fair."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: I'm thinking of taking photography next term. Any advice?\nW: Mr. Lin's class is popular, but you need your own camera.\nM: Mine is old. Is there a class where the school provides cameras?\nW: The digital media course does, and it's on Tuesday mornings.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What is special about the digital media course?",
+              "options": {
+                "A": "It meets on Friday.",
+                "B": "It lasts two terms.",
+                "C": "It provides cameras."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Hi, I'm from the school radio station. Is this your first visit to our school?\nM: Yes, I came for the open day. The labs look amazing.\nW: What impressed you most?\nM: Honestly, the library. I could stay there all day.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What impressed the man most?",
+              "options": {
+                "A": "The labs.",
+                "B": "The library.",
+                "C": "The radio station."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: The open day tour starts at nine thirty, right?\nW: It was moved to ten fifteen. But the science show opens half an hour earlier.\nM: So I should be at the lab at a quarter to ten?\nW: Exactly. Don't be late.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When does the science show open?",
+              "options": {
+                "A": "At 9:15.",
+                "B": "At 9:45.",
+                "C": "At 10:15."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Did you go to the headmaster's talk on choosing courses?\nM: I did. To be honest, I found it a bit dull. Half of it was about rules.\nW: Really? I thought the part about future jobs was useful.\nM: Maybe I left too early.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "How did the man find the talk?",
+              "options": {
+                "A": "Boring.",
+                "B": "Useful.",
+                "C": "Too short."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hi, Daniel. You looked lost at the club fair this morning.\nM: I was. There were so many booths, and I couldn't decide which one to visit first.\nW: What are you interested in?\nM: I enjoy speaking in public, but I'm not good at writing speeches.\nW: Then the debate club might suit you. Members help each other with the writing part.\nM: How often do you meet?\nW: Twice a week, on Wednesday and Friday, from four to five thirty.\nM: That's a lot. I have football practice on Fridays.\nW: You could come only on Wednesdays. We don't check attendance.\nM: Good. And is there a fee?\nW: Twenty yuan a term, just to cover the printing.\nM: That's reasonable. I'll come on Wednesday and see how it goes.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the man find difficult?",
+              "options": {
+                "A": "Writing speeches.",
+                "B": "Speaking in public.",
+                "C": "Managing his time."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "How much is the club fee?",
+              "options": {
+                "A": "Free of charge.",
+                "B": "Twenty yuan a month.",
+                "C": "Twenty yuan a term."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Lucy, have you decided on your courses for next term?\nW: Almost. I want to take Chinese painting, but it clashes with my physics class.\nM: Can't you take physics in the morning?\nW: The only morning class is full. The teacher said there might be a place if someone drops out.\nM: So what will you do?\nW: I'll take the painting course and do physics online. The online course has twelve lessons, two hours each. It's a lot of screen time, though.\nM: Won't you miss asking questions in class?\nW: A little. But I can email the teacher, and there are discussion groups every Sunday.\nM: You seem to have thought it through. I'd rather keep things simple and finish my courses in a classroom, with a teacher I can talk to.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What problem does the woman have?",
+              "options": {
+                "A": "Her two chosen courses clash.",
+                "B": "Her physics class is too hard.",
+                "C": "She missed the sign-up date."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "How many hours will the online physics course take in total?",
+              "options": {
+                "A": "12 hours.",
+                "B": "24 hours.",
+                "C": "36 hours."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does the man think of the woman's plan?",
+              "options": {
+                "A": "He thinks it is well thought out.",
+                "B": "He thinks it is a mistake.",
+                "C": "He is unsure about the details."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Excuse me, are you one of the student guides?\nM: Yes, madam. How can I help you?\nW: My son will start here in September. I'd like to see the science building and the dining hall.\nM: The tour group leaves the main hall at two. We visit the science building first, then the dining hall, and we leave the dining hall at about twenty past three.\nW: Good. I have to pick up my daughter at half past four, so I'll leave the tour there.\nM: That's fine. The last stop is the sports field, and the tour ends around four.\nW: By the way, is lunch included in the school fee?\nM: Yes, but you have to pay for evening meals separately.\nW: I see. My son eats a lot, so that matters.\nM: Don't worry. Many students say the food here is the best in the city.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What does the woman want to see?",
+              "options": {
+                "A": "The library and the sports field.",
+                "B": "The main hall and the classrooms.",
+                "C": "The science building and the dining hall."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "When does the group leave the dining hall?",
+              "options": {
+                "A": "At 2:00.",
+                "B": "At 3:20.",
+                "C": "At 4:00."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What does the man say about evening meals?",
+              "options": {
+                "A": "Students pay extra for them.",
+                "B": "They are free for new students.",
+                "C": "They are not offered at school."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Our drama club has to perform at the open day. Any ideas?\nW: Last year we did a short play about school life.\nM: But we only have two weeks. A new play means a new script and new costumes.\nW: We could reuse last year's costumes, and I already have an idea for the story.\nM: Go on.\nW: A new student gets lost on her first day, and three classmates help her find her classroom. It's simple, and it takes ten minutes.\nM: That works. How many actors?\nW: Five. I've asked Anna and Chris, and they're both in. We need two more.\nM: I'll ask Kevin. He makes people laugh.\nW: Perfect. Rehearsals on Monday and Thursday after class?\nM: Let's do Tuesday and Thursday. Monday is too busy for me.\nW: Fine. And let's meet in the music room, because the stage is being repaired.\nM: Right. I'll put a notice on the board.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What are the speakers mainly talking about?",
+              "options": {
+                "A": "A play for the open day.",
+                "B": "A new member of the club.",
+                "C": "A repair to the school stage."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "How long will the play last?",
+              "options": {
+                "A": "Twenty minutes.",
+                "B": "Thirty minutes.",
+                "C": "Ten minutes."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "Who will the man ask to join the play?",
+              "options": {
+                "A": "Anna.",
+                "B": "Chris.",
+                "C": "Kevin."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "Where will the club rehearse?",
+              "options": {
+                "A": "On the stage.",
+                "B": "In the music room.",
+                "C": "In the classroom."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good morning, everyone, and welcome to our school's open day. I'm the president of the student council, and I'm glad to see so many of you here. Today you can visit any classroom, and our teachers will be happy to answer your questions. At eleven o'clock, please come to the hall, where the headmaster will give a short talk about how we choose our courses. After that, the club fair will open on the playground, with more than thirty clubs. If you get hungry, the dining hall is serving free tea and cakes until two. Before you leave, please write a few words on the message board near the gate, because we read every note. Oh, and one small thing: the science building is being painted, so please don't go upstairs. Enjoy your day!",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Who is welcoming the visitors today?",
+              "options": {
+                "A": "The headmaster.",
+                "B": "A teacher.",
+                "C": "A student leader."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "What will happen at eleven o'clock?",
+              "options": {
+                "A": "The club fair will open.",
+                "B": "The headmaster will give a talk.",
+                "C": "Free tea will be served."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What are the visitors asked not to do?",
+              "options": {
+                "A": "Go upstairs in the science building.",
+                "B": "Take photos in the hall.",
+                "C": "Write on the message board."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-14",
+  "title": "2026届高三英语听力仿真训练（14）｜体育健身",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: How much is the gym for a month?\nW: A hundred and fifty yuan for one month, or four hundred for three months.\nM: I'll take the three-month card. It works out cheaper.\nW: Good choice. Photos are taken upstairs.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How much will the man pay for the card?",
+              "options": {
+                "A": "150 yuan.",
+                "B": "400 yuan.",
+                "C": "450 yuan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Will you run in the 800 metres at the sports meeting?\nM: No, my knee still hurts. I'll do the long jump instead.\nW: But you said you were bad at jumping.\nM: I've been practising for two weeks.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What event will the man take part in?",
+              "options": {
+                "A": "The 800 metres.",
+                "B": "The high jump.",
+                "C": "The long jump."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Is your ankle better?\nW: Much better. The doctor said I could start training again, but only for twenty minutes a day at first.\nM: So no long runs yet.\nW: Not for another month. I'll wear a bandage for a while too.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How long should the woman train each day at first?",
+              "options": {
+                "A": "20 minutes.",
+                "B": "30 minutes.",
+                "C": "60 minutes."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: I've started going to the gym at seven in the morning.\nM: Really? I'd find that impossible. I can't move that early.\nW: It's quiet then, and I feel fresh all day.\nM: Maybe I should try. I keep falling asleep on the sofa after work.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "Why does the woman go to the gym early?",
+              "options": {
+                "A": "It is quiet and she feels fresh.",
+                "B": "It is cheaper in the morning.",
+                "C": "Her class is only held then."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Did you watch the final? Five sets and over two hours.\nW: I fell asleep in the third set. Who won?\nM: Lily. But Adam played better in the last two sets.\nW: I always miss the best part.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Who won the final?",
+              "options": {
+                "A": "Adam.",
+                "B": "Lily.",
+                "C": "Neither of them."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Good morning. I'm interested in joining the gym.\nM: Sure. May I ask what you're looking for? Weights, or something like dancing?\nW: Mostly I want to get fitter. I sit all day at work.\nM: Then you might like our morning class. It's forty minutes of stretching and light exercise, and it's popular with office workers.\nW: How often does it meet?\nM: Three times a week, on Monday, Wednesday and Friday. It's included in the membership.\nW: And what does the membership cost?\nM: Two hundred a month, or you can pay for a year and get one month free.\nW: I'll start with one month, thank you. When can I begin?\nM: As soon as you fill in this form. And bring a photo for your card.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What do we know about the morning class?",
+              "options": {
+                "A": "It costs extra.",
+                "B": "It lasts an hour.",
+                "C": "It is free for members."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "Why does the woman want to join the gym?",
+              "options": {
+                "A": "To get fitter.",
+                "B": "To lose weight fast.",
+                "C": "To meet new people."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Good morning, doctor. My shoulder hurts when I swim.\nW: How long has it been like this?\nM: About three weeks. I thought it would go away.\nW: Do you swim every day?\nM: Five days a week, for an hour.\nW: That's probably the problem. Muscles get stronger when they rest.\nM: So should I stop swimming?\nW: No, but cut it to three times a week for a month, and make each session thirty minutes.\nM: Can I do anything else?\nW: Warm up for ten minutes before you get in the water, and put ice on the shoulder afterwards.\nM: How long should I put the ice on?\nW: Ten minutes at a time, no more.\nM: Should I take medicine?\nW: Only if the pain keeps you awake. Try the other things first.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "How often does the man swim now?",
+              "options": {
+                "A": "Three days a week.",
+                "B": "Five days a week.",
+                "C": "Every day."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What does the doctor advise the man to do?",
+              "options": {
+                "A": "Stop swimming completely.",
+                "B": "Change his swimming style.",
+                "C": "Swim less and rest more."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "When does the doctor say to take medicine?",
+              "options": {
+                "A": "If the pain stops him sleeping.",
+                "B": "Before he goes swimming.",
+                "C": "Three times a day."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Mr. Hall, how many students have signed up for the sports meeting?\nM: Two hundred and ten, twenty more than last year.\nW: Do we have enough helpers?\nM: We need twenty, and last year we had only eighteen. It was hard.\nW: I can ask the art class. They're good at making signs too.\nM: That would help. Now, about the timetable. The first field event is at nine, but the grass may still be wet.\nW: So keep the field events at nine?\nM: Yes, and move the running races to ten.\nW: Good. The parents will arrive around eleven for lunch.\nM: Right. We should also remind them not to park on the road.\nW: I'll put that in the letter we send home.\nM: Good. And print a map for them too.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How many students signed up last year?",
+              "options": {
+                "A": "200.",
+                "B": "190.",
+                "C": "210."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "Who will the woman ask to help?",
+              "options": {
+                "A": "The parents.",
+                "B": "Last year's helpers.",
+                "C": "The art class."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "When will the running races start?",
+              "options": {
+                "A": "At ten.",
+                "B": "At nine.",
+                "C": "At eleven."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: I'm thinking of running the city marathon in April.\nW: Have you run one before?\nM: A half marathon, two years ago. It took me two hours and ten minutes.\nW: That's not bad. But a full marathon is another matter. How many weeks do you have?\nM: Eighteen. Is that enough?\nW: Just about. Most plans take twenty weeks. You'll need to run four times a week, and the long run on Sunday should get longer each time.\nM: How long should the longest run be before the race?\nW: About thirty kilometres, three weeks before. Then you rest and eat well.\nM: I'm worried about my knees.\nW: Then don't increase the distance too fast. Ten per cent a week is the rule.\nM: Should I join a club?\nW: I would. Running alone is lonely, and people in clubs know the safe routes.\nM: Good. My friend Ben is in one. I'll ask him on Thursday.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How long did the man's half marathon take?",
+              "options": {
+                "A": "1 hour 40 minutes.",
+                "B": "2 hours 10 minutes.",
+                "C": "2 hours 20 minutes."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What does the woman say about the man's plan?",
+              "options": {
+                "A": "It is just possible.",
+                "B": "It is too late to start.",
+                "C": "It is the easiest way."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What is the rule for increasing distance?",
+              "options": {
+                "A": "Thirty kilometres a week.",
+                "B": "Double every two weeks.",
+                "C": "Ten per cent a week."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "What does the woman think of joining a club?",
+              "options": {
+                "A": "It costs too much.",
+                "B": "It is a good idea.",
+                "C": "It is unnecessary."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Before you start using the machines, let me say a few words about safety. First, always warm up for five to ten minutes, because cold muscles are easily hurt. Second, if something feels painful, stop at once. Pain is not a sign of progress. Third, put the weights back where you found them, so nobody trips. If you are not sure how a machine works, just ask one of us. We would rather answer a question than treat an injury. Our trainers are here from six in the morning until ten at night, and any of them can help you plan a programme. If you have not exercised for a long time, book a free check with the nurse first. Finally, please bring a towel and wear clean shoes. The changing rooms close fifteen minutes before the gym does.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Where is the talk most probably given?",
+              "options": {
+                "A": "At a gym.",
+                "B": "In a hospital.",
+                "C": "In a school."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What does the speaker say about pain?",
+              "options": {
+                "A": "It shows progress.",
+                "B": "You should train through it.",
+                "C": "You should stop at once."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What must members bring?",
+              "options": {
+                "A": "A medical report.",
+                "B": "A towel and clean shoes.",
+                "C": "Their own weights."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

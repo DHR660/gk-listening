@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-08",
+  "title": "2026届高三英语听力仿真训练（08）｜科技网络",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届八省联考高三英语 听力（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: My phone has lost all its photos again. That is twice this year.\nW: Do you back them up to the cloud?\nM: I keep meaning to, but something else always comes first.\nW: Give me the phone now, before you lose them a third time.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What does the woman offer to do?",
+              "options": {
+                "A": "Repair the man's phone.",
+                "B": "Back up his photos.",
+                "C": "Buy him a new phone."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Is the online class still at eight tonight?\nM: The teacher changed it to half past eight, and it will last ninety minutes instead of two hours.\nW: So we finish at ten. Good, I can cook dinner first.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How long will the class last?",
+              "options": {
+                "A": "One hour.",
+                "B": "Two hours.",
+                "C": "Ninety minutes."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: I cannot get the printer to work with my new laptop.\nW: Did you install the driver? The paper is in, so it must be the software.\nM: I did not know I had to. I thought it worked straight out of the box.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What seems to be wrong with the printer?",
+              "options": {
+                "A": "The printer software is missing.",
+                "B": "The printer has no paper.",
+                "C": "The laptop is too old."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Tom, how many hours a day do you spend on your phone?\nM: Probably four. My father says I am addicted.\nW: Four is a lot. Have you tried setting a daily limit?\nM: I did, but I turned the limit off within a week.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What happened to the man's daily limit?",
+              "options": {
+                "A": "He gave it up quickly.",
+                "B": "It worked very well.",
+                "C": "He set it too high."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Our school wants to replace all the textbooks with tablets next term.\nW: All of them? I can see the use in maths, but I would worry about all that screen time.\nM: I agree. Technology should help learning, not take over the lesson.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the man's attitude towards the tablet plan?",
+              "options": {
+                "A": "He is strongly for it.",
+                "B": "He is simply uninterested.",
+                "C": "He has some doubts."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Your internet keeps dropping. Have you called the company?\nM: Twice. The first person told me to restart the router, which I had already done.\nW: And the second?\nM: He asked me to test the speed and to read him the number. It was less than half of what I pay for.\nW: So the problem is not inside your flat.\nM: Right. He said my plan is too old for the speed I need, and offered me a new one at the same price. An engineer is coming on Thursday between two and four.\nW: So nothing to pay?\nM: Nothing. I keep the old box for one more week, and then they take it away.\nW: That is better than I expected.\nM: And I will finally be able to watch a film without waiting for it to load.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What was the man first told to do?",
+              "options": {
+                "A": "Buy a new router.",
+                "B": "Restart the router.",
+                "C": "Change his plan."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "When will the engineer come?",
+              "options": {
+                "A": "On Tuesday morning.",
+                "B": "On Thursday afternoon.",
+                "C": "On Friday evening."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: How was your first week of online lectures, Lily?\nW: Better than I feared. The platform shows the slides, and I can type questions at the same time.\nM: What about the discussions? I hate talking to a screen.\nW: We work in small groups of four in separate rooms, and the teacher visits ours twice. That is why it works.\nM: Any problems?\nW: One. My neighbour's wifi is weak, so I sit in the kitchen, near the door. And last Tuesday I forgot to mute myself while I was making tea. The whole class heard the spoon.\nM: So now the whole class knows that you like your tea weak and sweet.\nW: The teacher writes the word mute in large letters at the top of every slide, so nobody forgets again.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the woman think of the small groups?",
+              "options": {
+                "A": "They are too noisy.",
+                "B": "They waste time.",
+                "C": "They work well."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "Where does the woman sit for her lectures?",
+              "options": {
+                "A": "Near the kitchen door.",
+                "B": "In her bedroom.",
+                "C": "In the school library."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "Why does the teacher write the word mute on every slide?",
+              "options": {
+                "A": "To teach a new word.",
+                "B": "To remind the students.",
+                "C": "To make the slides clear."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: My mother has bought a smart speaker. It plays music, tells the weather, and now it turns the lights on.\nW: Handy. Does she like it?\nM: She loves it, except that it sometimes starts talking at midnight, because my brother says hello to it in the next room.\nW: Losing sleep to a machine. I know that feeling; my washing machine sings at six every morning.\nM: And it cannot understand her. She speaks the local dialect at home, so she has to repeat every command in Mandarin.\nW: Could the app learn her dialect?\nM: The man in the shop said such models may come out next year. For now, my mother has written twelve commands on a card and stuck it on the fridge.\nW: That is one way to teach a machine.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What can the speaker do besides playing music?",
+              "options": {
+                "A": "Cook meals.",
+                "B": "Clean the floor.",
+                "C": "Turn on the lights."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "What sometimes wakes the family at night?",
+              "options": {
+                "A": "The speaker answering a greeting.",
+                "B": "The brother's friends.",
+                "C": "The kitchen lights."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What has the mother done to solve her problem?",
+              "options": {
+                "A": "She speaks only Mandarin.",
+                "B": "She uses a card of commands.",
+                "C": "She returned the speaker."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Ms. Novak, I am doing a survey on screen time for my media class. Could you give me five minutes?\nW: Fine. What do you need to know?\nM: How many hours our students spend online each day, and what they do there.\nW: I can answer the second part from the technology club. Most of the club time goes on games now, not on programming.\nM: And the first part?\nW: Your questionnaire got one hundred and twenty replies. The average is three hours a day, but the students who play games report five.\nM: Five? Then I should separate the two groups in my report.\nW: Yes. And be careful with your question. If you write how much time do you waste, people answer with shame, not with facts.\nM: So the question itself can change the answer.\nW: Every time.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What does the woman say about the technology club?",
+              "options": {
+                "A": "It has few members.",
+                "B": "It has no teacher.",
+                "C": "It spends most time on games."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "How many students answered the questionnaire?",
+              "options": {
+                "A": "120.",
+                "B": "100.",
+                "C": "150."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What is the students' average screen time?",
+              "options": {
+                "A": "Two hours a day.",
+                "B": "Three hours a day.",
+                "C": "Five hours a day."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "What does the woman warn the man about?",
+              "options": {
+                "A": "The size of his sample.",
+                "B": "The time of the survey.",
+                "C": "The wording of a question."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good morning, students. I am Emma from the school paper. Next month we shall run a phone-free week, from Monday to Friday, and I hope many of you will join us. Here is how it works. You put your phone into a box at the school gate in the morning and collect it when classes end. Teachers will do the same, which makes the experiment fair. Last term one class in our school tried it for two days. At first they complained. By the second afternoon they were playing cards and talking at lunch. In a short survey afterwards, two thirds of them said they had spoken to someone they had never spoken to before. I should add that the box is only for school hours. You will still have your phone in the evening, so your parents can reach you. Anyone who wants to join should write his or her name on the list outside the library before Friday.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "How long will the experiment last?",
+              "options": {
+                "A": "Five days.",
+                "B": "Two days.",
+                "C": "Two weeks."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "Who else will give up phones during school hours?",
+              "options": {
+                "A": "The parents.",
+                "B": "The teachers.",
+                "C": "The cleaners."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What did last term's experiment show?",
+              "options": {
+                "A": "Students slept better at home.",
+                "B": "Teachers disliked the idea.",
+                "C": "Students talked to new people."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-15",
+  "title": "2026届高三英语听力仿真训练（15）｜餐饮外卖",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: I'd like a chicken sandwich and a coffee, please.\nM: Milk in your coffee?\nW: No, just black. And could you make the sandwich without cheese?\nM: Of course. Would you like to eat in or take away?\nW: Take away, please.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What does the woman ask for?",
+              "options": {
+                "A": "A sandwich with milk.",
+                "B": "A sandwich without cheese.",
+                "C": "Two cups of coffee."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: I'm calling about my order. You said it would come at six thirty.\nW: It's seven now, and I'm sorry. The restaurant is very busy. It should be with you in twenty minutes.\nM: So it's half an hour late already. My friends are waiting at the table.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When will the food probably arrive?",
+              "options": {
+                "A": "At 6:30.",
+                "B": "At 7:00.",
+                "C": "At 7:20."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: What did you think of the new noodle place?\nM: The food was fine, but it was so noisy I couldn't hear you.\nW: I know. And the waiters seemed too busy to smile.\nM: Still, I'd go back for the soup.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What did the man dislike about the restaurant?",
+              "options": {
+                "A": "The noise.",
+                "B": "The food.",
+                "C": "The price."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: How much is the set lunch?\nW: Eighty yuan each, but students get twenty per cent off.\nM: So for the two of us, that's a hundred and twenty-eight.\nW: That's right. Drinks are extra.\nM: Fine. We'll pay by phone.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "How much will they pay in total?",
+              "options": {
+                "A": "120 yuan.",
+                "B": "128 yuan.",
+                "C": "160 yuan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: A table for two by the window, please.\nM: I'm afraid those are all taken. Would you mind waiting ten minutes?\nW: Not at all. We'll look at the menu while we wait.\nM: Thank you. Shall I bring you some water first?",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Where does the conversation take place?",
+              "options": {
+                "A": "At a supermarket.",
+                "B": "At a food factory.",
+                "C": "At a restaurant."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Hello, is that the Golden Kitchen?\nW: Yes, this is the Golden Kitchen. What can I get you?\nM: Beef noodles and a vegetable soup. No chili in the noodles, please.\nW: Anything to drink?\nM: Two cups of green tea. How long will it take?\nW: About twenty-five minutes, or you can pick it up in fifteen.\nM: Delivery is fine, since I'm working late tonight. How much is that?\nW: Delivery is three yuan, and your order is forty-six, so forty-nine in total.\nM: Can I pay by phone?\nW: Yes, or in cash when it arrives.\nM: One more thing. Could you send some chopsticks? We've just moved in and have none.\nW: No problem. I'll add a note for the kitchen.\nM: Thanks. See you soon.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the man ask about the noodles?",
+              "options": {
+                "A": "No chili.",
+                "B": "Extra beef.",
+                "C": "Less salt."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "How much will the man pay in total?",
+              "options": {
+                "A": "43 yuan.",
+                "B": "49 yuan.",
+                "C": "46 yuan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hello, this is Quick Delivery. How can I help?\nM: I ordered dinner at half past six, and it's now a quarter past eight. Nothing has arrived.\nW: I'm very sorry. Let me check. Ah, the rider's bike broke down near the bridge.\nM: Could nobody call me?\nW: You should have received a message. I'll send one now. Would you like the food sent again, or a refund?\nM: Is the food still hot?\nW: I'm afraid it's been in the bag for an hour. The restaurant can make it again in ten minutes.\nM: Then please send a new order. But I'd like the delivery fee back.\nW: Of course. The fee is five yuan, and I'll add ten yuan off your next order.\nM: That's fair. Thank you.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What happened to the delivery?",
+              "options": {
+                "A": "The rider left very late.",
+                "B": "The order was lost.",
+                "C": "The rider's bike broke down."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "How long has the man waited by 8:15?",
+              "options": {
+                "A": "One hour and forty-five minutes.",
+                "B": "Forty-five minutes.",
+                "C": "Two hours."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What does the woman offer besides the refund?",
+              "options": {
+                "A": "A free meal.",
+                "B": "Ten yuan off the next order.",
+                "C": "A new drink."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Did you see the reviews for the new dumpling shop?\nM: I did. Three hundred people gave it five stars, but forty said the service was slow.\nW: Forty out of three hundred and forty isn't much.\nM: Still, look at what they wrote. One person waited fifty minutes and got cold dumplings.\nW: Maybe they were unlucky. The shop opened only a month ago.\nM: I'd rather wait a few weeks. The first month is always hard.\nW: Fair enough. Meanwhile, the noodle place has a buy-one-get-one offer on Tuesdays.\nM: Now that's a reason to go out. Shall we try it next week?\nW: Tuesday is my late class. How about Thursday?\nM: Thursday it is. I'll book a table for seven.\nW: Make it half past seven. I need time to go home first.\nM: Seven thirty, then.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "How many people gave the dumpling shop five stars?",
+              "options": {
+                "A": "40.",
+                "B": "340.",
+                "C": "300."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "Why does the man want to wait?",
+              "options": {
+                "A": "The shop is too new.",
+                "B": "The prices are too high.",
+                "C": "He dislikes dumplings."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What is offered on Tuesdays at the noodle place?",
+              "options": {
+                "A": "Free drinks.",
+                "B": "Buy one, get one free.",
+                "C": "A student discount."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: So, where shall we hold the class dinner? There are twenty-four of us.\nW: The Garden Restaurant has a room for thirty. But it wants a deposit of three hundred yuan.\nM: How much is the food per person?\nW: A hundred and twenty for a set menu of eight dishes. Drinks are extra.\nM: That's nearly three thousand in total. A bit much, isn't it?\nW: We could choose the smaller menu at ninety. The owner says it's enough for most groups.\nM: With ninety each, twenty-four people pay two thousand one hundred and sixty.\nW: And the deposit comes off the final bill, so we don't lose it.\nM: Good. Can they do a vegetarian menu for Lily?\nW: Yes, and they'll make a cake if we ask three days early.\nM: Then let's book it. I'll collect the money from everyone by Friday.\nW: And I'll send the invitation. Should it say seven o'clock?\nM: Make it half past six, so people can arrive slowly.\nW: Right. I'll write that now.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How many people are there in the class?",
+              "options": {
+                "A": "20.",
+                "B": "30.",
+                "C": "24."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "How much will the group pay in total for the smaller menu?",
+              "options": {
+                "A": "2,160 yuan.",
+                "B": "1,800 yuan.",
+                "C": "2,880 yuan."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What will the woman ask the restaurant to provide for Lily?",
+              "options": {
+                "A": "Free drinks.",
+                "B": "Vegetarian dishes.",
+                "C": "A bigger room."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 17,
+              "text": "When will the dinner start?",
+              "options": {
+                "A": "At 6:00.",
+                "B": "At 7:00.",
+                "C": "At 6:30."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Welcome to this week's Food Talk. Today I want to talk about ordering food at home. A new study says that last year, people in our city ordered four hundred million meals online, twice as many as three years ago. The most popular dish was fried rice, followed by noodles. But the study also found a problem: almost a third of customers said the food arrived colder than they expected. Restaurants are trying to solve this. Some now use boxes that keep heat for up to forty minutes. Others have begun hiring their own riders instead of using an app. My advice? If you are ordering soup, choose a restaurant within three kilometres, and avoid rainy evenings, when everything slows down. Next week I'll be talking about breakfast places.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "What was the most popular dish?",
+              "options": {
+                "A": "Fried rice.",
+                "B": "Noodles.",
+                "C": "Soup."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "How many meals were ordered three years ago?",
+              "options": {
+                "A": "800 million.",
+                "B": "200 million.",
+                "C": "400 million."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker advise people to do when ordering soup?",
+              "options": {
+                "A": "Order it in the morning.",
+                "B": "Ask for a bigger box.",
+                "C": "Choose a nearby restaurant."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

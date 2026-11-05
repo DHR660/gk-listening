@@ -1,0 +1,299 @@
+{
+  "id": "gk2020-n1",
+  "title": "2020年普通高等学校招生全国统一考试 英语听力（全国Ⅰ卷）",
+  "exam": "全国Ⅰ卷",
+  "year": 2020,
+  "source": "https://tesoon.com/resource/detail?rid=69557",
+  "answerSource": "https://www.tesoon.com/resource/detail?biid=51729&rid=31971",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2020年全国Ⅰ卷、全国Ⅱ卷、全国Ⅲ卷及江苏卷使用同一套听力录音与试题（来源页面标题即为“全国卷I、II、III、江苏卷”），为避免重复，题库中只保留这一套，Ⅰ/Ⅱ/Ⅲ 卷及江苏卷通用。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Excuse me. How can I get to the nearest supermarket?\nW: It's on Pennings Road. Go past the post office and it's on your left.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In a supermarket.",
+                "B": "In the post office.",
+                "C": "In the street."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: I don't know how you did it, Carl, but the TV works beautifully now. You should get a medal for your work.\nM: It wasn't hard at all. It was much easier than preparing for the test.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What did Carl do?",
+              "options": {
+                "A": "He designed a medal.",
+                "B": "He fixed a TV set.",
+                "C": "He took a test."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Good morning, Madam. What can I do for you?\nW: Well, the sleeves of this jacket are too long. Can you make them shorter?\nM: Let me take a look. OK, I can do it for twenty dollars.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man do?",
+              "options": {
+                "A": "He's a tailor.",
+                "B": "He's a waiter.",
+                "C": "He's a shop assistant."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Excuse me. Could you tell me what time Flight AF35 gets in?\nM: Well, it's due in at 18:20, but the announcement said just now that it has a 30-minute delay because of the bad weather.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When will the flight arrive?",
+              "options": {
+                "A": "At 18:20.",
+                "B": "At 18:35.",
+                "C": "At 18:50."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Miss Miller, could you tell me how I can improve this article? I got a B plus.\nW: It's quite good actually. The language use is good and the main points are covered. There's just too much repetition. You could have said everything within two pages.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "How can the man improve his article?",
+              "options": {
+                "A": "By deleting unnecessary words.",
+                "B": "By adding a couple of points.",
+                "C": "By correcting grammar mistakes."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: So, Bill. What do you usually do on the weekend?\nM: I often go to the movies with friends on Friday night. How about you, Sarah?\nW: Well, I love seeing musical plays on Broadway with my friends. Have you been to many?\nM: Not really. I saw one when I moved to New York and another when my parents came to visit, but none ever since.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does Bill often do on Friday night?",
+              "options": {
+                "A": "Visit his parents.",
+                "B": "Go to the movies.",
+                "C": "Walk along Broadway."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "Who watches musical plays most often?",
+              "options": {
+                "A": "Bill.",
+                "B": "Sarah.",
+                "C": "Bill's parents."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hello, Helen Smith speaking. Can I help you?\nM: Hello, this is David. Could I speak to Mike, please?\nW: I'm afraid he's not available at the moment. Would you leave a message?\nM: Yes. I'm calling to cancel a meeting we scheduled for this afternoon.\nW: OK, let me take this down. Could I have your name again?\nM: Certainly, it's David Stone.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why does David want to speak to Mike?",
+              "options": {
+                "A": "To invite him to a party.",
+                "B": "To discuss a schedule.",
+                "C": "To call off a meeting."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "What do we know about the speakers?",
+              "options": {
+                "A": "They are colleagues.",
+                "B": "They are close friends.",
+                "C": "They've never met before."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Can I help you, sir?\nM: I'd like to buy a camera.\nW: Right. We have ordinary cameras, movie cameras and video cameras. They are all digital.\nM: Well, I am thinking of a video camera.\nW: Let's see. How much do you want to spend, sir?\nM: Oh, I'm not really sure. What is the price?\nW: Well, that depends on the model and anything else you want to have with it.\nM: I see.\nW: How about this one? It has one of the new memory sticks and a protective case for filming underwater so you can take it when you go diving.\nM: Does it have auto-focus?\nW: No, it doesn't.\nM: That's OK. The underwater filming is important for me actually. How much is this?\nW: It costs 650 euros.\nM: Oh, that's a bit expensive for me. Have you got anything similar but less expensive?\nW: Well, here's the sale of the week. It's excellent for the price, only 470 euros, and it includes...",
+          "questions": [
+            {
+              "no": 10,
+              "text": "What kind of camera does the man want?",
+              "options": {
+                "A": "A TV camera.",
+                "B": "A video camera.",
+                "C": "A movie camera."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 11,
+              "text": "Which function is the man most interested in?",
+              "options": {
+                "A": "Underwater filming.",
+                "B": "A large memory.",
+                "C": "Auto-focus."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How much would the man pay for the second camera?",
+              "options": {
+                "A": "950 euros.",
+                "B": "650 euros.",
+                "C": "470 euros."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: A big dog celebrates a big birthday this year. Clifford the \"Big Red Dog\" first appeared 50 years ago, along with Emily Elizabeth, the little girl who loves him. Today we have Norman Bridwell to talk with NPR's reporter on his dog's 50th birthday. So Norman, tell us how it all started.\nM: Well, it was 1962, and I was a struggling, not very successful artist in New York. My wife suggested that I try my hand at painting for children's books. So I did 10 paintings and took them to publishers. I was turned down everywhere, except at one publisher, where a young woman told me I wasn't very good, so if I wanted to paint for a book, I'd need to write one on my own.\nW: So you did?\nM: Um, the woman pointed to a painting I'd done, of a little girl with a big red dog, and she said, \"Maybe that's a story.\" And I went home, and over that weekend I wrote the story Clifford the Big Red Dog and was shocked when it was accepted for publication, because I'd never written anything before.\nW: I see. How wonderful!\nM: Yes, it was. My wife was also in shock when she did realize it wasn't a dream. But it was just luck.\nW: But that luck turned into 90 Clifford books that have sold 126 million copies in 13 languages.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "Who is Clifford?",
+              "options": {
+                "A": "A little girl.",
+                "B": "The man's pet.",
+                "C": "A fictional character."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 14,
+              "text": "Who suggested that Norman paint for children's books?",
+              "options": {
+                "A": "His wife.",
+                "B": "Elizabeth.",
+                "C": "A publisher."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "What is Norman's story based on?",
+              "options": {
+                "A": "A book.",
+                "B": "A painting.",
+                "C": "A young woman."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What is it that shocked Norman?",
+              "options": {
+                "A": "His unexpected success.",
+                "B": "His efforts made in vain.",
+                "C": "His editor's disagreement."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Hello, everyone. Today, I'm going to talk about small talk — that is, short conversations people often have with strangers they meet. Such exchanges occur at bus stops, on buses, while waiting in line — almost anywhere that strangers gather close together. As a matter of fact, these short conversations are a good way for people to say hello and express friendliness. Such conversations usually cover a wide range of topics. The topics may include weather, customer service, movies, TV shows, local sports, or latest news. But you should always keep it in your mind that private questions about salaries, family life, religious beliefs and politics should be avoided during these conversations. Besides, it's better to ask open-ended questions. If you ask visitors, \"Do you like our city?\", they may say simply, \"Yes.\" On the other hand, if you ask, \"What do you think of our city?\", they will have more freedom in answering. This type of questions also shows that you are interested in them. If you appear interested in what people are saying, they feel more comfortable talking with you.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Who would like to make small talk according to the speaker?",
+              "options": {
+                "A": "Relatives.",
+                "B": "Strangers.",
+                "C": "Visitors."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 18,
+              "text": "Why do people have small talk?",
+              "options": {
+                "A": "To express opinions.",
+                "B": "To avoid arguments.",
+                "C": "To show friendliness."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "Which of the following is a frequent topic in small talk?",
+              "options": {
+                "A": "Politics.",
+                "B": "Movies.",
+                "C": "Salaries."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker recommend at the end of his lecture?",
+              "options": {
+                "A": "Asking open-ended questions.",
+                "B": "Feeling free to change topics.",
+                "C": "Making small talk interesting."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

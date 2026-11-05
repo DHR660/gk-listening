@@ -1,0 +1,299 @@
+{
+  "id": "gk2020-xgk1",
+  "title": "2020年普通高等学校招生全国统一考试 英语听力（新高考Ⅰ卷·山东）",
+  "exam": "新高考Ⅰ卷",
+  "year": 2020,
+  "source": "https://tesoon.com/topic/detail?rid=37693",
+  "answerSource": "https://www.renrendoc.com/paper/260719060.html",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2020年山东实行“两次听力考试取高分”，本文件为山东卷第1次听力（也是通行教辅标注的“2020新高考Ⅰ卷听力”）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: I'm looking for a plain blue sweater.\nW: How about this one?\nM: Yes, that's nice. Could I try it on?\nW: Certainly. The fitting rooms are over there.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where does the conversation take place?",
+              "options": {
+                "A": "At a store.",
+                "B": "At a gym.",
+                "C": "At home."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: David's going to meet us at the club around six.\nM: Good. How will he get there? I don't think driving is a good choice in the rush hour.\nW: David said he'll take the underground. What about us?\nM: Let's go by bike.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How will David get to the club?",
+              "options": {
+                "A": "By car.",
+                "B": "By train.",
+                "C": "By bike."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: Jane, wait a second. I'm going with you.\nW: Okay. I'm going to Professor Wang's calligraphy class.\nM: I know. It's in the chemistry building, right? My biology class is in the same building.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What is Jane studying?",
+              "options": {
+                "A": "Biology.",
+                "B": "Chemistry.",
+                "C": "Calligraphy."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Is there anything else you want?\nM: No, thank you. By the way, in case there's a problem with this air conditioner, can I return it?\nW: Yes, but you must return it within thirty days.\nM: Thank you.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What is the man doing?",
+              "options": {
+                "A": "Buying an air conditioner.",
+                "B": "Returning an air conditioner.",
+                "C": "Fixing an air conditioner."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Stop checking emails! We are in the middle of a vacation!\nM: Okay! One more minute and I'll switch it off.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "How does the woman probably feel?",
+              "options": {
+                "A": "Excited.",
+                "B": "Annoyed.",
+                "C": "Puzzled."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Hello, Global Travel Agency. May I help you?\nM: Hello. Do you have a package tour to Seattle? If you do, how many days will it last?\nW: Yes, we do. Four days and three nights. It's available every Monday and Wednesday.\nM: Please help me register two people for the tour for this Wednesday.\nW: I'm sorry. This Wednesday is already fully booked. It's the traveling season, you know. Would you go for next week?\nM: Okay. Can I book it now?\nW: Yes, of course. Now, when will you start your holiday, Monday or Wednesday?\nM: Well, I'm teaching on Monday. So Wednesday, please.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "How many people will be travelling?",
+              "options": {
+                "A": "Four.",
+                "B": "Three.",
+                "C": "Two."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "When will the man leave for Seattle?",
+              "options": {
+                "A": "This Wednesday.",
+                "B": "Next Monday.",
+                "C": "Next Wednesday."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: I have been trying hard to choose a gift for Kate for her birthday.\nM: That's been hard for me too.\nW: Would you like to go in with me and choose something together?\nM: Yes, two heads are better than one. So, what does Kate like doing? That might help us choose something.\nW: She seems to enjoy listening to music, reading novels, and going to the movies.\nM: Maybe we could get her a concert ticket. What do you think?\nW: That's a good idea. But we don't know what concert she likes.\nM: Jane can help us. She knows Kate very well.\nW: You're right. Let's see Jane this afternoon after class.\nM: Okay.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What are the speakers mainly talking about?",
+              "options": {
+                "A": "Buying a present.",
+                "B": "Attending a concert.",
+                "C": "Planning a birthday party."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What will the speakers do later?",
+              "options": {
+                "A": "See a movie.",
+                "B": "Read a novel.",
+                "C": "Meet up with Jane."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Hey, I think I found a job that might interest Lisa. Where is she?\nW: She went to Liverpool visiting friends, I think. What is it?\nM: Well, it's from London Week, which claims to be the only newspaper for visitors to London.\nW: What do they want, a reporter?\nM: No, it's what they call a sales representative.\nW: Hmm. Could be interesting. How much does it pay?\nM: Not bad. Three thousand pounds a month. That's five hundred pounds more than what she made in her last job.\nW: Not bad at all. Any requirement?\nM: Salespeople with no less than two years of experience, not necessarily in advertising. Lisa's got plenty of that.\nW: Any other details about the job?\nM: No, just the paid trips to Paris on top of the salary.\nW: Well, let's tell Lisa. She'll be back tomorrow I expect.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "Where is Lisa?",
+              "options": {
+                "A": "Liverpool.",
+                "B": "London.",
+                "C": "Paris."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 11,
+              "text": "What kind of people does London Week need?",
+              "options": {
+                "A": "Reporters.",
+                "B": "Sales representatives.",
+                "C": "Advertisers."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "How much did Lisa earn monthly in her last job?",
+              "options": {
+                "A": "3,500 pounds.",
+                "B": "3,000 pounds.",
+                "C": "2,500 pounds."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Hi, I'm Sarah.\nM: Hello, Sarah. My name's Ricky.\nW: Hi Ricky. Are you a new student here?\nM: Yes, I just had my first lesson this morning. Are you a new student too?\nW: No. I've been here for a year.\nM: A year? That's a long time.\nW: Yes, it is. I went through three months of language training after I first arrived in this college, and now I'm a psychology student here. Today I've come to visit my teacher in the language centre. How long have you been here?\nM: Only a week.\nW: Oh, not long. Where do you live, with a family?\nM: Yes, I'm staying with a retired couple at the moment. They're very nice, but I'm looking for a new place where I can hang out with more people of my age. Do you know of any good places?\nW: Yes. Actually, my friend John has a spare room in his apartment. And he is looking for a roommate. Would you like his phone number?\nM: That would be great! Thanks for your help.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "What's the relationship between the speakers?",
+              "options": {
+                "A": "Good friends.",
+                "B": "Fellow students.",
+                "C": "Roommates."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 14,
+              "text": "When did Sarah start college?",
+              "options": {
+                "A": "A year ago.",
+                "B": "Three months ago.",
+                "C": "A week ago."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "Why does Ricky want to move?",
+              "options": {
+                "A": "He wants younger company.",
+                "B": "He wants to be nearer college.",
+                "C": "He doesn't get along with the host family."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What will Ricky probably do next?",
+              "options": {
+                "A": "Visit a teacher.",
+                "B": "Hang out with friends.",
+                "C": "Give John a phone call."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Good morning, everybody. Before we start the class today, I need to give you some information about our field trip on the 27th of May. As you know, we're spending the day at The Science Museum in London. A coach will pick us up in the school car park. We'll leave at 8 o'clock, so plan to be there at least fifteen minutes before that, 7:45 at the latest. You'd better set your alarms for 6:30, okay? If you've visited The Science Museum before, you'll know that it's enormous, and we can't possibly see everything in one day. The Welcome Wing has three galleries which deal only with contemporary science. We're going to have a guided tour of one of them. We've ordered lunch at the café, so we'll all meet up there at 12:30. And don't be late. We have to go to the cinema at 1:15. I think that's all for now. Oh, one last thing. Check out The Science Museum website before we go. The more you read about it, the more interesting the visit will be.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Who is the speaker?",
+              "options": {
+                "A": "A guide.",
+                "B": "A teacher.",
+                "C": "A coach."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 18,
+              "text": "When will the students leave for the museum?",
+              "options": {
+                "A": "6:30.",
+                "B": "7:45.",
+                "C": "8:00."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "What will the students do at 1:15?",
+              "options": {
+                "A": "See a film.",
+                "B": "Meet at a cafe.",
+                "C": "Visit a gallery."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 20,
+              "text": "Where can the students find more information?",
+              "options": {
+                "A": "From teachers.",
+                "B": "From a website.",
+                "C": "From a book."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

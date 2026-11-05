@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-01",
+  "title": "2026届高三英语听力仿真训练（01）｜校园学习",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届安徽省合肥市高三第一次模拟考试（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Have you finished the history review sheet? The exam is Thursday.\nW: Almost. I'm stuck on the last two questions. Could we go over them later?\nM: Sure, but choir practice ends at four. Let's meet at half past four.\nW: Fine. I'll save us a table.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How long after choir practice will the speakers meet?",
+              "options": {
+                "A": "One hour.",
+                "B": "Fifteen minutes.",
+                "C": "Thirty minutes."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Are you joining the debating club this term?\nM: I was going to, but its meetings are on the same evening as my physics club. I've decided to stay with physics.\nW: That's a pity. You're really good at arguing.\nM: Thanks. Maybe I'll try debating next year.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "Why can't the man join the debating club?",
+              "options": {
+                "A": "He missed the sign-up.",
+                "B": "He has physics club then.",
+                "C": "He finds debating boring."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: The tap in our dorm kitchen has been dripping all week. Did you report it?\nW: I did, on Monday. The maintenance office said someone would come, but nobody has.\nM: That's really annoying. Maybe we should go there in person.\nW: I'm not happy about it at all. Let's go before dinner.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How does the woman feel about the maintenance office?",
+              "options": {
+                "A": "Disappointed.",
+                "B": "Satisfied.",
+                "C": "Frightened."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Mr. Li says the maths test will be moved to Friday morning.\nM: Friday? But I have a doctor's appointment at nine.\nW: Don't worry. He has moved it to the afternoon, at two.\nM: That's a relief. I'll have time to go to the clinic and come back.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When is the maths test now?",
+              "options": {
+                "A": "On Friday morning.",
+                "B": "On Thursday afternoon.",
+                "C": "On Friday afternoon."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: You look tired, Anna. Were you up late again?\nW: Until one. I was preparing for the speech contest, but I kept forgetting my lines.\nM: You should get some sleep. A tired brain won't remember anything.\nW: I know. I'll practise once more and then go to bed.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What does the man advise the woman to do?",
+              "options": {
+                "A": "Get more sleep.",
+                "B": "Practise her speech.",
+                "C": "See a doctor."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Mr. Brown, can I ask about the English test I missed on Tuesday?\nM: Of course, Lucy. You were ill, weren't you? I got your note.\nW: Yes, a bad cold. The doctor told me to rest for two days.\nM: I'm very glad you're better. The test covered the first three units of the book. I've put a copy in the staff room.\nW: When could I take it? I don't want to fall behind.\nM: Thursday after school? It takes forty minutes. You can use Room 204.\nW: Good. Should I review the listening part? I heard it was hard.\nM: Yes. I'll play the last conversation again for you.\nW: That's kind. I'll come at four.\nM: Don't worry too much. Your classwork has been excellent.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What did Lucy miss on Tuesday?",
+              "options": {
+                "A": "A club meeting.",
+                "B": "An English test.",
+                "C": "A doctor's appointment."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "How does Mr. Brown sound when talking to Lucy?",
+              "options": {
+                "A": "Strict.",
+                "B": "Impatient.",
+                "C": "Supportive."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hi, Tom. Are you coming to the photography club meeting?\nM: I can't. I'm helping Mr. Green set up the science exhibition.\nW: Is that this week? I thought it was next Friday.\nM: It was, but the head teacher moved it to Thursday. The hall is needed for a parents' meeting next week.\nW: That explains the new notice. Do you need helpers?\nM: Yes. We need someone to check the posters and guide visitors.\nW: I'll ask the photography club. How long does it last?\nM: From nine to half past eleven, then from two to four.\nW: Will you have time for lunch?\nM: Mr. Green is bringing sandwiches at twelve.\nW: Count me in for the afternoon. I'm free after two.\nM: Great. Bring your camera. Some experiments look amazing.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why was the science exhibition moved?",
+              "options": {
+                "A": "The hall will be in use next week.",
+                "B": "The club lacks helpers.",
+                "C": "The head teacher will be away."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "When will the woman help at the exhibition?",
+              "options": {
+                "A": "In the morning.",
+                "B": "In the afternoon.",
+                "C": "At noon."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does the man remind the woman to bring?",
+              "options": {
+                "A": "Some sandwiches.",
+                "B": "A notice board.",
+                "C": "Her camera."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Lily, the corridor is so noisy after ten. I can hardly review my notes.\nW: It's the students opposite. They play cards every night. I spoke to them, but it didn't help.\nM: Maybe we should ask the dorm supervisor for another room.\nW: I'd rather not move. We've just decorated this room, and it's close to the bathroom.\nM: But exams start in two weeks. I need somewhere quiet.\nW: What if we study in the reading room until eleven? We'd only return when everyone's asleep.\nM: That could work, but I don't like walking back alone so late.\nW: We can walk back together. And we can study there during the day at weekends.\nM: All right. Let's try it for a week. If it's still noisy, we'll see the supervisor.\nW: Deal. I'll bring my desk lamp. The reading room is dim.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "Why can't the man review his notes?",
+              "options": {
+                "A": "He cannot study quietly.",
+                "B": "He cannot sleep well.",
+                "C": "He has no desk lamp."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "What does the woman suggest doing?",
+              "options": {
+                "A": "Moving to another room.",
+                "B": "Studying in the reading room.",
+                "C": "Talking to the students again."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "Why does the man hesitate at first?",
+              "options": {
+                "A": "He thinks the room is too far.",
+                "B": "He has no time in the evening.",
+                "C": "He dislikes walking back alone."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Welcome to Campus Weekly, Daniel. Why did you start the study-buddy programme?\nM: I saw new students studying alone in the library. I remembered my own difficult first month, so I asked the school to match them with older students.\nW: How does it work?\nM: Each new student meets a buddy twice a week. They compare timetables and share notes. The older students just offer advice.\nW: How many joined?\nM: We started with twelve pairs. Now there are thirty. We stopped taking names; we lack volunteers.\nW: What do the new students say?\nM: Most like having someone to ask questions without feeling silly.\nW: What do you need most?\nM: More volunteers. And a notice board near the dining hall.\nW: Any advice for new organisers?\nM: Start small. Don't wait for a perfect plan. Find two people who need help and two who can give it.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "Why did Daniel start the programme?",
+              "options": {
+                "A": "To help new students settle in.",
+                "B": "To improve his own grades.",
+                "C": "To become a school leader."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "How often do the buddies meet?",
+              "options": {
+                "A": "Once a week.",
+                "B": "Twice a week.",
+                "C": "Every day."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What problem does the programme have now?",
+              "options": {
+                "A": "Too few new students.",
+                "B": "Too little space.",
+                "C": "Too few volunteers."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "What does Daniel advise new organisers to do?",
+              "options": {
+                "A": "Ask teachers for money.",
+                "B": "Begin on a small scale.",
+                "C": "Wait for a perfect plan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Good morning, everyone. This is Mr. Chen with some information about next week's exams. First, the morning exams will begin at eight thirty, fifteen minutes earlier than usual, so please arrive by eight fifteen. Second, bring your own pens and pencils. Calculators are allowed in the maths exam only, and they must not have a cover with notes on it. Third, the library will stay open until nine in the evening, and the reading room on the second floor will be open all day. Finally, the dormitory will be quiet from ten o'clock. If you are worried, talk to your class teacher or come to my office on Friday afternoon. I know this is a busy time, but sleep well and eat properly. You have prepared all term. Trust yourselves. Good luck to you all.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "How much earlier than usual will the morning exams begin?",
+              "options": {
+                "A": "15 minutes.",
+                "B": "30 minutes.",
+                "C": "45 minutes."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "Where can students study all day during exam week?",
+              "options": {
+                "A": "In the library.",
+                "B": "In the dormitory.",
+                "C": "In the reading room."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "How does Mr. Chen sound in the announcement?",
+              "options": {
+                "A": "Encouraging.",
+                "B": "Doubtful.",
+                "C": "Annoyed."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

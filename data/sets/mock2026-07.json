@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-07",
+  "title": "2026届高三英语听力仿真训练（07）｜工作求职",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届湘豫名校联考高三英语 听力（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Did you hear back from the bookshop about the weekend job?\nM: They called this morning. I start on Saturday, but only in the afternoons.\nW: Good for you. That leaves your mornings free for revision.\nM: Yes, and the pay is better than I expected.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What do we know about the man's new job?",
+              "options": {
+                "A": "It ends next month.",
+                "B": "It starts this Saturday.",
+                "C": "It takes all his weekend."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: My interview is at half past ten, isn't it?\nW: They moved it to a quarter past eleven. You should leave home at ten to be safe.\nM: Then I will take the ten past ten bus instead of the early one.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When is the man's interview?",
+              "options": {
+                "A": "At 10:15.",
+                "B": "At 10:30.",
+                "C": "At 11:15."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Mr. Hale asked me to finish the sales report by Friday, but I am still waiting for the numbers from your team.\nM: I will send them this afternoon. Shall I check your figures as well?\nW: That would help. Two pairs of eyes are better than one.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What is the woman waiting for?",
+              "options": {
+                "A": "Some figures.",
+                "B": "A finished report.",
+                "C": "A phone call."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: I have worked here three years and I still feel nervous before every presentation.\nW: Everyone does at first. Try practising aloud with short notes instead of reading whole pages.\nM: Short notes. Right. I always try to read every word.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the woman suggest the man do?",
+              "options": {
+                "A": "Take a speaking course.",
+                "B": "Use shorter notes.",
+                "C": "Give fewer presentations."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: The company wants me to move to the new office in the city centre.\nM: That is an hour from your home. Have you decided?\nW: I am still thinking. The pay is better, but I would see less of my family.\nM: Only you can weigh that up.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the woman's attitude towards the move?",
+              "options": {
+                "A": "She has mixed feelings.",
+                "B": "She is strongly against it.",
+                "C": "She has already accepted it."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Come in, Alex. Have a seat. I have read your application for the summer assistant job.\nM: Thank you for seeing me, Ms. Doyle.\nW: You wrote that you worked in a cafe last summer. What did you learn there?\nM: Two things, mainly. I learned to stay calm when the shop was full, and to write orders down, because memory fails at busy times.\nW: Good. The job starts on the first of July and ends on the twentieth of August. Is that any problem?\nM: None at all. I am free the whole summer.\nW: The pay is twelve yuan an hour, and lunch is provided. One more question: would you mind working on Saturday mornings?\nM: Not at all. I am usually awake by six anyway, and the shop is near my home.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What did the man learn from his cafe job?",
+              "options": {
+                "A": "How to cook fast food.",
+                "B": "How to manage money.",
+                "C": "How to stay calm when busy."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "How long will the job last?",
+              "options": {
+                "A": "About four weeks.",
+                "B": "About seven weeks.",
+                "C": "About ten weeks."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Sara, do you have a minute? I am stuck with the delivery schedule, and the manager wants the whole plan tonight.\nW: Sure. What is the trouble?\nM: Two drivers are off sick, and the Friday orders will not all fit into one afternoon.\nW: Then do not try to do it all yourself. Ask the customers in the north of the city whether Thursday would suit them.\nM: Some of them will say no.\nW: Probably. But if ten say yes, the Friday list becomes manageable. And I can take the Wednesday van myself.\nM: You would do that? You have already worked overtime this week.\nW: It is only two hours, and we sink or swim together, do we not?\nM: All right. I will ring the northern customers first.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What is holding up the Friday deliveries?",
+              "options": {
+                "A": "He has too few drivers for Friday.",
+                "B": "He has lost two customers.",
+                "C": "He has booked too many vans."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What does the woman suggest doing?",
+              "options": {
+                "A": "Hiring another driver.",
+                "B": "Changing some delivery days.",
+                "C": "Cancelling Friday's orders."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What does the woman's last reply show?",
+              "options": {
+                "A": "She doubts the man's plan.",
+                "B": "She expects higher pay.",
+                "C": "She values teamwork."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Ms. Park, you interview hundreds of people every year. What is the biggest mistake young job hunters make?\nW: Talking too long. They answer a simple question for four minutes, and I stop listening after ninety seconds.\nM: So short answers?\nW: Short and concrete. If I ask about teamwork, do not tell me that you are a team player. Tell me about a real day when you helped someone.\nM: What about clothes?\nW: I never remember a suit. I do remember dirty shoes and a phone ringing during the interview.\nM: And questions at the end?\nW: Always ask one, but not about salary. Ask something you could only ask after reading about the company.\nM: For example?\nW: Why they changed their product last year. It shows you did the homework.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What mistake do many young job hunters make?",
+              "options": {
+                "A": "They ask about salary too early.",
+                "B": "They give long answers.",
+                "C": "They arrive late."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "How does Ms. Park advise answering a teamwork question?",
+              "options": {
+                "A": "With a real example.",
+                "B": "With a short slogan.",
+                "C": "With a list of skills."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What kind of question does Ms. Park advise asking?",
+              "options": {
+                "A": "One about salary.",
+                "B": "One about holidays.",
+                "C": "One showing careful reading."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: First day, Ben. How was it?\nM: Long. I was at the factory gate at half past seven, and the manager walked me round for an hour.\nW: Did you get any lunch?\nM: Barely. Nobody showed me where the canteen was, so I ate a sandwich at my desk. Then a man called Ron helped me fix the packing machine, after I had pressed the wrong button.\nW: Pressed the wrong button on your first day?\nM: Yes. I expected to be shouted at. Instead he said that he had done the same thing in 2019, and then showed me the right steps.\nW: That is a good colleague.\nM: The best. I am meeting him at eight tomorrow so that he can teach me the whole line before the shift starts.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "When did the man arrive at the factory?",
+              "options": {
+                "A": "At 7:30.",
+                "B": "At 8:00.",
+                "C": "At 9:00."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 15,
+              "text": "What happened after the man pressed the wrong button?",
+              "options": {
+                "A": "The line stopped for a day.",
+                "B": "Ron came to help him.",
+                "C": "He was sent home."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "What does the man think of Ron?",
+              "options": {
+                "A": "He is strict.",
+                "B": "He is quiet.",
+                "C": "He is helpful."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "Why will the man meet Ron tomorrow?",
+              "options": {
+                "A": "To learn the production line.",
+                "B": "To repair the machine.",
+                "C": "To have breakfast together."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good afternoon, everyone, and welcome to Career Hour. I am Ruth Linton, and today I want to talk about first jobs. Many young people believe that their first job must be perfect. Let me tell you about mine. In 2014 I started as a receptionist in a small hotel. The pay was low, and I answered the phone for nine hours a day. My friends had better paid work in offices, and for a year I felt that I had failed. Yet that job taught me three things: how to stay polite when people are rude, how to solve problems alone at night, and how to remember names. When I applied to a larger company in 2016, the manager told me that my hotel years were the reason she hired me. So here is my advice. Forget the perfect first job. Ask instead what the place will teach you. A job you dislike for a year is not a waste if you can say what you learned.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "How long did Ruth work in the hotel?",
+              "options": {
+                "A": "About one year.",
+                "B": "About two years.",
+                "C": "About three years."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "How did Ruth feel during her first year?",
+              "options": {
+                "A": "She felt proud of her pay.",
+                "B": "She felt relaxed at work.",
+                "C": "She felt that she had failed."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What is Ruth's advice about a first job?",
+              "options": {
+                "A": "Think about what it teaches you.",
+                "B": "Wait for a perfect one.",
+                "C": "Choose one with high pay."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

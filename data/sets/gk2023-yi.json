@@ -1,0 +1,299 @@
+{
+  "id": "gk2023-yi",
+  "title": "2023年普通高等学校招生全国统一考试 英语听力（全国乙卷）",
+  "exam": "全国乙卷",
+  "year": 2023,
+  "source": "http://mip.21cnjy.com/P/23299233.html",
+  "answerSource": "http://mip.21cnjy.com/P/23299233.html",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原卷第一节（Text 1-5）每段对话仅读一遍，第二节（Text 6-10）每段读两遍。2023年全国甲卷与乙卷听力部分相同。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Could you please tell me how I can get to the student dorm building?\nM: Sure. Turn left when you walk out of this register office, pass the book store and you'll see it.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In the book store.",
+                "B": "In the register office.",
+                "C": "In the dorm building."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: We couldn't ask for a better day, could we, Barbara?\nW: I know, Steve. There isn't a cloud in the sky. I love this time of year.\nM: Me, too. The flowers are beautiful but calling for rain though.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What is the weather like now?",
+              "options": {
+                "A": "Sunny.",
+                "B": "Cloudy.",
+                "C": "Rainy."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: We got any plans this weekend?\nW: We might start with our vegetable garden, then the barbecue.\nM: Sounds fun, but I still want to go fishing with George.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man want to do on the weekend?",
+              "options": {
+                "A": "Do some gardening.",
+                "B": "Have a barbecue.",
+                "C": "Go fishing."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Lisa, I saw Jack this morning.\nW: You mean the former designer of our company? What's he doing these days?\nM: He said he's got a new job as an art reporter.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "A new office.",
+                "B": "A change of their jobs.",
+                "C": "A former colleague."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Do you often go to the student union, Andrew?\nM: Pretty much. Once in a while I meet friends there and I spend a lot of time organizing activities in different clubs or associations.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What do we know about Andrew?",
+              "options": {
+                "A": "He's optimistic.",
+                "B": "He's active.",
+                "C": "He's shy."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: What do you think, Terry?\nM: Well, it has one more bedroom than the last flat and the sitting room is big.\nW: But there is not enough cupboard space in the kitchen.\nM: It's cheaper than the last one we saw and it is in a good neighbourhood.\nW: Well, maybe we'll have to see if the agent has anything else to show us.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Which of the following does the woman dislike?",
+              "options": {
+                "A": "The bedroom.",
+                "B": "The sitting room.",
+                "C": "The kitchen."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "What does the woman suggest they do next?",
+              "options": {
+                "A": "Go to another agent.",
+                "B": "See some other flats.",
+                "C": "Visit the neighbours."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Thank you, Mrs. Johnson, for what you've shared with our listeners. Now, please tell us: Do you sometimes feel worried about your daughter, now that she's grown up?\nW: Oh, I worry about her like all parents do. After she graduated from medical school, she went to volunteer medical service in Africa.\nM: Wow.\nW: That's okay if communication was fine. But if there was no Internet or telephone connection, we could sometimes go two weeks without getting in touch with each other. That often worries me.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What is the man doing?",
+              "options": {
+                "A": "He's making a phone call.",
+                "B": "He's chairing a meeting.",
+                "C": "He's hosting a program."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "What makes Mrs. Johnson worried about her daughter in Africa?",
+              "options": {
+                "A": "Lack of medical support.",
+                "B": "Inconvenience of communication.",
+                "C": "Poor transportation system."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Now sell yourself in a minute please.\nM: I graduated from university two years ago, and have since been working in an accounting company. Apart from the knowledge and skills related to my major, I'm really good with computers. I have a large amount of experience working with big data. I think I'm well qualified for the accountant position here.\nW: Good! Why did you choose this company?\nM: Peterson has been my dream company all along. You value progress and focus on the quality of work more than the quantity. The flexible working hours and working from home are also attractive.\nW: Uh huh. What do you think is your biggest weakness?\nM: Well, when I work, I often concentrate so much on what I'm doing that I may have a hard time dealing with things that come up unexpectedly. That may be annoying to some people.\nW: All right. Thank you very much.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "What position does the man apply for?",
+              "options": {
+                "A": "A salesperson.",
+                "B": "An engineer.",
+                "C": "An accountant."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 11,
+              "text": "Which aspect of the company appeals to the man?",
+              "options": {
+                "A": "The company culture.",
+                "B": "The free accommodations.",
+                "C": "The competitive pay."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "Which is difficult for the man to deal with?",
+              "options": {
+                "A": "Interpersonal relationships.",
+                "B": "Quality-quantity balance.",
+                "C": "Unplanned happenings."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: So Robert, I guess you must be well into your third decade as a writer. How is life treating you?\nM: Fourth decade as a writer. Hmm, let me get my calculator out. Well, I guess I have been writing novels since the 1980s. So you're right. But I have been writing all of my life. And to answer your question, life has been treating me excellently.\nW: Can I ask you about your childhood? Were you a bookish child?\nM: In a strange way, I was a non-reader until I turned 9. I used to play basketball in the schoolyards of Brooklyn. My father was a high school teacher of physics and chemistry. And he was a big reader. He would bring books back from his high school library. One day I read the last chapter of a book, the title of which I've long since forgotten. I liked it so much that I started reading the remainder. Interestingly, I read the chapters backwards until I got to the beginning. I really loved the experience, and I soon became an eager reader. Then my father would bring piles of books home from the library. And I would read them all, and they were all fiction. I must add that I started reading the books from the start, as opposed to working backwards.",
+          "questions": [
+            {
+              "no": 13,
+              "text": "How does Robert sound when speaking of his being a writer?",
+              "options": {
+                "A": "Hopeful.",
+                "B": "Grateful.",
+                "C": "Doubtful."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 14,
+              "text": "What was Robert like before he was 9 years old?",
+              "options": {
+                "A": "He had wild imagination.",
+                "B": "He enjoyed sports.",
+                "C": "He loved science."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What did Robert's father do?",
+              "options": {
+                "A": "A teacher.",
+                "B": "A coach.",
+                "C": "A librarian."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What helped Robert become a writer?",
+              "options": {
+                "A": "Writing daily.",
+                "B": "Listening to stories.",
+                "C": "Reading extensively."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Hello, I'm Maxim Vengerov, and I'm very happy to share with you my connection with Open Tchaikovsky Competition. It was June 1986 when I came to Moscow to participate in Open Tchaikovsky Competition at the age of ten from Chelyabinsk. This was actually the turning point of my life. Then I attended a world music festival in Berlin. And it was interesting to say that a kid made his breakthrough already at the age of ten. And that was me. Now as a judge of the competition, I can see clearly the huge challenges facing the musicians in the competition. Where else can you see young players playing within ten days classical works and Russian traditional music before coming to the final stage? As a musician, it's important to give maximum attention and time to your own reflections of your own feelings. So, what I'm really looking for in the competition is to meet someone who can touch me musically. I want to see the seed, at least the seed of the great tree that can grow. I would go for this violinist. I would go for this musician.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Where was Open Tchaikovsky Competition held in 1986?",
+              "options": {
+                "A": "In Moscow.",
+                "B": "In Chelyabinsk.",
+                "C": "In Berlin."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 18,
+              "text": "What does Maxim say about the competition he attended at 10?",
+              "options": {
+                "A": "It inspired many young musicians.",
+                "B": "It was the music event of his dreams.",
+                "C": "It was a life-changing experience."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "Which kind of music are the young players required to play?",
+              "options": {
+                "A": "Rock music.",
+                "B": "Pop music.",
+                "C": "Classical music."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What does Maxim value most in young players' performance?",
+              "options": {
+                "A": "Expressiveness.",
+                "B": "Smoothness.",
+                "C": "Completeness."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

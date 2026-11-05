@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-04",
+  "title": "2026届高三英语听力仿真训练（04）｜出行计划",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届皖豫联考高三第一次模拟考试（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: The train to Oxford leaves at a quarter past nine, doesn't it?\nM: Yes, but we need to be at the station twenty minutes early.\nW: So we should leave home by eight thirty?\nM: Better make it eight fifteen. The roads are busy on Mondays.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What time should the speakers leave home?",
+              "options": {
+                "A": "At 8:30.",
+                "B": "At 8:15.",
+                "C": "At 8:45."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: Did you check the weather for Saturday?\nW: Yes. It'll be sunny in the morning, but rain is expected after lunch.\nM: Then I'll bring my umbrella and wear my boots.\nW: Good idea. The path gets muddy quickly.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What will the weather be like on Saturday afternoon?",
+              "options": {
+                "A": "Sunny.",
+                "B": "Windy.",
+                "C": "Rainy."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Hello, I booked a double room for two nights, but our train arrives a day earlier.\nM: Let me check. I can add Thursday night, but you'll need to move to another room.\nW: That's fine. Is there an extra charge?\nM: The same rate, forty pounds.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What will the woman have to do?",
+              "options": {
+                "A": "Change rooms.",
+                "B": "Pay more.",
+                "C": "Cancel the booking."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Two tickets to the museum, please.\nW: That's twelve pounds each. Students pay half price with a student card.\nM: I'm a student. My friend isn't.\nW: So twelve pounds plus six. Eighteen, please. Do you need a receipt?\nM: Yes, please.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "How much will the man pay?",
+              "options": {
+                "A": "£24.",
+                "B": "£18.",
+                "C": "£30."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: I'm thinking of joining a package tour to Yunnan.\nW: They're convenient, but you spend too little time in each place.\nM: That's true. I'd rather plan the trip myself.\nW: Then do some research and book hotels early.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is the woman's opinion of package tours?",
+              "options": {
+                "A": "They allow too little time.",
+                "B": "They are too expensive.",
+                "C": "They are well organized."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Excuse me, is the 10:40 train to York on time?\nM: I'm afraid not. It's delayed by twenty-five minutes because of signal problems.\nW: I have a connection at York at 1:15. Will I still make it?\nM: The York train arrives at 1:05 now. You'll have ten minutes to change platforms.\nW: That's tight. Is there another train?\nM: The next one is at 11:20, but it stops at every station. You'd arrive at 2:10.\nW: I'll take the delayed train. Can you tell me the platform?\nM: Platform 6. Listen for announcements in case it changes.\nW: I'll run if I have to. Thank you.\nM: The platform may change, so keep listening.\nW: I will. Thanks for your help.\nM: You're welcome. Have a very good trip.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why is the train delayed?",
+              "options": {
+                "A": "Because of bad weather.",
+                "B": "Because of a broken train.",
+                "C": "Because of a signal problem."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "When will the delayed train arrive in York?",
+              "options": {
+                "A": "At 1:15.",
+                "B": "At 1:05.",
+                "C": "At 2:10."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: The forecast for tomorrow looks bad. Heavy rain all morning.\nW: That's a pity. I was looking forward to the hike.\nM: We could move it to Sunday. The weather should be clear then.\nW: But Anna works on Sunday. She can't come.\nM: How about a shorter walk in the afternoon? The rain may stop by two.\nW: The path by the river could be dangerous after rain.\nM: Then let's visit the museum instead. It's indoors and free.\nW: Good idea. We can still have lunch together.\nM: I'll message the group and change the plan.\nW: Ask them to meet at the museum at eleven. I'll bring my camera.\nM: Good point. I'll check the opening hours tonight.\nW: And ask if we can bring lunch.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What was the original plan for tomorrow?",
+              "options": {
+                "A": "To go hiking.",
+                "B": "To visit a museum.",
+                "C": "To have lunch."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "Why doesn't the woman want to go on Sunday?",
+              "options": {
+                "A": "The weather will be bad.",
+                "B": "The museum is closed.",
+                "C": "Anna cannot come."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What will the group do instead?",
+              "options": {
+                "A": "Visit a museum.",
+                "B": "Walk by the river.",
+                "C": "Have a picnic."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Our flight to Chengdu has been cancelled.\nM: Oh no. What did the airline say?\nW: They can put us on a flight tomorrow afternoon, but we'll miss the first day of the tour. The airline offered a hotel for tonight, but we'd have to leave early.\nM: Can we take the train instead? It leaves at eight this evening.\nW: That's a good idea. We'd arrive at six tomorrow morning.\nM: The train seems simpler. We can sleep on the way.\nW: True. Let's book the tickets before they sell out.\nM: Then we won't miss the tour. I'll book two tickets now.\nW: They're 480 yuan each, but there are only seats left in second class.\nM: That's fine. I'll call the tour guide and tell her the change.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What happened to the woman's flight?",
+              "options": {
+                "A": "It was late.",
+                "B": "It was cancelled.",
+                "C": "It was full."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "What does the man suggest doing?",
+              "options": {
+                "A": "Waiting for tomorrow.",
+                "B": "Changing the tour.",
+                "C": "Taking a train."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "Why does the woman agree?",
+              "options": {
+                "A": "They will not miss the tour.",
+                "B": "The train is cheaper.",
+                "C": "The flight is comfortable."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Good morning. I'd like to plan a five-day trip to Xi'an for my family.\nW: Certainly. When would you like to go?\nM: The last week of July. There are four of us, including two children.\nW: The high-speed train is convenient. It takes about five hours from Hefei.\nM: Is it cheaper than flying?\nW: For four people, yes. A return ticket is 420 yuan each, and children under 1.4 metres pay half.\nM: My son is only ten, but he's tall. My daughter is six.\nW: Then you need three full tickets and one child ticket.\nM: What about hotels?\nW: I can book a family room near the city wall for 300 yuan a night.\nM: That sounds good. We'd also like a guide for the first day.\nW: I'll include one in the plan. It will cost 200 yuan.\nM: Please send me the total.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How many full-price train tickets does the man need?",
+              "options": {
+                "A": "One.",
+                "B": "Two.",
+                "C": "Three."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "How long does the train journey take?",
+              "options": {
+                "A": "Three hours.",
+                "B": "Five hours.",
+                "C": "Seven hours."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "Where is the hotel?",
+              "options": {
+                "A": "Near the city wall.",
+                "B": "Near the station.",
+                "C": "In the city centre."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "What does the man want to add?",
+              "options": {
+                "A": "Airport pickup.",
+                "B": "Another hotel.",
+                "C": "A guide for one day."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Attention, passengers on the 14:30 service to Hangzhou. The train will now leave from Platform 4, not Platform 7. Please allow ten extra minutes to walk across the bridge. The train is also running fifteen minutes late because of repair work near the station. Passengers with tickets for the 14:10 service may use this train instead. If you have a large suitcase, please use the lift rather than the stairs. The café on Platform 2 is open until six, and the waiting room on the first floor is open all night. A member of staff will help you if needed. We apologize for the change and thank you for your patience. We are sorry for any trouble. The bridge is slippery, so please walk carefully. We thank you for listening.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Which platform will the train leave from?",
+              "options": {
+                "A": "Platform 2.",
+                "B": "Platform 4.",
+                "C": "Platform 7."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 19,
+              "text": "Why is the train late?",
+              "options": {
+                "A": "Repair work.",
+                "B": "Bad weather.",
+                "C": "A broken lift."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 20,
+              "text": "How does the announcer feel about the change?",
+              "options": {
+                "A": "Angry.",
+                "B": "Excited.",
+                "C": "Sorry."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

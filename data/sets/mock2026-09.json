@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-09",
+  "title": "2026届高三英语听力仿真训练（09）｜家庭邻里",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。难度与风格参考：2026届衡水金卷高三英语 听力（内容为原创，非真实试卷）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Could you take the rubbish out before you leave? And the dishes are still in the sink.\nM: I washed the dishes last night. Alex is watching television, so ask him.\nW: I am asking you. Everyone in this house has to help.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "A television programme.",
+                "B": "A family visitor.",
+                "C": "Housework."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: When does the new flat become ours?\nW: The keys are ready on the first of May, but we cannot move in until the painters finish on the fourth.\nM: So we sleep here on the third night.\nW: Yes, and on the fourth morning we carry the boxes.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "When will they move into the new flat?",
+              "options": {
+                "A": "On 1 May.",
+                "B": "On 4 May.",
+                "C": "On 3 May."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: The lift is broken again. That is the third time this month.\nM: I have called the repairman. He says the part is old and hard to find.\nW: Then we should ask the manager for a new lift at the next meeting.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the woman suggest?",
+              "options": {
+                "A": "Asking for a new lift.",
+                "B": "Using the stairs.",
+                "C": "Repairing it herself."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Mrs. Patel next door has left a bag of tomatoes on our doorstep.\nW: Again? That is the third bag this week. I must send something back.\nM: Take her some of your apple cake. She will like that better than money.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the man suggest the woman do?",
+              "options": {
+                "A": "Buy some tomatoes.",
+                "B": "Pay the neighbour.",
+                "C": "Give the neighbour some cake."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: My brother is moving back home to save money.\nM: How do you feel about that?\nW: He is my brother and I love him, but I have had my own room for four years. I would rather he found a flat near his work.\nM: Perhaps he will, once he has saved a little.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What does the woman think of her brother's plan?",
+              "options": {
+                "A": "She would prefer he did not move back.",
+                "B": "She is delighted about it.",
+                "C": "She is angry with him."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Mum, I have decided to take the job in Shanghai.\nW: Shanghai? That is a thousand kilometres from home.\nM: It is two hours by train, so I can come home for a weekend. And the pay is twice what I earn here. The company will also train me for the first six months.\nW: And have you seen the flat they are offering?\nM: Only in photos. It is small, but it is near the office, so I can walk to work.\nW: And how long is the contract?\nM: Two years, and they pay for the flat.\nW: Then you will come home at Spring Festival.\nM: Every year, and I will call on Sundays.\nW: All right. Your father will be sorry, but he will understand. He left home at your age too.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why does the man accept the job?",
+              "options": {
+                "A": "It is near his home.",
+                "B": "It offers better pay and training.",
+                "C": "His father wants him to go."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "How long is the contract?",
+              "options": {
+                "A": "One year.",
+                "B": "Three years.",
+                "C": "Two years."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: The moving company has sent its price. Two thousand yuan for Saturday.\nM: Two thousand? We could carry the boxes ourselves and save that money.\nW: The big things are the problem: the fridge, the wardrobe and that old piano which my mother never plays.\nM: Then let us sell the piano. Nobody has touched it since 2018.\nW: She will say it is worth a lot. It is not.\nM: Then we keep the piano and sell the wardrobe. We use it least.\nW: The wardrobe is heavy. Who will carry it down the stairs?\nM: The shop that buys second-hand furniture will send two men, and they do that every day.\nW: Sensible. I will ring the company and confirm Saturday morning.\nM: And I will put the small things into boxes tonight.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What does the man want to do with the piano?",
+              "options": {
+                "A": "Keep it.",
+                "B": "Sell it.",
+                "C": "Give it to a friend."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "What will the woman's mother probably say about the piano?",
+              "options": {
+                "A": "It is valuable.",
+                "B": "It is broken.",
+                "C": "It is too heavy."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What will the woman do next?",
+              "options": {
+                "A": "Sell the wardrobe.",
+                "B": "Move the piano.",
+                "C": "Call the moving company."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: The water is off in our building again. Third time this week.\nW: Ours too. Mrs. Li on the fourth floor carried water up for the old man on the fifth.\nM: That is kind. These stairs are hard enough without a bucket of water.\nW: So I have written a note asking everyone to help the older neighbours. I have also started a list of phone numbers, so that we can all reach each other.\nM: Put my name down. I have a car, and I can drive people to the shops.\nW: Good. We also need someone to look in on Mr. Wang next Monday.\nM: That is my day off, so I will do it.\nW: Then the list is nearly complete. Six families have already agreed to help.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What did Mrs. Li do?",
+              "options": {
+                "A": "She repaired the pipes.",
+                "B": "She carried water for an old man.",
+                "C": "She called the manager."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "Why has the woman written a note?",
+              "options": {
+                "A": "To ask neighbours to help the elderly.",
+                "B": "To complain about the water.",
+                "C": "To offer her car."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "What will the man do on Monday?",
+              "options": {
+                "A": "Drive to the shops.",
+                "B": "Fix the water pipes.",
+                "C": "Visit Mr. Wang."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: I have seen a flat near the park, two rooms on the third floor.\nM: How much is the rent?\nW: One thousand eight hundred a month. The owner wants three months in advance, which is five thousand four hundred.\nM: We do not have that much. Could your cousin take the smaller room?\nW: She has a cat, and the owner said no pets.\nM: Then look at the one behind the market. It is one thousand five hundred, though the rooms are smaller.\nW: Smaller is fine, but is it quiet? I need to study in the evening.\nM: My friend lives there. He says the market closes at six and the nights are silent.\nW: Then let us go and see it tomorrow, before someone else takes it.\nM: I will ring the owner tonight.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How much is the rent for the flat near the park?",
+              "options": {
+                "A": "1,500 yuan a month.",
+                "B": "1,800 yuan a month.",
+                "C": "5,400 yuan a month."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "Why cannot the cousin take the smaller room?",
+              "options": {
+                "A": "Pets are not allowed.",
+                "B": "The room is too small.",
+                "C": "The rent is too high."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What does the man say about the flat behind the market?",
+              "options": {
+                "A": "It is noisy at night.",
+                "B": "It has two big rooms.",
+                "C": "It is quiet in the evening."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "What will the two speakers do tomorrow?",
+              "options": {
+                "A": "Meet the cousin.",
+                "B": "Look at a flat.",
+                "C": "Pay the rent."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Hello, neighbours. This is Peter from the third floor, with news about our street. Next Sunday, the twenty-first, we shall hold a clean-up morning from nine to eleven. We meet at the gate of the park, and the city office will provide bags and gloves. Families are welcome, but children under ten must come with an adult. Last autumn we collected forty bags of rubbish, and half of it was plastic bottles. This time we shall also plant twelve small trees along the south wall; the school has given them to us. Please bring a spade if you own one. After the work there will be tea and cakes in the community room at half past eleven, paid for by the shop on the corner. And one last thing: if you cannot come, you can still help by putting your rubbish out on Saturday evening instead of Sunday morning. Thank you, and see you on Sunday.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "When will the clean-up take place?",
+              "options": {
+                "A": "Next Sunday.",
+                "B": "Next Saturday.",
+                "C": "Next month."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What will the city office provide?",
+              "options": {
+                "A": "Small trees.",
+                "B": "Tea and cakes.",
+                "C": "Bags and gloves."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What can people who cannot come do?",
+              "options": {
+                "A": "Give a little money.",
+                "B": "Put out rubbish on Saturday evening.",
+                "C": "Plant a tree another day."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

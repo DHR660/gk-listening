@@ -1,0 +1,299 @@
+{
+  "id": "gk2019-n2",
+  "title": "2019年普通高等学校招生全国统一考试 英语听力（全国Ⅱ卷）",
+  "exam": "全国Ⅱ卷",
+  "year": 2019,
+  "source": "https://www.163.com/dy/article/EOPH6JSD05218KUL.html",
+  "answerSource": "https://tesoon.com/resource/detail?biid=8716&rid=12266",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2019年全国Ⅱ卷与全国Ⅲ卷使用同一套听力录音与试题（“听力试题和全国卷II是一样的”），为避免重复，题库中只保留这一套，Ⅱ/Ⅲ 卷通用。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Excuse me. How can I find the book called The Class of 1998?\nM: Oh, I'm afraid it was sold out.\nW: It's all right. Thank you!",
+          "questions": [
+            {
+              "no": 1,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In a library.",
+                "B": "In a bookstore.",
+                "C": "In a classroom."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: How did your dancing lesson go today?\nW: Exciting! But it was hard work. I really need a rest now.\nM: Yeah, I can see that. Go and get relaxed.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How does the woman feel now?",
+              "options": {
+                "A": "Relaxed.",
+                "B": "Excited.",
+                "C": "Tired."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "M: How much is that in total?\nW: $100. But if you have a membership card, I can give you a 20% discount.\nM: Great, this is my membership card.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "How much will the man pay?",
+              "options": {
+                "A": "$20.",
+                "B": "$80.",
+                "C": "$100."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Jane, I'm going out for a while.\nW: But you have an appointment with Mr. Douglas at 3 o'clock.\nM: Well, please make it another day.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the man tell Jane to do?",
+              "options": {
+                "A": "Postpone his appointment.",
+                "B": "Meet Mr. Douglas.",
+                "C": "Return at 3 o'clock."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: David said he would quit his job at our school.\nM: Really? Why would he do that?\nW: His friend started a firm in London. She wanted David to help her.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Why would David quit his job?",
+              "options": {
+                "A": "To go back to school.",
+                "B": "To start his own firm.",
+                "C": "To work for his friend."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: I'm going out for shopping. Do you need anything?\nM: Oh, yeah. I can't find my umbrella. Can you buy one?\nW: Shouldn't it be in the cupboard?\nM: I just checked. It wasn't there.\nW: Impossible. That was where I usually put it. Did you check the balcony?\nM: Yes, of course. Couldn't find it. Well, just get a new one then.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What does the man want the woman to do?",
+              "options": {
+                "A": "Check the cupboard.",
+                "B": "Clean the balcony.",
+                "C": "Buy an umbrella."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "What is the probable relationship between the speakers?",
+              "options": {
+                "A": "Husband and wife.",
+                "B": "Employer and employee.",
+                "C": "Shop assistant and customer."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "M: Hi, Lucy. How was your weekend?\nW: Great! You know, we went mountain climbing in the forest park. The air was so different from the city, cool and fresh.\nM: Sounds great!\nW: Yeah, there wasn't a cloud in the sky and we could see for miles from the top. What about you? What did you do?\nM: Busy packing.\nW: Oh, yes, of course! I forgot you and Jenny are moving into a new house. It's on Wednesday, isn't it?\nM: Yeah, two days after. I didn't realize there are so many things to do.\nW: Can I help out with anything?\nM: Um, it would be nice if you could take care of Henry for a couple of days.\nW: Henry?\nM: Yes, my dog.\nW: Oh, sure, no problem. You just focus on the move.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Where did the woman go at the weekend?",
+              "options": {
+                "A": "The city centre.",
+                "B": "The forest park.",
+                "C": "The man's home."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 9,
+              "text": "How did the man spend his weekend?",
+              "options": {
+                "A": "Packing for a move.",
+                "B": "Going out with Jenny.",
+                "C": "Looking for a new house."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "What will the woman do for the man?",
+              "options": {
+                "A": "Take Henry to hospital.",
+                "B": "Stay with his kid.",
+                "C": "Look after his pet."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "M: Hello, can I speak to Mr. Stone, please?\nW: Hello, but I'm afraid Mr. Stone is in a meeting until lunchtime. Can I take a message?\nM: Well, yes. I'd like to make an appointment to see him. It's Harrison White here.\nW: Just a second, Mr. White. I'll look in the diary. So... when is convenient for you?\nM: Sometime today, if possible. I hear he'll be away tomorrow.\nW: Yes, that's right. He'll be on a business trip for a week.\nM: I need to talk about my new program with him before he leaves. It's urgent. So would this afternoon be OK?\nW: Let me see... OK, Mr. Stone is free this afternoon after 3:00.\nM: Well, 3:00 is a bit difficult. But I could make it after 3:30.\nW: So... shall we say a quarter to four this afternoon in Mr. Stone's office?\nM: That's great. Thanks.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What is Mr. Stone doing now?",
+              "options": {
+                "A": "Eating lunch.",
+                "B": "Having a meeting.",
+                "C": "Writing a diary."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 12,
+              "text": "Why does the man want to see Mr. Stone?",
+              "options": {
+                "A": "To discuss a program.",
+                "B": "To make a travel plan.",
+                "C": "To ask for sick leave."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 13,
+              "text": "When will the man meet Mr. Stone this afternoon?",
+              "options": {
+                "A": "At 3:00.",
+                "B": "At 3:30.",
+                "C": "At 3:45."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Hello?\nM: Hi, Cindy. This is Jake Lee at Fix-it Corporation. How are you today?\nW: Oh, hi Jake. I'm fine. How are you?\nM: Good. The reason I'm calling is that we'd like to offer you the position you were interviewed for last Thursday.\nW: Oh, that's great! I was really impressed with Fix-it.\nM: I'm glad to hear it. And we'll prepare to offer you a starting salary of $55,000.\nW: I see. And... vacation time?\nM: Oh, you get one day per month in your first year. That is you'll have 12 days in your first year, and then increase if you stay longer with the company.\nW: What would be my job title?\nM: You'd be a junior specialist. And you'd be working under Monica Stansfield, the department manager.\nW: OK... Is the salary negotiable at all?\nM: Well, this is typical for new staff.\nW: I see...\nM: Why don't you think about it? I'll need to hear back from you by Wednesday. Will that work?\nW: Sure, no problem. I'll let you know Tuesday afternoon.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "A company.",
+                "B": "An interview.",
+                "C": "A job offer."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 15,
+              "text": "Who is Monica Stansfield?",
+              "options": {
+                "A": "A junior specialist.",
+                "B": "A department manager.",
+                "C": "A sales assistant."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "When will the man hear from the woman?",
+              "options": {
+                "A": "On Tuesday.",
+                "B": "On Wednesday.",
+                "C": "On Thursday."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "M: Hello, everybody. Today I'd like to share with you something about John Audubon. John was born on April 26th, 1785. He spent much of his childhood in France where he spent many hours each day outdoors painting pictures. At the age of 18, he moved to the United States. Well, actually, John began his life in the US as a businessman. However, instead of taking care of his business, John was often off exploring nature. At first, John spent his time hunting for fun. Then he found that the animals around were very beautiful, and he particularly enjoyed observing the birds he saw. He began studying them, trying to learn the differences between the birds and noticing their different behaviors. Therefore, he painted the birds he observed a lot. In 1819, John realized that he didn't have enough money to pay his bills. He was very upset that he couldn't earn enough money to support his family. So he spent time improving his painting skills and began to sell his paintings. He discovered that he could earn some money while doing something he really enjoyed. We are lucky now to have so many paintings of American birds by John Audubon.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "What did John enjoy doing in his childhood?",
+              "options": {
+                "A": "Touring France.",
+                "B": "Playing outdoors.",
+                "C": "Painting pictures."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 18,
+              "text": "What did John do after he moved to the US?",
+              "options": {
+                "A": "He did business.",
+                "B": "He studied biology.",
+                "C": "He worked on a farm."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "Why did John go hunting?",
+              "options": {
+                "A": "For food.",
+                "B": "For pleasure.",
+                "C": "For money."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "What is the subject of John's works?",
+              "options": {
+                "A": "American birds.",
+                "B": "Natural scenery.",
+                "C": "Family life."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

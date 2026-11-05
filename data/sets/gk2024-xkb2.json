@@ -1,0 +1,299 @@
+{
+  "id": "gk2024-xkb2",
+  "title": "2024年普通高等学校招生全国统一考试 英语听力（新课标Ⅱ卷）",
+  "exam": "新课标Ⅱ卷",
+  "year": 2024,
+  "source": "https://jx.panqjy.cn/doc-16080360.html",
+  "answerSource": "https://jx.panqjy.cn/doc-16080360.html",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "注意：2024年新课标Ⅱ卷听力与Ⅰ卷并非同一套材料，两卷 Text 1—Text 10 完全不同（Ⅰ卷见 gk2024-xkb1.json）。第一节（第1—5题）每段对话仅读一遍，第二节（第6—20题）每段对话或独白读两遍。题干、选项、答案取自教习网“2024年新高考Ⅱ卷高考英语真题（答案版含听力）”听力部分；听力原文据天星教育官方音频页 tesoon.com/resource/detail?rid=163458 的逐句文本校订。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "M: Did you watch the talent show on TV last night?\nW: No. I missed it. I went with my mom to buy some clothes.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What did the woman do yesterday evening?",
+              "options": {
+                "A": "She watched TV.",
+                "B": "She went shopping.",
+                "C": "She attended a show."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: I love this park. It's so beautiful.\nM: It surely is. Are you tired? Shall we stop by the lake for a few minutes?\nW: Good idea. Let's go to that cafe for a little refreshment.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What is the man's suggestion?",
+              "options": {
+                "A": "Taking a rest.",
+                "B": "Going for a coffee.",
+                "C": "Having a snack."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Tom, shall we invite the Smiths around for dinner this Sunday?\nM: Sure, but I need to pack for Monday's business trip. What about Saturday?\nW: Okay.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What are the speakers mainly talking about?",
+              "options": {
+                "A": "A weekend plan.",
+                "B": "A wedding invitation.",
+                "C": "A business deal."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Barbara, do you want to play table tennis with us tonight?\nW: I'd love to, but I can't. I'm catching the last train to Denver to see my grandma. I need to take her to visit a doctor tomorrow morning.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "Where is Barbara going tonight?",
+              "options": {
+                "A": "To a gym.",
+                "B": "To her grandma's.",
+                "C": "To the doctor's."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Alex, did you feed the cat this morning? I don't think she can wait.\nM: All right, after I finish this chapter. I just can't let go of this book.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What is Alex doing?",
+              "options": {
+                "A": "He's having breakfast.",
+                "B": "He's feeding a cat.",
+                "C": "He's reading a book."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Miss, do you need any help?\nW: I want to get fit, but exercise doesn't seem to help.\nM: What kind of exercise have you done before?\nW: I did jogging now and then, but it was so boring. So I changed to weightlifting, but it was so demanding. And I was afraid of getting injured. So, I went bike riding.\nM: Oh, I see. You need to be consistent. I suggest you do different kinds of exercise on one day, or on different days of the week. This will help hold your interest, so you can keep coming back.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Where does the conversation probably take place?",
+              "options": {
+                "A": "In a fitness center.",
+                "B": "In a sports shop.",
+                "C": "In a clinic."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 7,
+              "text": "What does the man advise the woman to do?",
+              "options": {
+                "A": "Buy high-quality sportswear.",
+                "B": "Keep working out regularly.",
+                "C": "Avoid over-exercising."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Hello, Brown's Grill. How may I help you?\nM: Hi, I'd like to book a table for Friday evening.\nW: Okay. How many people are there in your party?\nM: There will be six.\nW: And what time would you like to come?\nM: Let's say at 6:30?\nW: I'm afraid we don't have anything available then. We could seat you at 5:30 or 8 o'clock.\nM: Oh, 8 o'clock is better.\nW: Fine. May I have your name?\nM: Yes. It's Anderson.\nW: Thank you. We'll see you on Friday. By the way, we've moved to Howard Street.\nM: Oh, yeah, I know. Thanks.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Why does the man make the call?",
+              "options": {
+                "A": "To reserve a table.",
+                "B": "To ask about a party.",
+                "C": "To postpone a meeting."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What time should the man arrive on Friday evening?",
+              "options": {
+                "A": "At 5:30.",
+                "B": "At 6:30.",
+                "C": "At 8:00."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 10,
+              "text": "What is the man's name?",
+              "options": {
+                "A": "Brown.",
+                "B": "Anderson.",
+                "C": "Howard."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Jacob, do you have a minute now?\nM: Sure.\nW: Well, it's not easy to say, but I have to tell you — you're not in our group for the class project.\nM: Sarah, what do you mean? You know I'm always in a group with you.\nW: I know. It's just that this time... this time we made the group differently. And, because you were late, we've already made the group. See, there are four of us already.\nM: So? We can't be a group of five?\nW: Well, Professor North said there should be no more than four people in each group. It's not about you or your work or anything like that.\nM: Okay, but please count me in next time.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "Why does Sarah come to talk to Jacob?",
+              "options": {
+                "A": "To make an appointment.",
+                "B": "To seek his advice.",
+                "C": "To explain a decision."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 12,
+              "text": "How many people are there in Sarah's group?",
+              "options": {
+                "A": "Three.",
+                "B": "Four.",
+                "C": "Five."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 13,
+              "text": "What is the relationship between the speakers?",
+              "options": {
+                "A": "Classmates.",
+                "B": "Fellow workers.",
+                "C": "Teacher and student."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "M: Hey, Jannie. Where are you going?\nW: To the library.\nM: There is a music concert in Victoria Park at 4 o'clock. Do you want to go?\nW: Yes. Professor Darwin's lecture is cancelled. I'm free this evening.\nM: Great. The band plays pretty good music. For the last 3 years, I have never missed it.\nW: How long ago did the band start playing in the park?\nM: I think it was 5 years ago. Every year they arrive in the first week of July and play for a week. You're sure to enjoy this evening. There will be good country music.\nW: My favorite is rock and roll. But I have to say that country music can be quite beautiful sometimes.\nM: I like all kinds of music, especially jazz. Oh Jannie, we have to go now.\nW: Why? There's plenty of time.\nM: Many people are heading to the park. The traffic will be terrible.\nW: All right. But I have to return these books first.\nM: Okay. I'll be waiting for you at the bus station.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How often does the band come to perform in the park?",
+              "options": {
+                "A": "Three times a year.",
+                "B": "Once a year.",
+                "C": "Every other year."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What kind of music will be played this evening?",
+              "options": {
+                "A": "Country music.",
+                "B": "Jazz.",
+                "C": "Rock and roll."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What will Jannie do next?",
+              "options": {
+                "A": "Catch a bus.",
+                "B": "Listen to a lecture.",
+                "C": "Go to the library."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good morning, everyone. This lesson is a part of our leadership series. Let me start by sharing a story of Richard Rochester, one of the most successful businessmen in Britain. Years ago, I was given the task of organizing a conference in the south of England. I chose a five-star hotel owned by Rochester as the venue. Susan, the receptionist, helped me arrange everything perfectly. Once when we were chatting, I asked Susan if she'd ever met Mr. Rochester. She said yes.\nShortly after Mr. Rochester bought the hotel, he made an appointment to see the hotel manager. When he arrived, the first person he met was Susan, who was cleaning the carpet. He chatted with Susan for 30 minutes before keeping his appointment with the manager. He spent all day at the hotel, talking with each member of the staff, from the top guy to the lady who cleaned the toilets. Six months later, Mr. Rochester paid another visit. Susan had been promoted to receptionist, but he recognized her immediately and addressed her by name. He even remembered that she had a little girl and what her name was. Now, I don't believe that Richard Rochester has that good memory. He must have written a lot of notes after his first visit and read them over again before that second visit. It's time-consuming, but it shows the importance he places on human relationships. I think that's one of the secrets of his success.",
+          "questions": [
+            {
+              "no": 17,
+              "text": "Why did the speaker go to the hotel?",
+              "options": {
+                "A": "To deliver a speech.",
+                "B": "To arrange a conference.",
+                "C": "To interview Mr. Rochester."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 18,
+              "text": "What did Mr. Rochester do soon after he bought the hotel?",
+              "options": {
+                "A": "He talked with the staff members.",
+                "B": "He had the old carpets replaced.",
+                "C": "He ran a six-month training project."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What did Susan do when she met Mr. Rochester the second time?",
+              "options": {
+                "A": "She was a cleaner.",
+                "B": "She was a secretary.",
+                "C": "She was a receptionist."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker think is key to Mr. Rochester's success?",
+              "options": {
+                "A": "Managing time efficiently.",
+                "B": "Valuing human relationships.",
+                "C": "Possessing a good memory."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

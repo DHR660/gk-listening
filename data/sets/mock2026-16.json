@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-16",
+  "title": "2026届高三英语听力仿真训练（16）｜科技与AI",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: My new smart speaker keeps playing the wrong music. I ask for light music, and it gives me rock.\nM: Mine did that too. Try saying the song name more slowly, and add the singer's name.\nW: Okay, I'll try that tonight. I really don't want to send it back.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "How will the woman solve her problem?",
+              "options": {
+                "A": "Return the speaker to the shop.",
+                "B": "Buy a newer speaker.",
+                "C": "Try what the man suggested."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: The online AI course is 400 yuan for twelve lessons. Students get twenty-five percent off.\nW: So that's 300 each. My two classmates want to join me. Is there a group price?\nM: Yes. For three or more, it's 280 yuan each.\nW: Great. I'll tell them this afternoon.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How much will the woman pay for the course?",
+              "options": {
+                "A": "280 yuan.",
+                "B": "300 yuan.",
+                "C": "400 yuan."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Mr. Li lets us use our phones to look up words in his class.\nM: Really? I thought phones were banned at school.\nW: They are, except in his class. He says a phone is a tool, not a toy.\nM: Maybe. But I'd check messages every minute and lose focus.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man think of using phones in class?",
+              "options": {
+                "A": "It is a complete waste of time.",
+                "B": "It may take students' attention away.",
+                "C": "It has worked well for him."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: Have you finished the coding task on the learning platform?\nM: Not yet. The video stopped loading halfway, and the deadline is Friday.\nW: The school computer room is open until seven. The network there is much faster.\nM: Then I'll go there after class.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "What does the woman suggest the man do?",
+              "options": {
+                "A": "Use the school computer room.",
+                "B": "Ask for more time.",
+                "C": "Watch the video again at home."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: Hello, is this the Tech Help Desk? My laptop won't connect to the projector in Room 201.\nW: We can send an engineer this afternoon. He is free at three or half past four.\nM: Three would be better. I have to give a presentation at five.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "When will the engineer come?",
+              "options": {
+                "A": "At 4:30.",
+                "B": "At 5:00.",
+                "C": "At 3:00."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: Mr. Brown, may I ask you about my history essay?\nM: Of course, Lucy. You look worried.\nW: I've spent two evenings on it, and now I don't trust a single sentence.\nM: Tell me what happened.\nW: I used an AI writing tool to improve my grammar. Now the essay sounds nothing like me, and my friend says it's cheating.\nM: Using it to check grammar is fine. But the ideas and most of the sentences should be yours. I'd rather see your own voice, even with a few small mistakes.\nW: It also suggested new sentences for two paragraphs.\nM: Then rewrite those two paragraphs yourself. Plain words of your own will sound more honest.\nW: Should I start again, then?\nM: Not from the beginning. Keep your research. Rewrite them, and bring the essay to me on Thursday.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "What did the woman use the AI tool for?",
+              "options": {
+                "A": "To choose a topic.",
+                "B": "To improve grammar and sentences.",
+                "C": "To translate the essay."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 7,
+              "text": "What does Mr. Brown advise the woman to do?",
+              "options": {
+                "A": "Rewrite the changed parts in her own words.",
+                "B": "Start the whole essay again.",
+                "C": "Stop using AI for any purpose."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: How was your first online maths class?\nM: Surprising, actually. The teacher, Ms. Chen, writes on a screen and we can see it live. We answer by typing in a chat box.\nW: Doesn't that make it easy to hide? Nobody knows if you are listening.\nM: That's what I thought. But she calls on us at random, and we have to explain our answers out loud.\nW: That would make me nervous.\nM: It did at first.\nW: Sounds tiring.\nM: It is. Still, I understand more than in my old class, because I can replay the recording afterwards.\nW: What about homework?\nM: Five questions, posted before the next class.\nW: How long does the class last?\nM: An hour and a half, with a ten-minute break in the middle. Honestly, it goes fast.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "How do the students answer in class?",
+              "options": {
+                "A": "By writing on the screen.",
+                "B": "By sending emails to the teacher.",
+                "C": "By typing in a chat box or speaking aloud."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 9,
+              "text": "What does the man think of the online class?",
+              "options": {
+                "A": "It helps him understand better.",
+                "B": "It is too easy for him.",
+                "C": "It takes up too much of his time."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 10,
+              "text": "How long does each class last?",
+              "options": {
+                "A": "60 minutes.",
+                "B": "90 minutes.",
+                "C": "100 minutes."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Did you read the notice? From next month, phones must stay in lockers during school hours.\nM: All day? What if my parents need to reach me?\nW: The office said parents can call the school, and messages are passed on. There are phones by the school gate too.\nM: I still think it's too strict. We use our phones for dictionaries and for checking bus times.\nW: The notice says a teacher may allow phones in class for a task, if it is written in the lesson plan.\nM: Then it isn't really a ban. But a locker all day... I'd worry about forgetting the code.\nW: You can write it on your hand. And I heard the head teacher wants students to vote on the rule next term.\nM: Good. I'll read the notice carefully tonight.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What will happen to phones during school hours?",
+              "options": {
+                "A": "They must be kept in lockers.",
+                "B": "They must be handed to teachers.",
+                "C": "They can be used in every class."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How can parents reach their children?",
+              "options": {
+                "A": "By visiting the classroom.",
+                "B": "By putting a note in the locker.",
+                "C": "By calling the school office."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What is the man worried about?",
+              "options": {
+                "A": "Missing the school bus.",
+                "B": "Forgetting the code for his locker.",
+                "C": "Being late for his classes."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Mr. Wang, your team has built a translation app for museums. How does it work?\nM: A visitor points a phone at a sign, and the app reads it aloud in another language. It also explains the history behind an object.\nW: Is it as good as a human guide?\nM: Not yet. It knows facts, but it cannot read a visitor's mood. If someone looks tired, a guide shortens the talk. The app will not.\nW: What surprised you in the tests?\nM: How many older visitors used it. We expected young people. In fact, half of our users were over sixty.\nW: Will it be free?\nM: The basic tour is free in city museums. For special exhibitions there may be a small fee, perhaps ten yuan.\nW: When can we try it?\nM: Three museums in March, more in the summer.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What can the app do?",
+              "options": {
+                "A": "Book museum tickets.",
+                "B": "Read signs aloud in other languages.",
+                "C": "Take photos of visitors."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "How is the app weaker than a human guide?",
+              "options": {
+                "A": "It cannot explain historical facts.",
+                "B": "It works in only one language.",
+                "C": "It cannot respond to visitors' feelings."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 16,
+              "text": "What surprised Mr. Wang during the tests?",
+              "options": {
+                "A": "Many older visitors used the app.",
+                "B": "Young visitors disliked the app.",
+                "C": "Museums refused to join the project."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 17,
+              "text": "How much may a special exhibition tour cost?",
+              "options": {
+                "A": "Nothing.",
+                "B": "Ten yuan.",
+                "C": "Sixty yuan."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Good morning, everyone. I'm Lin Tao from the science club. Next Friday we will hold our first Robot Day in the school hall. Twelve teams will show what they have built this term. Some robots can clean a table; one can even water plants when the soil is dry. The youngest member is a Grade 8 student, and her robot draws a portrait in two minutes. Visitors may try the robots, but please do not touch their batteries. We also need helpers. If you speak clearly and enjoy explaining things, come to Room 305 at four o'clock on Wednesday for a short training. The event begins at nine and ends at half past eleven. Tickets are free, but you must sign up online before Thursday, because the hall holds only three hundred people.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Who is the speaker?",
+              "options": {
+                "A": "A science teacher.",
+                "B": "A robot designer from a company.",
+                "C": "A student in the science club."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 19,
+              "text": "What are visitors asked not to do?",
+              "options": {
+                "A": "Take photos of the robots.",
+                "B": "Sign up for the event online.",
+                "C": "Touch the robots' batteries."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "When does Robot Day begin?",
+              "options": {
+                "A": "At nine in the morning.",
+                "B": "At half past eleven.",
+                "C": "At four in the afternoon."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "gk2023-xkb1",
+  "title": "2023年普通高等学校招生全国统一考试 英语听力（新课标Ⅰ卷）",
+  "exam": "新课标Ⅰ卷",
+  "year": 2023,
+  "source": "https://zy.21cnjy.com/23299235",
+  "answerSource": "https://zy.21cnjy.com/23299235",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "2023年新课标Ⅱ卷听力与本卷相同（试题、答案、Text 1-10 原文逐字一致，已核对 https://zy.21cnjy.com/23299236 ），故只产出本文件。原卷第一节（Text 1-5）每段对话仅读一遍，第二节（Text 6-10）每段读两遍。答案速查：1-5 CABBC；6-10 CBABC；11-15 ACABA；16-20 CCABA。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 1,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Jack, are you going camping with your friends this weekend?\nM: It depends. If it's sunny, we'll go.\nW: The weatherman says it's going to rain.\nM: In that case, we'll go to the cinema instead.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What will Jack probably do this weekend?",
+              "options": {
+                "A": "Go camping.",
+                "B": "Visit a friend.",
+                "C": "Watch a film."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "W: Excuse me, could you mind my bags for a moment? I want to buy some food at the convenience store.\nM: No problem. But be quick. It was announced that my train would arrive in 10 minutes.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "What does the woman ask the man to do?",
+              "options": {
+                "A": "Take care of her bags.",
+                "B": "Pack the food for her.",
+                "C": "Check the train schedule."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: Bob came out of hospital last Friday. Have you got a chance to visit him?\nM: I plan to see him this Saturday.\nW: Aren't you going to the conference then?\nM: No. It has been rescheduled for next Monday.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "When will the man see Bob?",
+              "options": {
+                "A": "This Friday.",
+                "B": "This Saturday.",
+                "C": "Next Monday."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "M: Sorry, Miss. We made a terrible mistake adding up the bill. Here is the ten dollars we have to return to you.\nW: Oh, I didn't notice that. It's OK. Don't blame the waiter. He's been really nice.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "Why does the man apologise?",
+              "options": {
+                "A": "For the terrible food.",
+                "B": "For the overcharge.",
+                "C": "For the waiter's rudeness."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "W: Do you think we should get Steve a book for the new year?\nM: Books are good. But Steve wouldn't take just any book. He has had this particular one on geography.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "What are the speakers talking about?",
+              "options": {
+                "A": "Writing a book.",
+                "B": "Holding a celebration.",
+                "C": "Buying a present."
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "M: Hello, Sara.\nW: Hello, David. I can't come for dinner tonight. Sorry.\nM: Oh, what happened?\nW: We've got a new case and things get pretty crazy here in the office.\nM: Well, then I'll come to you.\nW: No, no, not tonight. Let me see if I can arrange another night.\nM: Sara, please. We need to talk. It's about my job.\nW: Then tell me on the phone.\nM: No, it's better if we do it in person. How about tomorrow night?\nW: I'm not sure. You can give me a call tomorrow afternoon.\nM: OK.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Why does Sara make the phone call?",
+              "options": {
+                "A": "To ask for advice.",
+                "B": "To arrange an outing.",
+                "C": "To cancel an appointment."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "What does David want to do?",
+              "options": {
+                "A": "Go to a dinner party.",
+                "B": "Talk to Sara in person.",
+                "C": "Work on the new case."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Jim will call on us this afternoon. Do you know where he is now?\nM: Er... wait. Let me see. He has sent two messages saying that he's done with his work at the office and got a taxi and... and he'll arrive in twenty minutes.\nW: We can't keep him waiting outside our home. We have to hurry.\nM: But it takes at least half an hour to get to the city centre by bus. Look at the traffic.\nW: Let's get off. We can save at least twenty minutes by walking through the park.\nM: Are you sure?\nW: Yes. A hundred percent.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "Where is Jim now?",
+              "options": {
+                "A": "In a taxi.",
+                "B": "On a bus.",
+                "C": "In his office."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What is the woman's suggestion?",
+              "options": {
+                "A": "Going to the city centre.",
+                "B": "Taking a shortcut home.",
+                "C": "Meeting Jim in the park."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Morning, Mark.\nM: Morning, Clara. How was your weekend?\nW: Great. I went to my grandpa's. He invited us to pick vegetables on his farm. My daughter had a great time there. What about you?\nM: Oh, I had a truly incredible experience. I dropped by a yard sale on Saturday and got several books.\nW: Novels?\nM: A novel and two poetry collections. As I leafed through the novel, a piece of paper fell out. It was an air ticket from 2012. The flight was from Los Angeles to Chicago and the name on the ticket was Ashley Louis.\nW: Was it?\nM: Yes. Ashley, my sister. In 2012, she lived in Los Angeles and her husband worked in Chicago. Both of them often flew between two cities. I asked the seller where he got the book. He said it was bought at a second-hand bookstore in Los Angeles three years ago. Last year, he and his family moved from Los Angeles to Philadelphia.\nW: So, all the way across the country, your sister's old book landed in your hands. That's really crazy.",
+          "questions": [
+            {
+              "no": 10,
+              "text": "What did Clara do at the weekend?",
+              "options": {
+                "A": "She planted vegetables.",
+                "B": "She went to a yard sale.",
+                "C": "She visited her grandpa."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 11,
+              "text": "What did Mark find inside one of the books he bought?",
+              "options": {
+                "A": "A plane ticket.",
+                "B": "A family photo.",
+                "C": "A postcard."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "Where does Mark live?",
+              "options": {
+                "A": "Los Angeles.",
+                "B": "Chicago.",
+                "C": "Philadelphia."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What is the relationship between Mark and Ashley?",
+              "options": {
+                "A": "Brother and sister.",
+                "B": "Husband and wife.",
+                "C": "Father and daughter."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Victor, you've been here in Indiana for six weeks now. How are you feeling?\nM: I think I've got used to college life, going to classes, working out and hanging out with my friends. Though there's pressure to meet deadlines, life here is never boring.\nW: What's been hard about being an Indianan basketball player?\nM: Well, the training is very competitive, weightlifting and running every day. It's not like high school. In high school, I really didn't have to do that. I'm just trying to get used to it. And I think I am.\nW: At this point, how do you see yourself fitting into this group?\nM: I think we're all different. George is from Britain. Chris and Leo are from Australia. I'm from France. And the rest are Americans. But I get along with everybody. You know, we are really starting to bond. It's great to see how we grow each day as a team.\nW: Thanks, Victor. I wish you a very happy and fruitful stay in Indiana.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "What is probably the woman?",
+              "options": {
+                "A": "A teacher.",
+                "B": "A journalist.",
+                "C": "An athlete."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "What does Victor find difficult as a member of the basketball team?",
+              "options": {
+                "A": "Adapting himself to the intense training.",
+                "B": "Dealing with the pressure from the coach.",
+                "C": "Regaining the skills learned in high school."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 16,
+              "text": "What does Victor say about the players on the team?",
+              "options": {
+                "A": "They are of the same age.",
+                "B": "They are similar in character.",
+                "C": "They are from different countries."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "How does Victor feel about his team now?",
+              "options": {
+                "A": "It's about to break up.",
+                "B": "It's the best in Indiana.",
+                "C": "It's getting stronger."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "W: Good evening, dear listeners. When was the last time you enjoyed leisure activities? Do you want to live a full and happy life? Today, I'm going to introduce to you a magazine that features the art of living. The Idler was launched by Tom Hodgkinson, back in 1993. With the intention of providing a bit of fun, freedom and achievement in the busy world, it is now published bimonthly. In every issue, you will find an interesting mix of interviews and essays on the good life, history, philosophy, arts and fashion photography. You will find much to laugh at and much useful stuff as well, from recipes for making bacon to guides to housekeeping. If you ever felt that there is more to life than boring jobs, then why not subscribe to it? The Idler is a cheering read that makes you feel better about life. You can download the application and subscribe today to get your first issue free.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "Who is Tom Hodgkinson?",
+              "options": {
+                "A": "Founder of a magazine.",
+                "B": "Publisher of a novel.",
+                "C": "Editor of a newspaper."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What do we know about the content of The Idler?",
+              "options": {
+                "A": "It's old-fashioned.",
+                "B": "It's wide-ranging.",
+                "C": "It's student-targeted."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 20,
+              "text": "Why does the speaker give the talk?",
+              "options": {
+                "A": "To do a promotion.",
+                "B": "To discuss an issue.",
+                "C": "To introduce a lecturer."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

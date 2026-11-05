@@ -1,0 +1,298 @@
+{
+  "id": "mock2026-18",
+  "title": "2026届高三英语听力仿真训练（18）｜传统文化",
+  "exam": "模拟卷",
+  "year": 2026,
+  "source": "",
+  "durationSec": 1200,
+  "scorePerQuestion": 1.5,
+  "note": "原创仿真训练，按 2026 高考听力题型编写（第一节、第二节均播放两遍）。",
+  "sections": [
+    {
+      "id": "sec1",
+      "name": "第一节",
+      "plays": 2,
+      "desc": "听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话读两遍。",
+      "materials": [
+        {
+          "id": "m1",
+          "label": "第1段材料",
+          "transcript": "W: Is the calligraphy class still on Thursday evening?\nM: It moved to Friday, and it's in the art room now, not the library.\nW: What should I bring? I only have a brush.\nM: Bring your own ink and paper. The school provides the desk mats.",
+          "questions": [
+            {
+              "no": 1,
+              "text": "What should the woman bring?",
+              "options": {
+                "A": "A brush and a desk mat.",
+                "B": "A book about calligraphy.",
+                "C": "Ink and paper."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "label": "第2段材料",
+          "transcript": "M: This jasmine tea is sixty yuan for one hundred grams.\nW: I'd like three hundred grams, please. Do I pay extra for the tin?\nM: The tin is twenty yuan, but it's free when you buy three hundred grams.\nW: Then three hundred grams, please. It's a gift for my teacher.",
+          "questions": [
+            {
+              "no": 2,
+              "text": "How much will the woman pay?",
+              "options": {
+                "A": "180 yuan.",
+                "B": "200 yuan.",
+                "C": "60 yuan."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m3",
+          "label": "第3段材料",
+          "transcript": "W: I've signed up for a calligraphy course. My handwriting is terrible.\nM: I don't think that matters. Most people go there for the calm, not for perfect characters.\nW: Still, the teacher says I hold the brush wrong.\nM: Everyone does at first. Give it a month.",
+          "questions": [
+            {
+              "no": 3,
+              "text": "What does the man think of the woman's handwriting?",
+              "options": {
+                "A": "It is too poor to improve.",
+                "B": "It is not the main point.",
+                "C": "It needs daily practice."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "label": "第4段材料",
+          "transcript": "W: The tea culture show at the museum closes on Sunday. Shall we go?\nM: I'm busy on Saturday. What about Sunday morning?\nW: It opens at nine, and there's a free talk at ten.\nM: Then let's meet at the gate at half past nine so we don't miss it.",
+          "questions": [
+            {
+              "no": 4,
+              "text": "When will the speakers meet on Sunday?",
+              "options": {
+                "A": "At 9:00.",
+                "B": "At 10:00.",
+                "C": "At 9:30."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m5",
+          "label": "第5段材料",
+          "transcript": "M: The train to Suzhou leaves at nine twenty and takes fifty minutes.\nW: Then we'd be there before ten fifteen, in time for the tea workshop.\nM: The workshop starts at ten thirty, so let's take the earlier train, at eight fifty-five.\nW: Fine, but we must leave home by eight.",
+          "questions": [
+            {
+              "no": 5,
+              "text": "Which train will the speakers take?",
+              "options": {
+                "A": "The 8:55 one.",
+                "B": "The 9:20 one.",
+                "C": "The 10:15 one."
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec2",
+      "name": "第二节",
+      "plays": 2,
+      "desc": "听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题将给出5秒钟的作答时间。每段对话或独白读两遍。",
+      "materials": [
+        {
+          "id": "m6",
+          "label": "第6段材料",
+          "transcript": "W: I'd like two tickets to Xi'an on the morning of the third.\nM: The eight o'clock train is full. The nine forty has seats, but only in second class.\nW: How long does that one take?\nM: Five hours and twenty minutes. The eleven o'clock is faster, four and a half hours.\nW: Then we'd arrive at half past three. Let's take first class on that one.\nM: Window or aisle?\nW: Two window seats, please. Do we need paper tickets?\nM: No. Your ID card opens the gate. There's a dining car on the train.\nW: How much are the two tickets?\nM: Six hundred and twenty yuan each.\nW: And can I change the date if something comes up?\nM: Once, free of charge, up to two hours before departure.",
+          "questions": [
+            {
+              "no": 6,
+              "text": "Which train will the woman book?",
+              "options": {
+                "A": "The 8:00 one.",
+                "B": "The 9:40 one.",
+                "C": "The 11:00 one."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 7,
+              "text": "How will the woman get through the station gate?",
+              "options": {
+                "A": "With paper tickets.",
+                "B": "With her ID card.",
+                "C": "With a code on her phone."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m7",
+          "label": "第7段材料",
+          "transcript": "W: Mr. Han, my characters still look uneven after three months.\nM: Let me see. Your brush moves too fast at the end of each stroke. Slow down and stop for a moment before you lift it.\nW: The teacher at my old school told me to write faster.\nM: Speed comes later. First the shape, then the speed. Copy this page slowly, a little every day. Ten minutes at the start is enough.\nW: A little? I thought I had to fill ten pages tonight.\nM: Half an hour a day for a week is better than five hours tonight. And keep the paper straight.\nW: I'll try. Can I use the ink on the shelf?\nM: Yes, but clean the brush before it dries. A dry brush loses its shape.",
+          "questions": [
+            {
+              "no": 8,
+              "text": "What is the woman's problem?",
+              "options": {
+                "A": "Her characters are uneven.",
+                "B": "She has run out of paper.",
+                "C": "She started too late."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 9,
+              "text": "What does Mr. Han advise the woman to do?",
+              "options": {
+                "A": "Write as fast as she can.",
+                "B": "Practise a little every day.",
+                "C": "Fill ten pages tonight."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 10,
+              "text": "What should be done with the brush?",
+              "options": {
+                "A": "Buy a new one.",
+                "B": "Keep it in the ink.",
+                "C": "Clean it before it dries."
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "m8",
+          "label": "第8段材料",
+          "transcript": "W: Welcome to our tea house. Today we are trying green tea from Hangzhou.\nM: I've never made tea like this. What temperature should the water be?\nW: Not boiling. Around eighty degrees. Boiling water makes green tea bitter.\nM: How long do the leaves stay in the cup?\nW: About one minute for the first cup. Then you can add water two or three more times.\nM: Should I heat the water in a pot or use a machine?\nW: Either way works. Just pour it gently along the side of the cup.\nM: My grandmother always used a glass, and she never measured anything.\nW: That's the traditional way too. Many families drink tea all day, but they change the leaves.\nM: Does the taste change?\nW: Yes, the second cup is softer. Some people prefer it.",
+          "questions": [
+            {
+              "no": 11,
+              "text": "What water temperature is recommended?",
+              "options": {
+                "A": "About 80 degrees.",
+                "B": "About 100 degrees.",
+                "C": "About 60 degrees."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 12,
+              "text": "How many more times can water be added to the same leaves?",
+              "options": {
+                "A": "Only once.",
+                "B": "As many times as you like.",
+                "C": "Two or three more times."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 13,
+              "text": "What does the woman say about the second cup?",
+              "options": {
+                "A": "It tastes softer.",
+                "B": "It is too bitter.",
+                "C": "It has lost its colour."
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "id": "m9",
+          "label": "第9段材料",
+          "transcript": "W: Mr. Liu, your family has farmed here for four generations. Do you still follow the solar terms?\nM: Every day. There are twenty-four, and each tells us what to do next.\nW: Which one matters most to you?\nM: Grain in Ear, in early June. That's when we cut the wheat and plant the rice in the same week. Miss it and the season is lost.\nW: Young people read weather on their phones. Is the old calendar useless now?\nM: Not useless. The phone says rain tomorrow; the solar term says what to plant this month. They answer different questions.\nW: Has the calendar changed with the climate?\nM: A little. Spring now comes a week earlier than when I was a boy, so we sow earlier. But the order stays the same.\nW: Will your son take over?\nM: He works in the city, but he comes back in June to help. He wants his children to know where rice comes from.",
+          "questions": [
+            {
+              "no": 14,
+              "text": "How many solar terms are there?",
+              "options": {
+                "A": "12.",
+                "B": "24.",
+                "C": "4."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 15,
+              "text": "Which solar term matters most to Mr. Liu?",
+              "options": {
+                "A": "Start of Spring.",
+                "B": "Grain in Ear.",
+                "C": "White Dew."
+              },
+              "answer": "B"
+            },
+            {
+              "no": 16,
+              "text": "How does Mr. Liu feel about weather apps?",
+              "options": {
+                "A": "They are completely useless.",
+                "B": "They tell him when to plant.",
+                "C": "They answer a different question."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 17,
+              "text": "What does Mr. Liu say about his son?",
+              "options": {
+                "A": "He has given up farming.",
+                "B": "He comes back in June to help.",
+                "C": "He lives in another country."
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "m10",
+          "label": "第10段材料",
+          "transcript": "Last weekend my family took the high-speed train to Suzhou. We left at nine in the morning and arrived in forty minutes, faster than my bus to school. My father booked the seats on his phone, and we got on with our ID cards. In Suzhou we visited a small tea garden, where an old woman showed us how to pick the top two leaves. She said the best tea is picked before the morning sun is strong. In the afternoon we joined a calligraphy class in an old house. I wrote my name eight times, and the teacher kept only the last one, which he said had some life in it. We came back at seven in the evening, tired but happy. Next time I want to stay two nights.",
+          "questions": [
+            {
+              "no": 18,
+              "text": "How long did the train journey take?",
+              "options": {
+                "A": "Forty minutes.",
+                "B": "Two hours.",
+                "C": "Seven hours."
+              },
+              "answer": "A"
+            },
+            {
+              "no": 19,
+              "text": "What did the old woman show the family?",
+              "options": {
+                "A": "How to make tea cups.",
+                "B": "How to hang a painting.",
+                "C": "How to pick tea leaves."
+              },
+              "answer": "C"
+            },
+            {
+              "no": 20,
+              "text": "What does the speaker want to do next time?",
+              "options": {
+                "A": "Fly to Suzhou.",
+                "B": "Stay for two nights.",
+                "C": "Take the bus."
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
